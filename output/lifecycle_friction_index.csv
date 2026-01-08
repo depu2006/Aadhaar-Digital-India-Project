@@ -1,0 +1,3045 @@
+state,district,date,lifecycle_friction_score,friction_level
+100000,100000,2025-09-30,0.0,Low
+100000,100000,2025-10-31,0.0,Low
+Andaman & Nicobar Islands,Andamans,2025-09-30,7.770370370370371,High
+Andaman & Nicobar Islands,Andamans,2025-10-31,0.6666666666666667,High
+Andaman & Nicobar Islands,Nicobar,2025-09-30,3.348936170212766,High
+Andaman & Nicobar Islands,Nicobar,2025-10-31,0.34285714285714286,High
+Andaman & Nicobar Islands,Nicobars,2025-09-30,0.6,High
+Andaman & Nicobar Islands,North & Middle Andaman,2025-09-30,11.645,High
+Andaman & Nicobar Islands,North & Middle Andaman,2025-10-31,0.8,High
+Andaman & Nicobar Islands,South Andaman,2025-09-30,12.202739726027396,High
+Andaman & Nicobar Islands,South Andaman,2025-10-31,0.6344827586206897,High
+Andhra Pradesh,Adilabad,2025-09-30,7.835779816513762,High
+Andhra Pradesh,Adilabad,2025-10-31,2.085024154589372,High
+Andhra Pradesh,Alluri Sitharama Raju,2025-09-30,2.7085271317829456,High
+Andhra Pradesh,Alluri Sitharama Raju,2025-10-31,0.8704761904761904,High
+Andhra Pradesh,Anakapalli,2025-09-30,2.9866666666666664,High
+Andhra Pradesh,Anakapalli,2025-10-31,1.3846153846153848,High
+Andhra Pradesh,Anantapur,2025-09-30,3.2919308357348704,High
+Andhra Pradesh,Anantapur,2025-10-31,1.3224358974358976,High
+Andhra Pradesh,Ananthapur,2025-09-30,3.9898423817863398,High
+Andhra Pradesh,Ananthapur,2025-10-31,1.4892508143322476,High
+Andhra Pradesh,Ananthapuramu,2025-09-30,2.827338129496403,High
+Andhra Pradesh,Ananthapuramu,2025-10-31,1.0147971360381862,High
+Andhra Pradesh,Annamayya,2025-09-30,2.2065359477124185,High
+Andhra Pradesh,Annamayya,2025-10-31,2.511111111111111,High
+Andhra Pradesh,Bapatla,2025-09-30,3.107462686567164,High
+Andhra Pradesh,Bapatla,2025-10-31,1.250632911392405,High
+Andhra Pradesh,Chittoor,2025-09-30,3.6346811819595644,High
+Andhra Pradesh,Chittoor,2025-10-31,1.1556331877729258,High
+Andhra Pradesh,Cuddapah,2025-09-30,3.6979686593151477,High
+Andhra Pradesh,Cuddapah,2025-10-31,1.1871116225546607,High
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,2025-09-30,2.610909090909091,High
+Andhra Pradesh,Dr. B. R. Ambedkar Konaseema,2025-10-31,1.8047619047619048,High
+Andhra Pradesh,East Godavari,2025-09-30,4.7169796244506585,High
+Andhra Pradesh,East Godavari,2025-10-31,1.1491433724075744,High
+Andhra Pradesh,Eluru,2025-09-30,4.347252747252748,High
+Andhra Pradesh,Eluru,2025-10-31,1.6636363636363638,High
+Andhra Pradesh,Guntur,2025-09-30,3.731513828238719,High
+Andhra Pradesh,Guntur,2025-10-31,1.1625632377740305,High
+Andhra Pradesh,Hyderabad,2025-09-30,4.544064386317907,High
+Andhra Pradesh,Hyderabad,2025-10-31,0.49533678756476685,High
+Andhra Pradesh,K.V.Rangareddy,2025-09-30,4.703448275862068,High
+Andhra Pradesh,K.V.Rangareddy,2025-10-31,0.8400000000000001,High
+Andhra Pradesh,K.v. Rangareddy,2025-09-30,8.057142857142857,High
+Andhra Pradesh,K.v. Rangareddy,2025-10-31,0.34285714285714286,High
+Andhra Pradesh,Kakinada,2025-09-30,3.0324723247232472,High
+Andhra Pradesh,Kakinada,2025-10-31,1.2325,High
+Andhra Pradesh,Karim Nagar,2025-09-30,7.691666666666666,High
+Andhra Pradesh,Karim Nagar,2025-10-31,0.9,High
+Andhra Pradesh,Karimnagar,2025-09-30,7.656000000000001,High
+Andhra Pradesh,Karimnagar,2025-10-31,1.479611650485437,High
+Andhra Pradesh,Khammam,2025-09-30,7.681045751633987,High
+Andhra Pradesh,Khammam,2025-10-31,2.3066666666666666,High
+Andhra Pradesh,Krishna,2025-09-30,4.9410593028519685,High
+Andhra Pradesh,Krishna,2025-10-31,1.1189931350114417,High
+Andhra Pradesh,Kurnool,2025-09-30,3.453835104854927,High
+Andhra Pradesh,Kurnool,2025-10-31,0.6969047619047619,High
+Andhra Pradesh,Mahabub Nagar,2025-09-30,4.042559523809524,High
+Andhra Pradesh,Mahabub Nagar,2025-10-31,0.7461224489795919,High
+Andhra Pradesh,Mahabubnagar,2025-09-30,8.533333333333333,High
+Andhra Pradesh,Mahabubnagar,2025-10-31,1.2000000000000002,High
+Andhra Pradesh,Mahbubnagar,2025-09-30,5.472473867595819,High
+Andhra Pradesh,Mahbubnagar,2025-10-31,1.0984126984126985,High
+Andhra Pradesh,Medak,2025-09-30,4.376727272727273,High
+Andhra Pradesh,Medak,2025-10-31,0.7926605504587156,High
+Andhra Pradesh,N. T. R,2025-09-30,3.9952542372881354,High
+Andhra Pradesh,N. T. R,2025-10-31,2.3333333333333335,High
+Andhra Pradesh,Nalgonda,2025-09-30,7.304132231404958,High
+Andhra Pradesh,Nalgonda,2025-10-31,2.1340314136125658,High
+Andhra Pradesh,Nandyal,2025-09-30,2.684347826086957,High
+Andhra Pradesh,Nandyal,2025-10-31,1.1400000000000001,High
+Andhra Pradesh,Nellore,2025-09-30,3.6276679841897237,High
+Andhra Pradesh,Nellore,2025-10-31,0.926647564469914,High
+Andhra Pradesh,Nizamabad,2025-09-30,4.647179487179487,High
+Andhra Pradesh,Nizamabad,2025-10-31,0.6565217391304348,High
+Andhra Pradesh,Palnadu,2025-09-30,2.0309859154929577,High
+Andhra Pradesh,Palnadu,2025-10-31,1.4055045871559635,High
+Andhra Pradesh,Parvathipuram Manyam,2025-09-30,2.575141242937853,High
+Andhra Pradesh,Parvathipuram Manyam,2025-10-31,0.9876543209876543,High
+Andhra Pradesh,Prakasam,2025-07-31,48.49113924050633,High
+Andhra Pradesh,Prakasam,2025-09-30,3.1628858311640013,High
+Andhra Pradesh,Prakasam,2025-10-31,1.085597548518897,High
+Andhra Pradesh,Rangareddi,2025-09-30,5.922397476340694,High
+Andhra Pradesh,Rangareddi,2025-10-31,0.7112627986348123,High
+Andhra Pradesh,Spsr Nellore,2025-03-31,0.0,Low
+Andhra Pradesh,Spsr Nellore,2025-06-30,0.0,Low
+Andhra Pradesh,Spsr Nellore,2025-07-31,0.0,Low
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2025-09-30,1.4315412186379928,High
+Andhra Pradesh,Sri Potti Sriramulu Nellore,2025-10-31,0.7336405529953918,High
+Andhra Pradesh,Sri Sathya Sai,2025-09-30,2.4486692015209126,High
+Andhra Pradesh,Sri Sathya Sai,2025-10-31,1.5786259541984733,High
+Andhra Pradesh,Srikakulam,2025-09-30,5.164924838940586,High
+Andhra Pradesh,Srikakulam,2025-10-31,1.670049099836334,High
+Andhra Pradesh,Tirupati,2025-09-30,1.3987034035656403,High
+Andhra Pradesh,Tirupati,2025-10-31,1.5338582677165356,High
+Andhra Pradesh,Visakhapatanam,2025-06-30,0.0,Low
+Andhra Pradesh,Visakhapatnam,2025-09-30,5.277851822814583,High
+Andhra Pradesh,Visakhapatnam,2025-10-31,0.9467826086956523,High
+Andhra Pradesh,Vizianagaram,2025-09-30,4.630448222565688,High
+Andhra Pradesh,Vizianagaram,2025-10-31,1.1118518518518519,High
+Andhra Pradesh,Warangal,2025-09-30,12.061696658097686,High
+Andhra Pradesh,Warangal,2025-10-31,1.8062500000000001,High
+Andhra Pradesh,West Godavari,2025-09-30,4.628728179551122,High
+Andhra Pradesh,West Godavari,2025-10-31,1.0727762803234502,High
+Andhra Pradesh,Y. S. R,2025-09-30,2.9243027888446216,High
+Andhra Pradesh,Y. S. R,2025-10-31,1.3955555555555557,High
+Arunachal Pradesh,Anjaw,2025-09-30,3.7047619047619045,High
+Arunachal Pradesh,Anjaw,2025-10-31,4.800000000000001,High
+Arunachal Pradesh,Changlang,2025-09-30,2.56037296037296,High
+Arunachal Pradesh,Changlang,2025-10-31,0.3703703703703704,High
+Arunachal Pradesh,Dibang Valley,2025-09-30,4.65,High
+Arunachal Pradesh,Dibang Valley,2025-10-31,0.26666666666666666,High
+Arunachal Pradesh,East Kameng,2025-09-30,7.273684210526316,High
+Arunachal Pradesh,East Kameng,2025-10-31,0.9793103448275862,High
+Arunachal Pradesh,East Siang,2025-09-30,3.9178571428571427,High
+Arunachal Pradesh,East Siang,2025-10-31,3.16,High
+Arunachal Pradesh,Kamle,2025-09-30,2.6500000000000004,High
+Arunachal Pradesh,Kamle,2025-10-31,0.0,Low
+Arunachal Pradesh,Kra Daadi,2025-09-30,2.552941176470588,High
+Arunachal Pradesh,Kra Daadi,2025-10-31,0.24615384615384617,High
+Arunachal Pradesh,Kurung Kumey,2025-09-30,6.953846153846154,High
+Arunachal Pradesh,Kurung Kumey,2025-10-31,1.2400000000000002,High
+Arunachal Pradesh,Leparada,2025-09-30,2.5999999999999996,High
+Arunachal Pradesh,Lohit,2025-09-30,5.75,High
+Arunachal Pradesh,Lohit,2025-10-31,1.0476190476190477,High
+Arunachal Pradesh,Longding,2025-07-31,0.5057356608478802,High
+Arunachal Pradesh,Longding,2025-09-30,0.86,High
+Arunachal Pradesh,Longding,2025-10-31,0.17777777777777778,High
+Arunachal Pradesh,Lower Dibang Valley,2025-09-30,3.8093023255813954,High
+Arunachal Pradesh,Lower Dibang Valley,2025-10-31,1.0736842105263158,High
+Arunachal Pradesh,Lower Siang,2025-09-30,3.25,High
+Arunachal Pradesh,Lower Siang,2025-10-31,0.6666666666666667,High
+Arunachal Pradesh,Lower Subansiri,2025-09-30,5.540909090909091,High
+Arunachal Pradesh,Lower Subansiri,2025-10-31,1.2000000000000002,High
+Arunachal Pradesh,Namsai,2025-09-30,5.0131147540983605,High
+Arunachal Pradesh,Namsai,2025-10-31,0.5866666666666667,High
+Arunachal Pradesh,Pakke Kessang,2025-09-30,8.8,High
+Arunachal Pradesh,Pakke Kessang,2025-10-31,1.2000000000000002,High
+Arunachal Pradesh,Papum Pare,2025-09-30,5.418867924528302,High
+Arunachal Pradesh,Papum Pare,2025-10-31,0.6588235294117647,High
+Arunachal Pradesh,Shi-yomi,2025-09-30,3.9200000000000004,High
+Arunachal Pradesh,Shi-yomi,2025-10-31,3.8000000000000003,High
+Arunachal Pradesh,Siang,2025-09-30,1.2351351351351352,High
+Arunachal Pradesh,Siang,2025-10-31,0.32000000000000006,High
+Arunachal Pradesh,Tawang,2025-09-30,1.602857142857143,High
+Arunachal Pradesh,Tawang,2025-10-31,0.9894736842105264,High
+Arunachal Pradesh,Tirap,2025-09-30,4.838461538461538,High
+Arunachal Pradesh,Tirap,2025-10-31,1.3142857142857143,High
+Arunachal Pradesh,Upper Siang,2025-09-30,9.813333333333334,High
+Arunachal Pradesh,Upper Siang,2025-10-31,3.2,High
+Arunachal Pradesh,Upper Subansiri,2025-09-30,4.6,High
+Arunachal Pradesh,Upper Subansiri,2025-10-31,0.4,High
+Arunachal Pradesh,West Kameng,2025-07-31,4.272289156626505,High
+Arunachal Pradesh,West Kameng,2025-09-30,4.870731707317073,High
+Arunachal Pradesh,West Kameng,2025-10-31,0.9764705882352942,High
+Arunachal Pradesh,West Siang,2025-09-30,6.195,High
+Arunachal Pradesh,West Siang,2025-10-31,0.6451612903225806,High
+Assam,Bajali,2025-09-30,3.216666666666667,High
+Assam,Bajali,2025-10-31,3.6,High
+Assam,Baksa,2025-03-31,49.315789473684205,High
+Assam,Baksa,2025-04-30,1.7098330241187383,High
+Assam,Baksa,2025-05-31,14.590243902439024,High
+Assam,Baksa,2025-06-30,13.153846153846153,High
+Assam,Baksa,2025-07-31,3.8127272727272725,High
+Assam,Baksa,2025-09-30,1.3901269393511988,High
+Assam,Baksa,2025-10-31,0.48510638297872344,High
+Assam,Barpeta,2025-03-31,119.95294117647059,High
+Assam,Barpeta,2025-04-30,33.40186046511628,High
+Assam,Barpeta,2025-05-31,33.35737704918033,High
+Assam,Barpeta,2025-06-30,3.8534351145038164,High
+Assam,Barpeta,2025-07-31,0.8954659375712006,High
+Assam,Barpeta,2025-09-30,2.064235548352242,High
+Assam,Barpeta,2025-10-31,0.5664639443961773,High
+Assam,Biswanath,2025-04-30,4.2863999999999995,High
+Assam,Biswanath,2025-09-30,2.541839762611276,High
+Assam,Biswanath,2025-10-31,1.1474452554744525,High
+Assam,Bongaigaon,2025-03-31,48.16404494382023,High
+Assam,Bongaigaon,2025-04-30,11.008672086720868,High
+Assam,Bongaigaon,2025-05-31,11.94578313253012,High
+Assam,Bongaigaon,2025-06-30,24.63934426229508,High
+Assam,Bongaigaon,2025-07-31,9.239603960396039,High
+Assam,Bongaigaon,2025-09-30,2.3851276359600444,High
+Assam,Bongaigaon,2025-10-31,0.9078125,High
+Assam,Cachar,2025-04-30,4.238787185354691,High
+Assam,Cachar,2025-06-30,1.6404411764705882,High
+Assam,Cachar,2025-07-31,0.8277200749191214,High
+Assam,Cachar,2025-09-30,1.8106843777071902,High
+Assam,Cachar,2025-10-31,0.6708904109589042,High
+Assam,Charaideo,2025-04-30,1.083934426229508,High
+Assam,Charaideo,2025-05-31,7.116,High
+Assam,Charaideo,2025-09-30,4.28494983277592,High
+Assam,Charaideo,2025-10-31,1.3333333333333335,High
+Assam,Chirang,2025-03-31,25.97857142857143,High
+Assam,Chirang,2025-04-30,3.4179894179894177,High
+Assam,Chirang,2025-07-31,1.0368220015278837,High
+Assam,Chirang,2025-09-30,1.8900195694716242,High
+Assam,Chirang,2025-10-31,1.2253521126760565,High
+Assam,Darrang,2025-04-30,2.320727848101266,High
+Assam,Darrang,2025-05-31,3.1058035714285714,High
+Assam,Darrang,2025-06-30,12.948979591836734,High
+Assam,Darrang,2025-07-31,6.653696498054474,High
+Assam,Darrang,2025-09-30,1.3391255605381165,High
+Assam,Darrang,2025-10-31,0.3309041835357625,High
+Assam,Dhemaji,2025-03-31,32.19294117647059,High
+Assam,Dhemaji,2025-04-30,3.204914004914005,High
+Assam,Dhemaji,2025-05-31,1.7390862944162437,High
+Assam,Dhemaji,2025-06-30,2.7284810126582277,High
+Assam,Dhemaji,2025-07-31,0.49527186761229314,High
+Assam,Dhemaji,2025-09-30,2.3041942604856516,High
+Assam,Dhemaji,2025-10-31,0.5128404669260701,High
+Assam,Dhubri,2025-03-31,16.465384615384615,High
+Assam,Dhubri,2025-04-30,3.8151270207852193,High
+Assam,Dhubri,2025-06-30,4.829357798165137,High
+Assam,Dhubri,2025-07-31,4.450587172538392,High
+Assam,Dhubri,2025-09-30,1.4342648211021154,High
+Assam,Dhubri,2025-10-31,0.41938046068308177,High
+Assam,Dibrugarh,2025-03-31,80.37222222222222,High
+Assam,Dibrugarh,2025-04-30,5.994163424124514,High
+Assam,Dibrugarh,2025-05-31,4.6031249999999995,High
+Assam,Dibrugarh,2025-06-30,2.295845697329377,High
+Assam,Dibrugarh,2025-07-31,0.9140096618357488,High
+Assam,Dibrugarh,2025-09-30,2.566930693069307,High
+Assam,Dibrugarh,2025-10-31,0.727927927927928,High
+Assam,Dima Hasao,2025-06-30,0.0,Low
+Assam,Dima Hasao,2025-07-31,0.0,Low
+Assam,Dima Hasao,2025-09-30,0.6615384615384616,High
+Assam,Dima Hasao,2025-10-31,0.5,High
+Assam,Goalpara,2025-04-30,1.7969072164948454,High
+Assam,Goalpara,2025-05-31,1.4765685019206145,High
+Assam,Goalpara,2025-06-30,14.264999999999999,High
+Assam,Goalpara,2025-07-31,0.7359558316080056,High
+Assam,Goalpara,2025-09-30,1.2104283054003724,High
+Assam,Goalpara,2025-10-31,0.537649063032368,High
+Assam,Golaghat,2025-04-30,0.9759274525968672,High
+Assam,Golaghat,2025-05-31,0.5130434782608696,High
+Assam,Golaghat,2025-06-30,0.7750197628458498,High
+Assam,Golaghat,2025-07-31,0.3791294321130008,High
+Assam,Golaghat,2025-09-30,1.465686274509804,High
+Assam,Golaghat,2025-10-31,0.7895238095238096,High
+Assam,Hailakandi,2025-04-30,2.134341252699784,High
+Assam,Hailakandi,2025-07-31,2.58503937007874,High
+Assam,Hailakandi,2025-09-30,1.2444444444444445,High
+Assam,Hailakandi,2025-10-31,0.5045372050816698,High
+Assam,Hojai,2025-03-31,23.90112359550562,High
+Assam,Hojai,2025-04-30,2.2736559139784944,High
+Assam,Hojai,2025-06-30,3.084065934065934,High
+Assam,Hojai,2025-07-31,0.8195949128591616,High
+Assam,Hojai,2025-09-30,1.8469050894085284,High
+Assam,Hojai,2025-10-31,0.7018348623853212,High
+Assam,Jorhat,2025-04-30,1.716923076923077,High
+Assam,Jorhat,2025-05-31,14.077777777777778,High
+Assam,Jorhat,2025-06-30,11.475,High
+Assam,Jorhat,2025-07-31,0.87527352297593,High
+Assam,Jorhat,2025-09-30,1.8294685990338162,High
+Assam,Jorhat,2025-10-31,0.5384269662921349,High
+Assam,Kamrup,2025-03-31,61.65652173913043,High
+Assam,Kamrup,2025-04-30,4.183232628398791,High
+Assam,Kamrup,2025-05-31,1.7120096560048281,High
+Assam,Kamrup,2025-06-30,8.402898550724636,High
+Assam,Kamrup,2025-07-31,0.682702418506835,High
+Assam,Kamrup,2025-09-30,1.7012,High
+Assam,Kamrup,2025-10-31,0.5120921305182342,High
+Assam,Kamrup Metro,2025-04-30,2.964745762711864,High
+Assam,Kamrup Metro,2025-05-31,11.514814814814814,High
+Assam,Kamrup Metro,2025-06-30,7.372413793103448,High
+Assam,Kamrup Metro,2025-07-31,3.807465618860511,High
+Assam,Kamrup Metro,2025-09-30,1.9885382059800665,High
+Assam,Kamrup Metro,2025-10-31,0.26513629842180775,High
+Assam,Karbi Anglong,2025-04-30,1.283227848101266,High
+Assam,Karbi Anglong,2025-05-31,0.971177015755329,High
+Assam,Karbi Anglong,2025-09-30,1.915399120050283,High
+Assam,Karbi Anglong,2025-10-31,0.7611650485436894,High
+Assam,Karimganj,2025-04-30,2.0394146341463415,High
+Assam,Karimganj,2025-05-31,1.7203679369250984,High
+Assam,Karimganj,2025-06-30,2.076555023923445,High
+Assam,Karimganj,2025-07-31,0.5494796594134342,High
+Assam,Karimganj,2025-09-30,0.7520079820404091,High
+Assam,Karimganj,2025-10-31,0.5100591715976331,High
+Assam,Kokrajhar,2025-03-31,9.388235294117647,High
+Assam,Kokrajhar,2025-04-30,6.18936170212766,High
+Assam,Kokrajhar,2025-05-31,3.3648648648648645,High
+Assam,Kokrajhar,2025-06-30,4.964459930313589,High
+Assam,Kokrajhar,2025-07-31,2.485416666666666,High
+Assam,Kokrajhar,2025-09-30,1.7148825065274151,High
+Assam,Kokrajhar,2025-10-31,0.4466666666666667,High
+Assam,Lakhimpur,2025-03-31,32.849504950495046,High
+Assam,Lakhimpur,2025-04-30,3.3420168067226887,High
+Assam,Lakhimpur,2025-05-31,1.9967871485943776,High
+Assam,Lakhimpur,2025-06-30,2.0993348115299333,High
+Assam,Lakhimpur,2025-07-31,1.6880351262349067,High
+Assam,Lakhimpur,2025-09-30,1.5635645798082347,High
+Assam,Lakhimpur,2025-10-31,0.7778966131907309,High
+Assam,Majuli,2025-07-31,1.3542857142857143,High
+Assam,Majuli,2025-09-30,1.8993939393939394,High
+Assam,Majuli,2025-10-31,0.9513513513513514,High
+Assam,Marigaon,2025-03-31,6.516849816849817,High
+Assam,Marigaon,2025-04-30,3.4144556267154615,High
+Assam,Marigaon,2025-05-31,3.8095238095238093,High
+Assam,Marigaon,2025-06-30,1.682307692307692,High
+Assam,Marigaon,2025-07-31,1.0192338387869113,High
+Assam,Marigaon,2025-09-30,1.6726530612244899,High
+Assam,Marigaon,2025-10-31,0.47239263803680986,High
+Assam,Nagaon,2025-03-31,124.6392857142857,High
+Assam,Nagaon,2025-04-30,10.602835051546393,High
+Assam,Nagaon,2025-06-30,28.203846153846154,High
+Assam,Nagaon,2025-07-31,3.3520661157024794,High
+Assam,Nagaon,2025-09-30,2.444559585492228,High
+Assam,Nagaon,2025-10-31,0.9364839319470699,High
+Assam,Nalbari,2025-04-30,5.8110497237569065,High
+Assam,Nalbari,2025-05-31,2.6585365853658534,High
+Assam,Nalbari,2025-09-30,1.7439238653001463,High
+Assam,Nalbari,2025-10-31,0.5050847457627119,High
+Assam,North Cachar Hills,2025-04-30,0.4102941176470588,High
+Assam,North Cachar Hills,2025-05-31,2.5558441558441554,High
+Assam,North Cachar Hills,2025-09-30,4.016666666666667,High
+Assam,North Cachar Hills,2025-10-31,0.2727272727272727,High
+Assam,Sibsagar,2025-04-30,1.0414507772020725,High
+Assam,Sibsagar,2025-05-31,2.509333333333333,High
+Assam,Sibsagar,2025-09-30,2.0546816479400754,High
+Assam,Sibsagar,2025-10-31,0.399,High
+Assam,Sivasagar,2025-06-30,0.0,Low
+Assam,Sivasagar,2025-07-31,0.0,Low
+Assam,Sonitpur,2025-03-31,40.46913580246913,High
+Assam,Sonitpur,2025-04-30,6.97258064516129,High
+Assam,Sonitpur,2025-05-31,7.1667984189723315,High
+Assam,Sonitpur,2025-06-30,4.53169014084507,High
+Assam,Sonitpur,2025-07-31,1.5833009708737864,High
+Assam,Sonitpur,2025-09-30,1.2764393268379095,High
+Assam,Sonitpur,2025-10-31,0.5958469945355191,High
+Assam,South Salmara Mankachar,2025-04-30,1.0149350649350648,High
+Assam,South Salmara Mankachar,2025-09-30,1.97625,High
+Assam,South Salmara Mankachar,2025-10-31,0.9209302325581397,High
+Assam,Sribhumi,2025-09-30,3.4869565217391307,High
+Assam,Sribhumi,2025-10-31,2.0631578947368423,High
+Assam,Tamulpur District,2025-09-30,3.453333333333333,High
+Assam,Tamulpur District,2025-10-31,2.177777777777778,High
+Assam,Tinsukia,2025-03-31,6.590985915492958,High
+Assam,Tinsukia,2025-04-30,1.2774974772956609,High
+Assam,Tinsukia,2025-05-31,1.948,High
+Assam,Tinsukia,2025-07-31,0.6672516952532908,High
+Assam,Tinsukia,2025-09-30,1.5124125874125873,High
+Assam,Tinsukia,2025-10-31,1.175115207373272,High
+Assam,Udalguri,2025-03-31,30.45111111111111,High
+Assam,Udalguri,2025-04-30,1.7378761061946901,High
+Assam,Udalguri,2025-05-31,2.2650822669104205,High
+Assam,Udalguri,2025-09-30,1.6481818181818182,High
+Assam,Udalguri,2025-10-31,0.5350125944584383,High
+Assam,West Karbi Anglong,2025-04-30,0.43478260869565216,High
+Assam,West Karbi Anglong,2025-05-31,0.4037593984962406,High
+Assam,West Karbi Anglong,2025-06-30,0.21152542372881356,High
+Assam,West Karbi Anglong,2025-07-31,0.3,High
+Assam,West Karbi Anglong,2025-09-30,2.382122905027933,High
+Assam,West Karbi Anglong,2025-10-31,0.34,High
+Bihar,Araria,2025-06-30,4.723389021479713,High
+Bihar,Araria,2025-07-31,36.51875,High
+Bihar,Araria,2025-09-30,2.8456391875746716,High
+Bihar,Araria,2025-10-31,0.7960252935862693,High
+Bihar,Arwal,2025-05-31,9.149282296650718,High
+Bihar,Arwal,2025-07-31,4.3021782178217824,High
+Bihar,Arwal,2025-09-30,2.3098982423681775,High
+Bihar,Arwal,2025-10-31,0.25804311774461025,High
+Bihar,Aurangabad,2025-09-30,2.61024,High
+Bihar,Aurangabad,2025-10-31,0.5147075525269733,High
+Bihar,Aurangabad(BH),2025-09-30,1.2000000000000002,High
+Bihar,Aurangabad(bh),2025-09-30,1.5631578947368423,High
+Bihar,Aurangabad(bh),2025-10-31,1.0333333333333334,High
+Bihar,Banka,2025-06-30,6.106461538461538,High
+Bihar,Banka,2025-07-31,14.19532710280374,High
+Bihar,Banka,2025-09-30,2.7278254649499285,High
+Bihar,Banka,2025-10-31,0.4152359295054008,High
+Bihar,Begusarai,2025-07-31,13.422047244094488,High
+Bihar,Begusarai,2025-09-30,2.8412632668910174,High
+Bihar,Begusarai,2025-10-31,0.5011073663938372,High
+Bihar,Bhabua,2025-09-30,0.8200000000000001,High
+Bihar,Bhabua,2025-10-31,0.05714285714285714,High
+Bihar,Bhagalpur,2025-03-31,293.00845070422537,High
+Bihar,Bhagalpur,2025-04-30,12.77269789983845,High
+Bihar,Bhagalpur,2025-05-31,3.2295793758480325,High
+Bihar,Bhagalpur,2025-06-30,2.1375584415584417,High
+Bihar,Bhagalpur,2025-07-31,19.90556552962298,High
+Bihar,Bhagalpur,2025-09-30,2.765398274987316,High
+Bihar,Bhagalpur,2025-10-31,0.6681341719077568,High
+Bihar,Bhojpur,2025-07-31,8.848359659781288,High
+Bihar,Bhojpur,2025-09-30,3.377733371395946,High
+Bihar,Bhojpur,2025-10-31,0.6389348025711663,High
+Bihar,Buxar,2025-09-30,1.8667471819645733,High
+Bihar,Buxar,2025-10-31,0.6594594594594595,High
+Bihar,Darbhanga,2025-06-30,27.34821428571429,High
+Bihar,Darbhanga,2025-09-30,2.661948249619482,High
+Bihar,Darbhanga,2025-10-31,0.5319444444444444,High
+Bihar,East Champaran,2025-04-30,5.106663376110562,High
+Bihar,East Champaran,2025-05-31,3.1336291038154394,High
+Bihar,East Champaran,2025-09-30,2.449765904709446,High
+Bihar,East Champaran,2025-10-31,0.8404721753794266,High
+Bihar,Gaya,2025-04-30,10.396562835660578,High
+Bihar,Gaya,2025-05-31,5.082261545101424,High
+Bihar,Gaya,2025-06-30,5.923930269413629,High
+Bihar,Gaya,2025-07-31,4.007222914072229,High
+Bihar,Gaya,2025-09-30,2.5403043170559094,High
+Bihar,Gaya,2025-10-31,0.3995049504950495,High
+Bihar,Gopalganj,2025-05-31,8.621609702315325,High
+Bihar,Gopalganj,2025-06-30,3.7062605752961084,High
+Bihar,Gopalganj,2025-07-31,3.0452438602559666,High
+Bihar,Gopalganj,2025-09-30,2.220615183246073,High
+Bihar,Gopalganj,2025-10-31,0.5903656413232734,High
+Bihar,Jamui,2025-04-30,4.3177304964539,High
+Bihar,Jamui,2025-05-31,10.242545454545454,High
+Bihar,Jamui,2025-06-30,5.855440414507771,High
+Bihar,Jamui,2025-09-30,2.219469795740982,High
+Bihar,Jamui,2025-10-31,0.48393094289508637,High
+Bihar,Jehanabad,2025-04-30,8.138755980861244,High
+Bihar,Jehanabad,2025-07-31,10.1625,High
+Bihar,Jehanabad,2025-09-30,2.59768875192604,High
+Bihar,Jehanabad,2025-10-31,0.4328697850821745,High
+Bihar,Kaimur (Bhabua),2025-04-30,18.430252100840335,High
+Bihar,Kaimur (Bhabua),2025-05-31,5.309711846318035,High
+Bihar,Kaimur (Bhabua),2025-06-30,7.220253164556961,High
+Bihar,Kaimur (Bhabua),2025-07-31,8.812391930835735,High
+Bihar,Kaimur (Bhabua),2025-09-30,3.039529411764706,High
+Bihar,Kaimur (Bhabua),2025-10-31,0.949937106918239,High
+Bihar,Katihar,2025-05-31,26.87030303030303,High
+Bihar,Katihar,2025-06-30,13.201827411167512,High
+Bihar,Katihar,2025-09-30,3.243723185972766,High
+Bihar,Katihar,2025-10-31,0.6571959836370398,High
+Bihar,Khagaria,2025-09-30,2.193348852677087,High
+Bihar,Khagaria,2025-10-31,0.40766161213088586,High
+Bihar,Kishanganj,2025-09-30,6.442372322899506,High
+Bihar,Kishanganj,2025-10-31,0.5051353874883286,High
+Bihar,Lakhisarai,2025-06-30,3.658015267175572,High
+Bihar,Lakhisarai,2025-07-31,2.163805970149254,High
+Bihar,Lakhisarai,2025-09-30,3.369939183318853,High
+Bihar,Lakhisarai,2025-10-31,0.8245283018867925,High
+Bihar,Madhepura,2025-09-30,3.0255927475592745,High
+Bihar,Madhepura,2025-10-31,1.0552713661883968,High
+Bihar,Madhubani,2025-03-31,84.95939393939393,High
+Bihar,Madhubani,2025-04-30,26.20450160771704,High
+Bihar,Madhubani,2025-05-31,9.175342465753424,High
+Bihar,Madhubani,2025-06-30,5.705567010309278,High
+Bihar,Madhubani,2025-07-31,7.539654367118168,High
+Bihar,Madhubani,2025-09-30,2.534091354636346,High
+Bihar,Madhubani,2025-10-31,0.37078459343794584,High
+Bihar,Monghyr,2025-09-30,1.95,High
+Bihar,Monghyr,2025-10-31,0.24,High
+Bihar,Munger,2025-04-30,9.229735234215886,High
+Bihar,Munger,2025-06-30,7.7290640394088665,High
+Bihar,Munger,2025-07-31,5.713304721030043,High
+Bihar,Munger,2025-09-30,2.6221671826625386,High
+Bihar,Munger,2025-10-31,0.4595238095238095,High
+Bihar,Muzaffarpur,2025-03-31,345.65405405405403,High
+Bihar,Muzaffarpur,2025-04-30,10.061847774054572,High
+Bihar,Muzaffarpur,2025-05-31,3.3944113605130553,High
+Bihar,Muzaffarpur,2025-06-30,3.356160761501851,High
+Bihar,Muzaffarpur,2025-07-31,7.168171242438343,High
+Bihar,Muzaffarpur,2025-09-30,2.7896399706098456,High
+Bihar,Muzaffarpur,2025-10-31,0.6480814408770557,High
+Bihar,Nalanda,2025-06-30,5.0312625250501,High
+Bihar,Nalanda,2025-07-31,4.473469387755102,High
+Bihar,Nalanda,2025-09-30,4.022457282343368,High
+Bihar,Nalanda,2025-10-31,0.5651991614255766,High
+Bihar,Nawada,2025-07-31,1.8473856209150326,High
+Bihar,Nawada,2025-09-30,1.6893177737881508,High
+Bihar,Nawada,2025-10-31,0.3475778546712803,High
+Bihar,Pashchim Champaran,2025-03-31,0.0,Low
+Bihar,Pashchim Champaran,2025-06-30,0.0,Low
+Bihar,Pashchim Champaran,2025-07-31,0.0,Low
+Bihar,Pashchim Champaran,2025-09-30,2.6787878787878787,High
+Bihar,Pashchim Champaran,2025-10-31,0.4444444444444445,High
+Bihar,Patna,2025-03-31,317.95,High
+Bihar,Patna,2025-04-30,5.839364518976169,High
+Bihar,Patna,2025-05-31,31.91645569620253,High
+Bihar,Patna,2025-06-30,10.469934162399413,High
+Bihar,Patna,2025-07-31,8.440663507109004,High
+Bihar,Patna,2025-09-30,2.8310661478599224,High
+Bihar,Patna,2025-10-31,0.8751700680272109,High
+Bihar,Purba Champaran,2025-09-30,1.3217391304347825,High
+Bihar,Purba Champaran,2025-10-31,0.49090909090909096,High
+Bihar,Purbi Champaran,2025-03-31,0.0,Low
+Bihar,Purbi Champaran,2025-06-30,0.0,Low
+Bihar,Purbi Champaran,2025-07-31,0.0,Low
+Bihar,Purnea,2025-09-30,4.644444444444445,High
+Bihar,Purnea,2025-10-31,0.8421052631578947,High
+Bihar,Purnia,2025-04-30,27.67223587223587,High
+Bihar,Purnia,2025-06-30,12.858533145275036,High
+Bihar,Purnia,2025-07-31,10.83212058212058,High
+Bihar,Purnia,2025-09-30,2.9865302325581395,High
+Bihar,Purnia,2025-10-31,0.5410548086866598,High
+Bihar,Rohtas,2025-09-30,3.562979683972912,High
+Bihar,Rohtas,2025-10-31,1.305769230769231,High
+Bihar,Saharsa,2025-05-31,12.497196261682243,High
+Bihar,Saharsa,2025-06-30,6.939225181598063,High
+Bihar,Saharsa,2025-07-31,6.647011308562197,High
+Bihar,Saharsa,2025-09-30,2.8461975028376845,High
+Bihar,Saharsa,2025-10-31,0.4549019607843137,High
+Bihar,Samastipur,2025-07-31,13.875739644970414,High
+Bihar,Samastipur,2025-09-30,2.531989100817439,High
+Bihar,Samastipur,2025-10-31,0.5217741935483872,High
+Bihar,Samstipur,2025-09-30,1.9583333333333333,High
+Bihar,Samstipur,2025-10-31,0.6000000000000001,High
+Bihar,Saran,2025-04-30,36.67706422018348,High
+Bihar,Saran,2025-06-30,8.485868586858686,High
+Bihar,Saran,2025-07-31,4.762307388384038,High
+Bihar,Saran,2025-09-30,1.7534620819594913,High
+Bihar,Saran,2025-10-31,0.40728260869565225,High
+Bihar,Sheikhpura,2025-09-30,3.1194784026079865,High
+Bihar,Sheikhpura,2025-10-31,0.5961471103327496,High
+Bihar,Sheikpura,2025-09-30,3.272727272727273,High
+Bihar,Sheikpura,2025-10-31,0.6000000000000001,High
+Bihar,Sheohar,2025-09-30,3.1038277511961723,High
+Bihar,Sheohar,2025-10-31,0.46843033509700177,High
+Bihar,Sitamarhi,2025-03-31,17.757602996254683,High
+Bihar,Sitamarhi,2025-04-30,3.579360210341805,High
+Bihar,Sitamarhi,2025-05-31,2.618504213483146,High
+Bihar,Sitamarhi,2025-06-30,1.7826744904261889,High
+Bihar,Sitamarhi,2025-07-31,1.5576176373807173,High
+Bihar,Sitamarhi,2025-09-30,2.6070854162138666,High
+Bihar,Sitamarhi,2025-10-31,0.3699477701888309,High
+Bihar,Siwan,2025-05-31,12.67578947368421,High
+Bihar,Siwan,2025-06-30,15.358333333333333,High
+Bihar,Siwan,2025-07-31,16.969902912621357,High
+Bihar,Siwan,2025-09-30,1.9967884570630672,High
+Bihar,Siwan,2025-10-31,0.4902581182348043,High
+Bihar,Supaul,2025-09-30,2.7857251328777526,High
+Bihar,Supaul,2025-10-31,0.5720970537261699,High
+Bihar,Vaishali,2025-04-30,34.670824949698186,High
+Bihar,Vaishali,2025-09-30,1.8447860962566847,High
+Bihar,Vaishali,2025-10-31,0.3242724272427243,High
+Bihar,West Champaran,2025-04-30,2.3412431062751526,High
+Bihar,West Champaran,2025-05-31,2.2699959726137733,High
+Bihar,West Champaran,2025-09-30,2.2850596966763472,High
+Bihar,West Champaran,2025-10-31,0.9818768139309901,High
+Chandigarh,Chandigarh,2025-04-30,63.400000000000006,High
+Chandigarh,Chandigarh,2025-09-30,3.717426900584795,High
+Chandigarh,Chandigarh,2025-10-31,1.0464135021097047,High
+Chandigarh,Rupnagar,2025-09-30,4.0,High
+Chhattisgarh,Balod,2025-09-30,9.17936210131332,High
+Chhattisgarh,Balod,2025-10-31,2.0605042016806725,High
+Chhattisgarh,Baloda Bazar,2025-05-31,19.990808823529413,High
+Chhattisgarh,Baloda Bazar,2025-09-30,4.784528034066714,High
+Chhattisgarh,Baloda Bazar,2025-10-31,1.7825641025641028,High
+Chhattisgarh,Balrampur,2025-07-31,2.058350100603622,High
+Chhattisgarh,Balrampur,2025-09-30,2.4027397260273973,High
+Chhattisgarh,Balrampur,2025-10-31,0.44761904761904764,High
+Chhattisgarh,Bastar,2025-09-30,5.081471747700394,High
+Chhattisgarh,Bastar,2025-10-31,1.120677966101695,High
+Chhattisgarh,Bemetara,2025-09-30,6.708602150537635,High
+Chhattisgarh,Bemetara,2025-10-31,2.016858237547893,High
+Chhattisgarh,Bijapur,2025-03-31,15.0625,High
+Chhattisgarh,Bijapur,2025-04-30,3.223404255319149,High
+Chhattisgarh,Bijapur,2025-05-31,2.543606557377049,High
+Chhattisgarh,Bijapur,2025-06-30,3.171835443037975,High
+Chhattisgarh,Bijapur,2025-07-31,1.547663551401869,High
+Chhattisgarh,Bijapur,2025-09-30,1.8804938271604938,High
+Chhattisgarh,Bijapur,2025-10-31,0.1118279569892473,High
+Chhattisgarh,Bilaspur,2025-07-31,13.161924119241192,High
+Chhattisgarh,Bilaspur,2025-09-30,3.270287044220326,High
+Chhattisgarh,Bilaspur,2025-10-31,1.203056768558952,High
+Chhattisgarh,Dakshin Bastar Dantewada,2025-09-30,13.595620437956205,High
+Chhattisgarh,Dakshin Bastar Dantewada,2025-10-31,0.508235294117647,High
+Chhattisgarh,Dantewada,2025-09-30,18.569230769230767,High
+Chhattisgarh,Dantewada,2025-10-31,0.2,High
+Chhattisgarh,Dhamtari,2025-09-30,7.044859813084112,High
+Chhattisgarh,Dhamtari,2025-10-31,1.850381679389313,High
+Chhattisgarh,Durg,2025-04-30,33.4453125,High
+Chhattisgarh,Durg,2025-07-31,27.96161616161616,High
+Chhattisgarh,Durg,2025-09-30,8.144464285714285,High
+Chhattisgarh,Durg,2025-10-31,1.634703196347032,High
+Chhattisgarh,Gariyaband,2025-09-30,5.435181644359465,High
+Chhattisgarh,Gariyaband,2025-10-31,2.0742857142857143,High
+Chhattisgarh,Gaurela-pendra-marwahi,2025-09-30,1.9877551020408162,High
+Chhattisgarh,Gaurela-pendra-marwahi,2025-10-31,1.46,High
+Chhattisgarh,Gaurella Pendra Marwahi,2025-06-30,0.0,Low
+Chhattisgarh,Gaurella Pendra Marwahi,2025-07-31,0.0,Low
+Chhattisgarh,Janjgir - Champa,2025-09-30,1.9142857142857144,High
+Chhattisgarh,Janjgir - Champa,2025-10-31,1.2000000000000002,High
+Chhattisgarh,Janjgir Champa,2025-09-30,2.56,High
+Chhattisgarh,Janjgir Champa,2025-10-31,2.8000000000000003,High
+Chhattisgarh,Janjgir-champa,2025-09-30,5.2214597629444786,High
+Chhattisgarh,Janjgir-champa,2025-10-31,1.7987679671457906,High
+Chhattisgarh,Jashpur,2025-09-30,4.745937961595273,High
+Chhattisgarh,Jashpur,2025-10-31,1.8380165289256198,High
+Chhattisgarh,Kabeerdham,2025-09-30,4.9089700996677745,High
+Chhattisgarh,Kabeerdham,2025-10-31,1.3938144329896909,High
+Chhattisgarh,Kanker,2025-09-30,4.352296819787986,High
+Chhattisgarh,Kanker,2025-10-31,0.8346938775510204,High
+Chhattisgarh,Kawardha,2025-09-30,5.246130500758725,High
+Chhattisgarh,Kawardha,2025-10-31,0.2901639344262295,High
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,2025-09-30,3.583333333333334,High
+Chhattisgarh,Khairagarh Chhuikhadan Gandai,2025-10-31,1.008,High
+Chhattisgarh,Kondagaon,2025-09-30,3.008409090909091,High
+Chhattisgarh,Kondagaon,2025-10-31,0.3879781420765027,High
+Chhattisgarh,Korba,2025-09-30,5.061599999999999,High
+Chhattisgarh,Korba,2025-10-31,0.9399602385685886,High
+Chhattisgarh,Koriya,2025-09-30,5.054922279792747,High
+Chhattisgarh,Koriya,2025-10-31,1.808372093023256,High
+Chhattisgarh,Mahasamund,2025-09-30,3.617922948073702,High
+Chhattisgarh,Mahasamund,2025-10-31,1.3098445595854924,High
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,2025-09-30,1.946236559139785,High
+Chhattisgarh,Manendragarh–Chirmiri–Bharatpur,2025-10-31,1.8095238095238095,High
+Chhattisgarh,Mohalla-Manpur-Ambagarh Chowki,2025-09-30,6.8,High
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,2025-09-30,5.744186046511628,High
+Chhattisgarh,Mohla-Manpur-Ambagarh Chouki,2025-10-31,4.911111111111111,High
+Chhattisgarh,Mungeli,2025-09-30,4.213347921225383,High
+Chhattisgarh,Mungeli,2025-10-31,1.2548104956268222,High
+Chhattisgarh,Narayanpur,2025-09-30,4.76694214876033,High
+Chhattisgarh,Narayanpur,2025-10-31,0.36923076923076925,High
+Chhattisgarh,Raigarh,2025-07-31,8.732325886990802,High
+Chhattisgarh,Raigarh,2025-09-30,11.213645761543763,High
+Chhattisgarh,Raigarh,2025-10-31,2.193175853018373,High
+Chhattisgarh,Raipur,2025-03-31,97.866,High
+Chhattisgarh,Raipur,2025-04-30,38.7807453416149,High
+Chhattisgarh,Raipur,2025-09-30,4.616299137104506,High
+Chhattisgarh,Raipur,2025-10-31,0.8075253256150507,High
+Chhattisgarh,Rajnandgaon,2025-09-30,5.86214405360134,High
+Chhattisgarh,Rajnandgaon,2025-10-31,0.9734693877551021,High
+Chhattisgarh,Sakti,2025-09-30,2.0203389830508476,High
+Chhattisgarh,Sakti,2025-10-31,1.6372093023255816,High
+Chhattisgarh,Sarangarh-Bilaigarh,2025-09-30,9.303448275862069,High
+Chhattisgarh,Sarangarh-Bilaigarh,2025-10-31,2.577777777777778,High
+Chhattisgarh,Sukma,2025-04-30,3.7590551181102363,High
+Chhattisgarh,Sukma,2025-05-31,6.142857142857142,High
+Chhattisgarh,Sukma,2025-07-31,7.933884297520661,High
+Chhattisgarh,Sukma,2025-09-30,6.293811074918567,High
+Chhattisgarh,Sukma,2025-10-31,0.6709677419354839,High
+Chhattisgarh,Surajpur,2025-09-30,4.828343313373254,High
+Chhattisgarh,Surajpur,2025-10-31,1.8845901639344262,High
+Chhattisgarh,Surguja,2025-09-30,4.286770140428677,High
+Chhattisgarh,Surguja,2025-10-31,1.8229333333333333,High
+Chhattisgarh,Uttar Bastar Kanker,2025-09-30,6.356521739130434,High
+Chhattisgarh,Uttar Bastar Kanker,2025-10-31,0.8901960784313726,High
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,2025-09-30,8.761621621621622,High
+Dadra & Nagar Haveli,Dadra & Nagar Haveli,2025-10-31,0.5367088607594938,High
+Dadra & Nagar Haveli & Daman & Diu,Dadra & Nagar Haveli,2025-09-30,3.517948717948718,High
+Dadra & Nagar Haveli & Daman & Diu,Dadra & Nagar Haveli,2025-10-31,6.666666666666668,High
+Dadra & Nagar Haveli & Daman & Diu,Daman,2025-09-30,1.8782608695652177,High
+Dadra & Nagar Haveli & Daman & Diu,Daman,2025-10-31,2.7,High
+Dadra & Nagar Haveli & Daman & Diu,Diu,2025-09-30,1.44,High
+Daman & Diu,Daman,2025-09-30,20.019047619047615,High
+Daman & Diu,Daman,2025-10-31,3.0,High
+Daman & Diu,Diu,2025-09-30,10.505882352941176,High
+Daman & Diu,Diu,2025-10-31,0.43636363636363634,High
+Delhi,Central Delhi,2025-04-30,60.73684210526316,High
+Delhi,Central Delhi,2025-05-31,15.65105105105105,High
+Delhi,Central Delhi,2025-06-30,22.677319587628865,High
+Delhi,Central Delhi,2025-07-31,3.9036458333333335,High
+Delhi,Central Delhi,2025-09-30,4.207172413793104,High
+Delhi,Central Delhi,2025-10-31,1.110344827586207,High
+Delhi,East Delhi,2025-04-30,24.30767543859649,High
+Delhi,East Delhi,2025-05-31,8.888679245283019,High
+Delhi,East Delhi,2025-06-30,11.206700507614212,High
+Delhi,East Delhi,2025-07-31,8.644621938232161,High
+Delhi,East Delhi,2025-09-30,3.676833414278776,High
+Delhi,East Delhi,2025-10-31,1.0698564593301436,High
+Delhi,Najafgarh,2025-09-30,4.014285714285714,High
+Delhi,Najafgarh,2025-10-31,1.2000000000000002,High
+Delhi,New Delhi,2025-06-30,0.7702479338842976,High
+Delhi,New Delhi,2025-07-31,0.3354720439963336,High
+Delhi,New Delhi,2025-09-30,4.786666666666666,High
+Delhi,New Delhi,2025-10-31,1.125,High
+Delhi,North Delhi,2025-06-30,9.208695652173914,High
+Delhi,North Delhi,2025-07-31,6.35338512763596,High
+Delhi,North Delhi,2025-09-30,4.114349775784754,High
+Delhi,North Delhi,2025-10-31,0.7268965517241379,High
+Delhi,North East,2025-09-30,3.1222042139384114,High
+Delhi,North East,2025-10-31,0.18125000000000002,High
+Delhi,North East   *,2025-09-30,0.0,Low
+Delhi,North East Delhi,2025-06-30,6.974762206721623,High
+Delhi,North East Delhi,2025-07-31,3.41954484605087,High
+Delhi,North East Delhi,2025-09-30,3.9223709369024857,High
+Delhi,North East Delhi,2025-10-31,0.8426277372262775,High
+Delhi,North West Delhi,2025-03-31,701.5799999999999,High
+Delhi,North West Delhi,2025-04-30,39.45160796324655,High
+Delhi,North West Delhi,2025-05-31,50.84875776397516,High
+Delhi,North West Delhi,2025-06-30,31.760651629072683,High
+Delhi,North West Delhi,2025-07-31,29.419470538001704,High
+Delhi,North West Delhi,2025-09-30,4.504896907216495,High
+Delhi,North West Delhi,2025-10-31,0.6959670781893004,High
+Delhi,Shahdara,2025-04-30,6.185579937304075,High
+Delhi,Shahdara,2025-05-31,6.103759398496241,High
+Delhi,Shahdara,2025-07-31,3.6037546933667084,High
+Delhi,Shahdara,2025-09-30,2.9706521739130434,High
+Delhi,Shahdara,2025-10-31,0.8272727272727274,High
+Delhi,South Delhi,2025-04-30,67.80852575488456,High
+Delhi,South Delhi,2025-05-31,64.42222222222222,High
+Delhi,South Delhi,2025-06-30,15.079253567508234,High
+Delhi,South Delhi,2025-07-31,16.522966507177035,High
+Delhi,South Delhi,2025-09-30,3.45038121378469,High
+Delhi,South Delhi,2025-10-31,0.5107382550335571,High
+Delhi,South East Delhi,2025-09-30,3.835294117647059,High
+Delhi,South East Delhi,2025-10-31,2.5600000000000005,High
+Delhi,South West Delhi,2025-04-30,26.514666666666667,High
+Delhi,South West Delhi,2025-05-31,20.864327485380116,High
+Delhi,South West Delhi,2025-06-30,34.587538940809964,High
+Delhi,South West Delhi,2025-07-31,22.381818181818183,High
+Delhi,South West Delhi,2025-09-30,3.5978641606151216,High
+Delhi,South West Delhi,2025-10-31,0.4636871508379889,High
+Delhi,West Delhi,2025-03-31,83.89155844155844,High
+Delhi,West Delhi,2025-04-30,17.619017094017096,High
+Delhi,West Delhi,2025-05-31,7.851156069364161,High
+Delhi,West Delhi,2025-06-30,6.094531897265949,High
+Delhi,West Delhi,2025-07-31,4.212144992526158,High
+Delhi,West Delhi,2025-09-30,3.6316187594553706,High
+Delhi,West Delhi,2025-10-31,0.9845272206303726,High
+Goa,Bardez,2025-09-30,7.999999999999999,High
+Goa,North Goa,2025-07-31,60.54285714285714,High
+Goa,North Goa,2025-09-30,4.106225680933852,High
+Goa,North Goa,2025-10-31,1.2054054054054055,High
+Goa,South Goa,2025-09-30,4.673389355742296,High
+Goa,South Goa,2025-10-31,0.8152671755725192,High
+Gujarat,Ahmadabad,2025-06-30,0.8375510204081633,High
+Gujarat,Ahmadabad,2025-07-31,0.14384478144513826,High
+Gujarat,Ahmadabad,2025-09-30,4.513294797687861,High
+Gujarat,Ahmadabad,2025-10-31,0.4988235294117647,High
+Gujarat,Ahmedabad,2025-04-30,252.18852459016392,High
+Gujarat,Ahmedabad,2025-05-31,34.957,High
+Gujarat,Ahmedabad,2025-07-31,49.988564476885635,High
+Gujarat,Ahmedabad,2025-09-30,3.8865642042637583,High
+Gujarat,Ahmedabad,2025-10-31,0.5946255002858777,High
+Gujarat,Amreli,2025-04-30,18.84453781512605,High
+Gujarat,Amreli,2025-07-31,9.177893368010404,High
+Gujarat,Amreli,2025-09-30,3.567071057192374,High
+Gujarat,Amreli,2025-10-31,0.6279411764705882,High
+Gujarat,Anand,2025-04-30,34.573443983402484,High
+Gujarat,Anand,2025-05-31,69.18461538461538,High
+Gujarat,Anand,2025-06-30,40.05851528384279,High
+Gujarat,Anand,2025-07-31,11.333994589720469,High
+Gujarat,Anand,2025-09-30,3.6898518924849144,High
+Gujarat,Anand,2025-10-31,0.3899419729206963,High
+Gujarat,Arvalli,2025-04-30,9.433980582524272,High
+Gujarat,Arvalli,2025-07-31,6.262562396006656,High
+Gujarat,Arvalli,2025-09-30,3.072635135135135,High
+Gujarat,Arvalli,2025-10-31,0.30364963503649633,High
+Gujarat,Banas Kantha,2025-03-31,0.0,Low
+Gujarat,Banas Kantha,2025-06-30,0.0,Low
+Gujarat,Banas Kantha,2025-07-31,0.007217165149544864,Low
+Gujarat,Banas Kantha,2025-09-30,1.2317460317460318,High
+Gujarat,Banas Kantha,2025-10-31,0.29473684210526313,High
+Gujarat,Banaskantha,2025-04-30,1.982640949554896,High
+Gujarat,Banaskantha,2025-05-31,5.368945312499999,High
+Gujarat,Banaskantha,2025-09-30,2.205473156465427,High
+Gujarat,Banaskantha,2025-10-31,0.3350194552529183,High
+Gujarat,Bharuch,2025-04-30,26.761137440758294,High
+Gujarat,Bharuch,2025-05-31,17.376708860759493,High
+Gujarat,Bharuch,2025-09-30,3.4179035960214232,High
+Gujarat,Bharuch,2025-10-31,0.5945137157107232,High
+Gujarat,Bhavnagar,2025-04-30,16.34140127388535,High
+Gujarat,Bhavnagar,2025-06-30,50.302092050209204,High
+Gujarat,Bhavnagar,2025-07-31,7.021735074626865,High
+Gujarat,Bhavnagar,2025-09-30,2.8451499118165784,High
+Gujarat,Bhavnagar,2025-10-31,0.43037974683544306,High
+Gujarat,Botad,2025-04-30,2.792168674698795,High
+Gujarat,Botad,2025-06-30,4.099450549450549,High
+Gujarat,Botad,2025-07-31,1.8159633027522935,High
+Gujarat,Botad,2025-09-30,2.0723684210526314,High
+Gujarat,Botad,2025-10-31,0.336,High
+Gujarat,Chhotaudepur,2025-04-30,5.829460580912863,High
+Gujarat,Chhotaudepur,2025-05-31,18.56111111111111,High
+Gujarat,Chhotaudepur,2025-06-30,19.48936170212766,High
+Gujarat,Chhotaudepur,2025-07-31,1.8273899033297527,High
+Gujarat,Chhotaudepur,2025-09-30,4.85188679245283,High
+Gujarat,Chhotaudepur,2025-10-31,0.332,High
+Gujarat,Dahod,2025-04-30,4.615451472718494,High
+Gujarat,Dahod,2025-05-31,4.3938461538461535,High
+Gujarat,Dahod,2025-09-30,3.0329192546583847,High
+Gujarat,Dahod,2025-10-31,0.3676528599605523,High
+Gujarat,Dang,2025-06-30,0.0,Low
+Gujarat,Dang,2025-07-31,0.0,Low
+Gujarat,Devbhumi Dwarka,2025-04-30,7.107042253521127,High
+Gujarat,Devbhumi Dwarka,2025-05-31,10.113888888888889,High
+Gujarat,Devbhumi Dwarka,2025-07-31,4.038821490467938,High
+Gujarat,Devbhumi Dwarka,2025-09-30,2.2608108108108107,High
+Gujarat,Devbhumi Dwarka,2025-10-31,0.2853333333333334,High
+Gujarat,Dohad,2025-03-31,11.752727272727272,High
+Gujarat,Dohad,2025-06-30,0.3380175658720201,High
+Gujarat,Dohad,2025-07-31,0.18537682789651294,High
+Gujarat,Dohad,2025-09-30,1.5334298118668597,High
+Gujarat,Dohad,2025-10-31,0.2699186991869919,High
+Gujarat,Gandhinagar,2025-04-30,7.001520912547528,High
+Gujarat,Gandhinagar,2025-05-31,27.532203389830507,High
+Gujarat,Gandhinagar,2025-06-30,23.20384615384615,High
+Gujarat,Gandhinagar,2025-07-31,15.581352833638025,High
+Gujarat,Gandhinagar,2025-09-30,3.9299743808710503,High
+Gujarat,Gandhinagar,2025-10-31,0.5773700305810398,High
+Gujarat,Gir Somnath,2025-04-30,1.4630715123094957,High
+Gujarat,Gir Somnath,2025-05-31,10.78076923076923,High
+Gujarat,Gir Somnath,2025-07-31,2.9642857142857144,High
+Gujarat,Gir Somnath,2025-09-30,1.9916004540295118,High
+Gujarat,Gir Somnath,2025-10-31,0.28774703557312253,High
+Gujarat,Jamnagar,2025-04-30,16.528481012658226,High
+Gujarat,Jamnagar,2025-05-31,16.978339350180505,High
+Gujarat,Jamnagar,2025-07-31,7.051479289940828,High
+Gujarat,Jamnagar,2025-09-30,3.021315789473684,High
+Gujarat,Jamnagar,2025-10-31,0.4513562386980109,High
+Gujarat,Junagadh,2025-04-30,23.250519031141867,High
+Gujarat,Junagadh,2025-09-30,2.8393162393162394,High
+Gujarat,Junagadh,2025-10-31,0.5024000000000001,High
+Gujarat,Kachchh,2025-03-31,193.79999999999998,High
+Gujarat,Kachchh,2025-04-30,10.719294377067255,High
+Gujarat,Kachchh,2025-05-31,77.33466666666666,High
+Gujarat,Kachchh,2025-06-30,84.39699248120301,High
+Gujarat,Kachchh,2025-07-31,6.193779160186625,High
+Gujarat,Kachchh,2025-09-30,3.0316258351893093,High
+Gujarat,Kachchh,2025-10-31,0.4101644245142003,High
+Gujarat,Kheda,2025-04-30,12.643969465648855,High
+Gujarat,Kheda,2025-05-31,63.11142857142857,High
+Gujarat,Kheda,2025-07-31,17.15806451612903,High
+Gujarat,Kheda,2025-09-30,3.5208200455580867,High
+Gujarat,Kheda,2025-10-31,0.5397923875432526,High
+Gujarat,Mahesana,2025-04-30,10.127305605786619,High
+Gujarat,Mahesana,2025-05-31,36.48110599078341,High
+Gujarat,Mahesana,2025-07-31,10.336387208297321,High
+Gujarat,Mahesana,2025-09-30,4.033774834437086,High
+Gujarat,Mahesana,2025-10-31,0.6310262529832936,High
+Gujarat,Mahisagar,2025-04-30,14.182608695652172,High
+Gujarat,Mahisagar,2025-06-30,15.42111801242236,High
+Gujarat,Mahisagar,2025-07-31,6.047872340425532,High
+Gujarat,Mahisagar,2025-09-30,2.914637904468413,High
+Gujarat,Mahisagar,2025-10-31,0.28842105263157897,High
+Gujarat,Morbi,2025-03-31,37.8056338028169,High
+Gujarat,Morbi,2025-04-30,2.163791631084543,High
+Gujarat,Morbi,2025-05-31,6.848565965583174,High
+Gujarat,Morbi,2025-06-30,2.4949529512403763,High
+Gujarat,Morbi,2025-07-31,1.3204665959703075,High
+Gujarat,Morbi,2025-09-30,1.873913043478261,High
+Gujarat,Morbi,2025-10-31,0.3003412969283277,High
+Gujarat,Narmada,2025-09-30,4.365612648221344,High
+Gujarat,Narmada,2025-10-31,0.6203389830508476,High
+Gujarat,Navsari,2025-04-30,18.64090909090909,High
+Gujarat,Navsari,2025-05-31,21.432911392405064,High
+Gujarat,Navsari,2025-07-31,18.135408560311284,High
+Gujarat,Navsari,2025-09-30,3.9198501872659177,High
+Gujarat,Navsari,2025-10-31,1.2645161290322582,High
+Gujarat,Panch Mahals,2025-07-31,0.0,Low
+Gujarat,Panch Mahals,2025-09-30,1.6937499999999999,High
+Gujarat,Panch Mahals,2025-10-31,0.48,High
+Gujarat,Panchmahals,2025-04-30,6.644567627494457,High
+Gujarat,Panchmahals,2025-05-31,14.752087912087912,High
+Gujarat,Panchmahals,2025-09-30,3.870310825294748,High
+Gujarat,Panchmahals,2025-10-31,0.2753333333333334,High
+Gujarat,Patan,2025-03-31,29.52842105263158,High
+Gujarat,Patan,2025-04-30,4.061268781302171,High
+Gujarat,Patan,2025-05-31,18.045544554455446,High
+Gujarat,Patan,2025-06-30,21.06040268456376,High
+Gujarat,Patan,2025-07-31,2.9105046017137415,High
+Gujarat,Patan,2025-09-30,2.856329497274379,High
+Gujarat,Patan,2025-10-31,0.6153846153846154,High
+Gujarat,Porbandar,2025-04-30,6.672206303724928,High
+Gujarat,Porbandar,2025-06-30,10.942960288808663,High
+Gujarat,Porbandar,2025-07-31,5.504873949579832,High
+Gujarat,Porbandar,2025-09-30,3.3348088531187123,High
+Gujarat,Porbandar,2025-10-31,0.9060606060606061,High
+Gujarat,Rajkot,2025-04-30,7.202846975088968,High
+Gujarat,Rajkot,2025-05-31,9.428721174004194,High
+Gujarat,Rajkot,2025-06-30,56.33209876543209,High
+Gujarat,Rajkot,2025-07-31,4.089343482397716,High
+Gujarat,Rajkot,2025-09-30,3.2047163362952835,High
+Gujarat,Rajkot,2025-10-31,0.6066465256797584,High
+Gujarat,Sabar Kantha,2025-07-31,0.0,Low
+Gujarat,Sabar Kantha,2025-09-30,1.7796610169491525,High
+Gujarat,Sabar Kantha,2025-10-31,0.8,High
+Gujarat,Sabarkantha,2025-04-30,9.187931034482759,High
+Gujarat,Sabarkantha,2025-05-31,49.4112676056338,High
+Gujarat,Sabarkantha,2025-09-30,3.5840822956145097,High
+Gujarat,Sabarkantha,2025-10-31,0.6571428571428571,High
+Gujarat,Surat,2025-04-30,5.95,High
+Gujarat,Surat,2025-05-31,19.05568982880161,High
+Gujarat,Surat,2025-07-31,7.919605142332415,High
+Gujarat,Surat,2025-09-30,3.2301951127107404,High
+Gujarat,Surat,2025-10-31,0.9214231642694929,High
+Gujarat,Surendra Nagar,2025-04-30,10.207871720116618,High
+Gujarat,Surendra Nagar,2025-07-31,23.723250564334087,High
+Gujarat,Surendra Nagar,2025-09-30,2.204876066639577,High
+Gujarat,Surendra Nagar,2025-10-31,0.3179810725552051,High
+Gujarat,Surendranagar,2025-07-31,0.0,Low
+Gujarat,Surendranagar,2025-09-30,2.495833333333333,High
+Gujarat,Surendranagar,2025-10-31,0.33333333333333337,High
+Gujarat,Tapi,2025-04-30,37.748387096774195,High
+Gujarat,Tapi,2025-09-30,2.358885686839577,High
+Gujarat,Tapi,2025-10-31,0.34224598930481287,High
+Gujarat,The Dangs,2025-04-30,22.875,High
+Gujarat,The Dangs,2025-05-31,11.26896551724138,High
+Gujarat,The Dangs,2025-09-30,3.9816933638443937,High
+Gujarat,The Dangs,2025-10-31,0.18000000000000002,High
+Gujarat,Vadodara,2025-03-31,216.2202247191011,High
+Gujarat,Vadodara,2025-04-30,11.045777027027027,High
+Gujarat,Vadodara,2025-05-31,66.62926829268292,High
+Gujarat,Vadodara,2025-06-30,32.40588235294118,High
+Gujarat,Vadodara,2025-07-31,26.547704081632652,High
+Gujarat,Vadodara,2025-09-30,3.872068511198946,High
+Gujarat,Vadodara,2025-10-31,0.5365225390984362,High
+Gujarat,Valsad,2025-04-30,7.437168141592919,High
+Gujarat,Valsad,2025-05-31,19.987939698492465,High
+Gujarat,Valsad,2025-07-31,9.213990825688073,High
+Gujarat,Valsad,2025-09-30,3.027593699076589,High
+Gujarat,Valsad,2025-10-31,0.6022883295194509,High
+Haryana,Ambala,2025-06-30,19.3508896797153,High
+Haryana,Ambala,2025-09-30,5.003513513513513,High
+Haryana,Ambala,2025-10-31,0.752,High
+Haryana,Bhiwani,2025-09-30,4.690140845070422,High
+Haryana,Bhiwani,2025-10-31,0.726923076923077,High
+Haryana,Charkhi Dadri,2025-09-30,2.1898039215686276,High
+Haryana,Charkhi Dadri,2025-10-31,1.2571428571428571,High
+Haryana,Faridabad,2025-03-31,78.49733333333333,High
+Haryana,Faridabad,2025-04-30,8.723661270236612,High
+Haryana,Faridabad,2025-05-31,5.844914756025867,High
+Haryana,Faridabad,2025-06-30,4.07809187279152,High
+Haryana,Faridabad,2025-07-31,3.626666666666667,High
+Haryana,Faridabad,2025-09-30,3.34758064516129,High
+Haryana,Faridabad,2025-10-31,1.1087018544935805,High
+Haryana,Fatehabad,2025-09-30,5.924509803921569,High
+Haryana,Fatehabad,2025-10-31,0.2603550295857988,High
+Haryana,Gurgaon,2025-04-30,13.921329639889198,High
+Haryana,Gurgaon,2025-05-31,9.06377245508982,High
+Haryana,Gurgaon,2025-09-30,2.6711768050028426,High
+Haryana,Gurgaon,2025-10-31,1.3474380165289257,High
+Haryana,Gurugram,2025-03-31,0.0,Low
+Haryana,Gurugram,2025-06-30,0.0,Low
+Haryana,Gurugram,2025-07-31,0.0,Low
+Haryana,Hisar,2025-06-30,17.86600985221675,High
+Haryana,Hisar,2025-09-30,3.92484076433121,High
+Haryana,Hisar,2025-10-31,0.5285925925925926,High
+Haryana,Jhajjar,2025-09-30,3.902137767220902,High
+Haryana,Jhajjar,2025-10-31,0.33069908814589666,High
+Haryana,Jhajjar *,2025-09-30,0.0,Low
+Haryana,Jind,2025-09-30,4.216797488226059,High
+Haryana,Jind,2025-10-31,0.5121338912133891,High
+Haryana,Kaithal,2025-06-30,11.798620689655172,High
+Haryana,Kaithal,2025-09-30,5.910123456790123,High
+Haryana,Kaithal,2025-10-31,0.592280701754386,High
+Haryana,Karnal,2025-09-30,4.080473372781065,High
+Haryana,Karnal,2025-10-31,0.45725806451612905,High
+Haryana,Kurukshetra,2025-06-30,41.32903225806451,High
+Haryana,Kurukshetra,2025-09-30,6.107854984894259,High
+Haryana,Kurukshetra,2025-10-31,0.45435540069686414,High
+Haryana,Mahendragarh,2025-09-30,3.552142857142857,High
+Haryana,Mahendragarh,2025-10-31,0.23178807947019867,High
+Haryana,Mewat,2025-05-31,3.981763376036172,High
+Haryana,Mewat,2025-09-30,5.283226266952177,High
+Haryana,Mewat,2025-10-31,0.5701298701298702,High
+Haryana,Nuh,2025-06-30,0.0,Low
+Haryana,Palwal,2025-09-30,4.089228295819936,High
+Haryana,Palwal,2025-10-31,0.46598639455782315,High
+Haryana,Panchkula,2025-09-30,5.152802359882006,High
+Haryana,Panchkula,2025-10-31,1.1706666666666667,High
+Haryana,Panipat,2025-06-30,5.421208665906499,High
+Haryana,Panipat,2025-07-31,5.5527248850952065,High
+Haryana,Panipat,2025-09-30,3.924705882352941,High
+Haryana,Panipat,2025-10-31,0.592964824120603,High
+Haryana,Rewari,2025-09-30,4.917579250720461,High
+Haryana,Rewari,2025-10-31,1.2421768707482994,High
+Haryana,Rohtak,2025-06-30,9.93901515151515,High
+Haryana,Rohtak,2025-09-30,4.65290763968073,High
+Haryana,Rohtak,2025-10-31,0.23076923076923075,High
+Haryana,Sirsa,2025-09-30,5.60091220068415,High
+Haryana,Sirsa,2025-10-31,0.7044776119402986,High
+Haryana,Sonipat,2025-06-30,15.57762237762238,High
+Haryana,Sonipat,2025-09-30,3.868503937007874,High
+Haryana,Sonipat,2025-10-31,0.6646808510638298,High
+Haryana,Yamuna Nagar,2025-09-30,4.809930486593842,High
+Haryana,Yamuna Nagar,2025-10-31,1.0504451038575668,High
+Haryana,Yamunanagar,2025-09-30,3.9250000000000003,High
+Haryana,Yamunanagar,2025-10-31,0.6000000000000001,High
+Himachal Pradesh,Bilaspur,2025-09-30,4.962645914396887,High
+Himachal Pradesh,Bilaspur,2025-10-31,0.3081081081081081,High
+Himachal Pradesh,Chamba,2025-09-30,5.790625,High
+Himachal Pradesh,Chamba,2025-10-31,0.5747899159663866,High
+Himachal Pradesh,Hamirpur,2025-09-30,5.363636363636364,High
+Himachal Pradesh,Hamirpur,2025-10-31,0.38181818181818183,High
+Himachal Pradesh,Kangra,2025-09-30,4.3575954508529655,High
+Himachal Pradesh,Kangra,2025-10-31,0.39925233644859814,High
+Himachal Pradesh,Kinnaur,2025-09-30,4.03921568627451,High
+Himachal Pradesh,Kinnaur,2025-10-31,0.6000000000000001,High
+Himachal Pradesh,Kullu,2025-07-31,12.51578947368421,High
+Himachal Pradesh,Kullu,2025-09-30,3.77511961722488,High
+Himachal Pradesh,Kullu,2025-10-31,0.528,High
+Himachal Pradesh,Lahaul & Spiti,2025-10-31,0.0,Low
+Himachal Pradesh,Lahul & Spiti,2025-09-30,4.8999999999999995,High
+Himachal Pradesh,Lahul & Spiti,2025-10-31,1.142857142857143,High
+Himachal Pradesh,Mandi,2025-09-30,4.559941944847605,High
+Himachal Pradesh,Mandi,2025-10-31,0.40800000000000003,High
+Himachal Pradesh,Shimla,2025-09-30,4.795045045045045,High
+Himachal Pradesh,Shimla,2025-10-31,0.4828685258964144,High
+Himachal Pradesh,Sirmaur,2025-09-30,3.4957031249999995,High
+Himachal Pradesh,Sirmaur,2025-10-31,0.45888324873096453,High
+Himachal Pradesh,Solan,2025-09-30,4.689759036144578,High
+Himachal Pradesh,Solan,2025-10-31,0.6086956521739131,High
+Himachal Pradesh,Una,2025-09-30,6.056811594202898,High
+Himachal Pradesh,Una,2025-10-31,0.5,High
+Jammu & Kashmir,Anantnag,2025-09-30,2.272049689440994,High
+Jammu & Kashmir,Anantnag,2025-10-31,0.45198237885462555,High
+Jammu & Kashmir,Badgam,2025-09-30,1.4559139784946238,High
+Jammu & Kashmir,Badgam,2025-10-31,0.3458937198067633,High
+Jammu & Kashmir,Bandipore,2025-09-30,2.39317697228145,High
+Jammu & Kashmir,Bandipore,2025-10-31,0.2220472440944882,High
+Jammu & Kashmir,Bandipur,2025-10-31,0.0,Low
+Jammu & Kashmir,Baramula,2025-05-31,23.406417112299465,High
+Jammu & Kashmir,Baramula,2025-09-30,3.556842105263158,High
+Jammu & Kashmir,Baramula,2025-10-31,0.531948051948052,High
+Jammu & Kashmir,Budgam,2025-09-30,4.44017094017094,High
+Jammu & Kashmir,Budgam,2025-10-31,0.25196850393700787,High
+Jammu & Kashmir,Doda,2025-07-31,4.918215613382899,High
+Jammu & Kashmir,Doda,2025-09-30,1.818313253012048,High
+Jammu & Kashmir,Doda,2025-10-31,0.10638743455497382,High
+Jammu & Kashmir,Ganderbal,2025-09-30,2.2043956043956046,High
+Jammu & Kashmir,Ganderbal,2025-10-31,0.9227722772277227,High
+Jammu & Kashmir,Jammu,2025-05-31,68.72592592592592,High
+Jammu & Kashmir,Jammu,2025-09-30,3.493048128342246,High
+Jammu & Kashmir,Jammu,2025-10-31,0.44499229583975347,High
+Jammu & Kashmir,Kargil,2025-09-30,2.304225352112676,High
+Jammu & Kashmir,Kargil,2025-10-31,0.18461538461538463,High
+Jammu & Kashmir,Kathua,2025-09-30,3.123321554770318,High
+Jammu & Kashmir,Kathua,2025-10-31,0.5731958762886599,High
+Jammu & Kashmir,Kishtwar,2025-09-30,2.7215859030837004,High
+Jammu & Kashmir,Kishtwar,2025-10-31,0.2157068062827225,High
+Jammu & Kashmir,Kulgam,2025-09-30,3.1863192182410423,High
+Jammu & Kashmir,Kulgam,2025-10-31,0.5811764705882353,High
+Jammu & Kashmir,Kupwara,2025-09-30,2.9315726290516206,High
+Jammu & Kashmir,Kupwara,2025-10-31,0.49437229437229435,High
+Jammu & Kashmir,Leh,2025-09-30,5.8533333333333335,High
+Jammu & Kashmir,Leh,2025-10-31,0.18666666666666668,High
+Jammu & Kashmir,Leh (ladakh),2025-10-31,0.0,Low
+Jammu & Kashmir,Pulwama,2025-09-30,1.9098591549295776,High
+Jammu & Kashmir,Pulwama,2025-10-31,0.24290429042904293,High
+Jammu & Kashmir,Punch,2025-04-30,19.676777251184834,High
+Jammu & Kashmir,Punch,2025-09-30,2.8615384615384616,High
+Jammu & Kashmir,Punch,2025-10-31,0.2888178913738019,High
+Jammu & Kashmir,Rajouri,2025-09-30,3.319587628865979,High
+Jammu & Kashmir,Rajouri,2025-10-31,0.5256704980842912,High
+Jammu & Kashmir,Ramban,2025-09-30,2.273214285714286,High
+Jammu & Kashmir,Ramban,2025-10-31,0.14910394265232976,High
+Jammu & Kashmir,Reasi,2025-09-30,2.347605633802817,High
+Jammu & Kashmir,Reasi,2025-10-31,0.39820627802690584,High
+Jammu & Kashmir,Samba,2025-09-30,3.4271604938271607,High
+Jammu & Kashmir,Samba,2025-10-31,0.3452631578947369,High
+Jammu & Kashmir,Shopian,2025-07-31,0.0,Low
+Jammu & Kashmir,Shupiyan,2025-09-30,5.507428571428571,High
+Jammu & Kashmir,Shupiyan,2025-10-31,0.5154639175257733,High
+Jammu & Kashmir,Srinagar,2025-09-30,3.189954337899543,High
+Jammu & Kashmir,Srinagar,2025-10-31,0.6628336755646818,High
+Jammu & Kashmir,Udhampur,2025-09-30,2.711784511784512,High
+Jammu & Kashmir,Udhampur,2025-10-31,0.3466666666666667,High
+Jharkhand,Bokaro,2025-09-30,3.6914136125654453,High
+Jharkhand,Bokaro,2025-10-31,0.484,High
+Jharkhand,Bokaro *,2025-10-31,0.0,Low
+Jharkhand,Chatra,2025-06-30,7.2493670886075945,High
+Jharkhand,Chatra,2025-07-31,10.782035928143712,High
+Jharkhand,Chatra,2025-09-30,3.578450786255096,High
+Jharkhand,Chatra,2025-10-31,0.42620087336244544,High
+Jharkhand,Deoghar,2025-03-31,156.48727272727274,High
+Jharkhand,Deoghar,2025-04-30,10.454771784232364,High
+Jharkhand,Deoghar,2025-09-30,1.8971345313258863,High
+Jharkhand,Deoghar,2025-10-31,0.35376532399299476,High
+Jharkhand,Dhanbad,2025-07-31,8.694148244473341,High
+Jharkhand,Dhanbad,2025-09-30,2.5595808383233534,High
+Jharkhand,Dhanbad,2025-10-31,0.3329464861379755,High
+Jharkhand,Dumka,2025-04-30,116.27865168539326,High
+Jharkhand,Dumka,2025-06-30,19.884848484848483,High
+Jharkhand,Dumka,2025-07-31,21.24255319148936,High
+Jharkhand,Dumka,2025-09-30,2.760511679644049,High
+Jharkhand,Dumka,2025-10-31,0.5664233576642336,High
+Jharkhand,East Singhbhum,2025-04-30,125.70499999999998,High
+Jharkhand,East Singhbhum,2025-07-31,33.720819112627986,High
+Jharkhand,East Singhbhum,2025-09-30,3.4048535564853557,High
+Jharkhand,East Singhbhum,2025-10-31,0.4759036144578313,High
+Jharkhand,East Singhbum,2025-07-31,0.0,Low
+Jharkhand,Garhwa,2025-09-30,3.0784569138276554,High
+Jharkhand,Garhwa,2025-10-31,0.33743589743589747,High
+Jharkhand,Garhwa *,2025-09-30,3.40695652173913,High
+Jharkhand,Garhwa *,2025-10-31,0.11228070175438597,High
+Jharkhand,Giridih,2025-07-31,4.393952721275426,High
+Jharkhand,Giridih,2025-09-30,1.9094479830148623,High
+Jharkhand,Giridih,2025-10-31,0.24974958263772953,High
+Jharkhand,Godda,2025-04-30,77.33823529411765,High
+Jharkhand,Godda,2025-09-30,2.5613855763770585,High
+Jharkhand,Godda,2025-10-31,0.6253086419753087,High
+Jharkhand,Gumla,2025-06-30,14.726829268292681,High
+Jharkhand,Gumla,2025-07-31,8.080057803468208,High
+Jharkhand,Gumla,2025-09-30,2.7759276018099546,High
+Jharkhand,Gumla,2025-10-31,0.5333333333333333,High
+Jharkhand,Hazaribag,2025-09-30,3.1989304812834227,High
+Jharkhand,Hazaribag,2025-10-31,0.8734693877551021,High
+Jharkhand,Hazaribagh,2025-04-30,31.284677419354836,High
+Jharkhand,Hazaribagh,2025-09-30,2.4533059969246542,High
+Jharkhand,Hazaribagh,2025-10-31,0.44958677685950416,High
+Jharkhand,Jamtara,2025-09-30,1.8066453674121408,High
+Jharkhand,Jamtara,2025-10-31,0.30756302521008405,High
+Jharkhand,Khunti,2025-06-30,10.5912,High
+Jharkhand,Khunti,2025-07-31,11.967977528089888,High
+Jharkhand,Khunti,2025-09-30,4.569645390070922,High
+Jharkhand,Khunti,2025-10-31,0.594059405940594,High
+Jharkhand,Kodarma,2025-09-30,2.1364485981308414,High
+Jharkhand,Kodarma,2025-10-31,0.3649122807017544,High
+Jharkhand,Koderma,2025-09-30,1.702739726027397,High
+Jharkhand,Koderma,2025-10-31,0.2278372591006424,High
+Jharkhand,Latehar,2025-09-30,3.284670050761421,High
+Jharkhand,Latehar,2025-10-31,1.3589958158995818,High
+Jharkhand,Lohardaga,2025-04-30,14.649350649350648,High
+Jharkhand,Lohardaga,2025-06-30,6.818333333333333,High
+Jharkhand,Lohardaga,2025-09-30,3.1897897897897898,High
+Jharkhand,Lohardaga,2025-10-31,0.6202429149797571,High
+Jharkhand,Pakaur,2025-09-30,1.927906976744186,High
+Jharkhand,Pakaur,2025-10-31,0.16774193548387098,High
+Jharkhand,Pakur,2025-04-30,3.9954261954261954,High
+Jharkhand,Pakur,2025-06-30,2.472086720867208,High
+Jharkhand,Pakur,2025-07-31,1.5393491124260354,High
+Jharkhand,Pakur,2025-09-30,1.788995215311005,High
+Jharkhand,Pakur,2025-10-31,1.2741258741258743,High
+Jharkhand,Palamau,2025-09-30,1.9247524752475247,High
+Jharkhand,Palamau,2025-10-31,1.0181818181818183,High
+Jharkhand,Palamu,2025-09-30,2.6070188970304664,High
+Jharkhand,Palamu,2025-10-31,0.29891838741396265,High
+Jharkhand,Pashchimi Singhbhum,2025-09-30,5.101063829787234,High
+Jharkhand,Pashchimi Singhbhum,2025-10-31,0.625,High
+Jharkhand,Purbi Singhbhum,2025-09-30,3.3624633431085043,High
+Jharkhand,Purbi Singhbhum,2025-10-31,0.2262857142857143,High
+Jharkhand,Ramgarh,2025-09-30,2.592425793244626,High
+Jharkhand,Ramgarh,2025-10-31,0.2849894291754757,High
+Jharkhand,Ranchi,2025-04-30,18.00482142857143,High
+Jharkhand,Ranchi,2025-06-30,16.436395759717314,High
+Jharkhand,Ranchi,2025-07-31,9.510846394984325,High
+Jharkhand,Ranchi,2025-09-30,3.2447878987175267,High
+Jharkhand,Ranchi,2025-10-31,0.3484630477436233,High
+Jharkhand,Sahebganj,2025-09-30,2.789888238424694,High
+Jharkhand,Sahebganj,2025-10-31,0.9142857142857143,High
+Jharkhand,Sahibganj,2025-09-30,1.525619834710744,High
+Jharkhand,Sahibganj,2025-10-31,0.49230769230769234,High
+Jharkhand,Seraikela-Kharsawan,2025-09-30,3.6929772502472797,High
+Jharkhand,Seraikela-Kharsawan,2025-10-31,0.4038684719535784,High
+Jharkhand,Seraikela-kharsawan,2025-09-30,3.4145161290322577,High
+Jharkhand,Seraikela-kharsawan,2025-10-31,0.518918918918919,High
+Jharkhand,Simdega,2025-09-30,4.418461538461539,High
+Jharkhand,Simdega,2025-10-31,0.6534653465346535,High
+Jharkhand,West Singhbhum,2025-07-31,11.812886597938144,High
+Jharkhand,West Singhbhum,2025-09-30,4.83292469352014,High
+Jharkhand,West Singhbhum,2025-10-31,0.38419567262464727,High
+Karnataka,Bagalkot,2025-09-30,1.921552769915083,High
+Karnataka,Bagalkot,2025-10-31,0.5949438202247191,High
+Karnataka,Bagalkot *,2025-09-30,2.0611764705882356,High
+Karnataka,Bagalkot *,2025-10-31,0.6000000000000001,High
+Karnataka,Ballari,2025-09-30,2.0975751697381186,High
+Karnataka,Ballari,2025-10-31,0.40668896321070236,High
+Karnataka,Bangalore,2025-09-30,5.240376984126984,High
+Karnataka,Bangalore,2025-10-31,0.6351515151515152,High
+Karnataka,Bangalore Rural,2025-05-31,17.425833333333333,High
+Karnataka,Bangalore Rural,2025-09-30,3.5659056316590565,High
+Karnataka,Bangalore Rural,2025-10-31,0.9533834586466166,High
+Karnataka,Belagavi,2025-09-30,1.7063403781979978,High
+Karnataka,Belagavi,2025-10-31,0.4066805845511483,High
+Karnataka,Belgaum,2025-09-30,2.7184071515644046,High
+Karnataka,Belgaum,2025-10-31,0.8978007761966366,High
+Karnataka,Bellary,2025-09-30,2.584869976359338,High
+Karnataka,Bellary,2025-10-31,0.6481236203090508,High
+Karnataka,Bengaluru,2025-04-30,3.367172167707404,High
+Karnataka,Bengaluru,2025-05-31,5.718529803846886,High
+Karnataka,Bengaluru,2025-09-30,3.2825092827828803,High
+Karnataka,Bengaluru,2025-10-31,0.7748502994011977,High
+Karnataka,Bengaluru Rural,2025-06-30,0.0,Low
+Karnataka,Bengaluru Rural,2025-07-31,0.0,Low
+Karnataka,Bengaluru Rural,2025-09-30,4.8,High
+Karnataka,Bengaluru Rural,2025-10-31,0.0,Low
+Karnataka,Bengaluru South,2025-09-30,34.2,High
+Karnataka,Bengaluru South,2025-10-31,50.800000000000004,High
+Karnataka,Bengaluru Urban,2025-03-31,0.0,Low
+Karnataka,Bengaluru Urban,2025-06-30,0.0,Low
+Karnataka,Bengaluru Urban,2025-07-31,0.0,Low
+Karnataka,Bidar,2025-07-31,40.35621301775148,High
+Karnataka,Bidar,2025-09-30,3.11639751552795,High
+Karnataka,Bidar,2025-10-31,0.6625000000000001,High
+Karnataka,Bijapur,2025-09-30,2.2388766519823786,High
+Karnataka,Bijapur,2025-10-31,0.6964705882352942,High
+Karnataka,Chamarajanagar,2025-09-30,2.2512195121951217,High
+Karnataka,Chamarajanagar,2025-10-31,0.34594594594594597,High
+Karnataka,Chamarajanagar *,2025-09-30,1.4500000000000002,High
+Karnataka,Chamarajanagar *,2025-10-31,0.0,Low
+Karnataka,Chamrajanagar,2025-09-30,3.3837681159420288,High
+Karnataka,Chamrajanagar,2025-10-31,0.44305555555555554,High
+Karnataka,Chamrajnagar,2025-09-30,2.5706422018348625,High
+Karnataka,Chamrajnagar,2025-10-31,0.35294117647058826,High
+Karnataka,Chickmagalur,2025-09-30,3.8186968838526907,High
+Karnataka,Chickmagalur,2025-10-31,1.097986577181208,High
+Karnataka,Chikkaballapur,2025-09-30,2.542315369261477,High
+Karnataka,Chikkaballapur,2025-10-31,0.720618556701031,High
+Karnataka,Chikkamagaluru,2025-09-30,2.3636363636363638,High
+Karnataka,Chikkamagaluru,2025-10-31,0.7000000000000001,High
+Karnataka,Chikmagalur,2025-09-30,3.5050000000000003,High
+Karnataka,Chikmagalur,2025-10-31,0.4869565217391305,High
+Karnataka,Chitradurga,2025-09-30,2.957986111111111,High
+Karnataka,Chitradurga,2025-10-31,0.7163444639718806,High
+Karnataka,Dakshina Kannada,2025-09-30,2.6818181818181817,High
+Karnataka,Dakshina Kannada,2025-10-31,0.657872340425532,High
+Karnataka,Davanagere,2025-09-30,4.610526315789474,High
+Karnataka,Davanagere,2025-10-31,0.6160000000000001,High
+Karnataka,Davangere,2025-09-30,3.752089136490251,High
+Karnataka,Davangere,2025-10-31,0.5276752767527676,High
+Karnataka,Dharwad,2025-09-30,2.689090909090909,High
+Karnataka,Dharwad,2025-10-31,0.6772200772200773,High
+Karnataka,Gadag,2025-09-30,1.1890030832476874,High
+Karnataka,Gadag,2025-10-31,0.8476190476190477,High
+Karnataka,Gadag *,2025-09-30,1.7582089552238807,High
+Karnataka,Gadag *,2025-10-31,0.9714285714285714,High
+Karnataka,Gulbarga,2025-09-30,2.7408369408369406,High
+Karnataka,Gulbarga,2025-10-31,0.6753246753246753,High
+Karnataka,Hasan,2025-09-30,3.127338129496403,High
+Karnataka,Hasan,2025-10-31,1.5921568627450982,High
+Karnataka,Hassan,2025-09-30,2.9392904073587385,High
+Karnataka,Hassan,2025-10-31,1.1271317829457366,High
+Karnataka,Haveri,2025-09-30,2.699344501092498,High
+Karnataka,Haveri,2025-10-31,0.9972222222222222,High
+Karnataka,Haveri *,2025-09-30,3.9999999999999996,High
+Karnataka,Haveri *,2025-10-31,0.43333333333333335,High
+Karnataka,Kalaburagi,2025-04-30,8.529276315789474,High
+Karnataka,Kalaburagi,2025-09-30,2.8218512898330803,High
+Karnataka,Kalaburagi,2025-10-31,0.6184331797235023,High
+Karnataka,Kodagu,2025-09-30,3.280952380952381,High
+Karnataka,Kodagu,2025-10-31,1.0368000000000002,High
+Karnataka,Kolar,2025-09-30,3.044874899112187,High
+Karnataka,Kolar,2025-10-31,1.4195488721804512,High
+Karnataka,Koppal,2025-09-30,2.4896674584323035,High
+Karnataka,Koppal,2025-10-31,0.664354527938343,High
+Karnataka,Mandya,2025-09-30,3.6220956719817767,High
+Karnataka,Mandya,2025-10-31,1.0095717884130984,High
+Karnataka,Mysore,2025-09-30,4.018430884184308,High
+Karnataka,Mysore,2025-10-31,0.9715686274509804,High
+Karnataka,Mysuru,2025-04-30,8.982268041237113,High
+Karnataka,Mysuru,2025-07-31,9.056084656084655,High
+Karnataka,Mysuru,2025-09-30,2.78,High
+Karnataka,Mysuru,2025-10-31,1.0242424242424242,High
+Karnataka,Raichur,2025-06-30,21.467757009345796,High
+Karnataka,Raichur,2025-09-30,2.037223974763407,High
+Karnataka,Raichur,2025-10-31,0.42904162633107457,High
+Karnataka,Ramanagar,2025-09-30,2.077750206782465,High
+Karnataka,Ramanagar,2025-10-31,1.0203821656050955,High
+Karnataka,Ramanagara,2025-07-31,0.0,Low
+Karnataka,Shimoga,2025-09-30,3.0195467422096316,High
+Karnataka,Shimoga,2025-10-31,0.9525581395348838,High
+Karnataka,Shivamogga,2025-09-30,3.055696202531646,High
+Karnataka,Shivamogga,2025-10-31,0.8460176991150443,High
+Karnataka,Tumakuru,2025-09-30,2.722083805209513,High
+Karnataka,Tumakuru,2025-10-31,0.6705570291777189,High
+Karnataka,Tumkur,2025-09-30,4.40046783625731,High
+Karnataka,Tumkur,2025-10-31,0.8508474576271188,High
+Karnataka,Udupi,2025-09-30,1.468509777478085,High
+Karnataka,Udupi,2025-10-31,0.5890196078431373,High
+Karnataka,Uttara Kannada,2025-09-30,2.590174002047083,High
+Karnataka,Uttara Kannada,2025-10-31,1.0509803921568628,High
+Karnataka,Vijayanagara,2025-09-30,1.732658227848101,High
+Karnataka,Vijayanagara,2025-10-31,0.5021645021645021,High
+Karnataka,Vijayapura,2025-07-31,10.031999999999998,High
+Karnataka,Vijayapura,2025-09-30,1.5594123048668502,High
+Karnataka,Vijayapura,2025-10-31,0.5690909090909091,High
+Karnataka,Yadgir,2025-04-30,7.018266253869968,High
+Karnataka,Yadgir,2025-09-30,1.8790070156502967,High
+Karnataka,Yadgir,2025-10-31,0.32553846153846155,High
+Karnataka,yadgir,2025-09-30,1.4038167938931299,High
+Karnataka,yadgir,2025-10-31,0.6084507042253522,High
+Kerala,Alappuzha,2025-09-30,4.422557905337362,High
+Kerala,Alappuzha,2025-10-31,1.1976190476190476,High
+Kerala,Ernakulam,2025-06-30,84.44460431654677,High
+Kerala,Ernakulam,2025-07-31,53.98660714285714,High
+Kerala,Ernakulam,2025-09-30,4.412470023980815,High
+Kerala,Ernakulam,2025-10-31,1.071812865497076,High
+Kerala,Idukki,2025-09-30,4.543921568627451,High
+Kerala,Idukki,2025-10-31,0.9522267206477733,High
+Kerala,Kannur,2025-07-31,150.76285714285714,High
+Kerala,Kannur,2025-09-30,5.081107692307692,High
+Kerala,Kannur,2025-10-31,1.118972895863053,High
+Kerala,Kasaragod,2025-09-30,3.72519422863485,High
+Kerala,Kasaragod,2025-10-31,0.6864628820960699,High
+Kerala,Kasargod,2025-09-30,3.4051948051948053,High
+Kerala,Kasargod,2025-10-31,0.4965517241379311,High
+Kerala,Kollam,2025-05-31,216.99642857142857,High
+Kerala,Kollam,2025-09-30,4.775406360424028,High
+Kerala,Kollam,2025-10-31,1.0265060240963855,High
+Kerala,Kottayam,2025-09-30,4.537704918032787,High
+Kerala,Kottayam,2025-10-31,0.9954639175257732,High
+Kerala,Kozhikode,2025-09-30,4.89041095890411,High
+Kerala,Kozhikode,2025-10-31,0.9960140679953107,High
+Kerala,Malappuram,2025-05-31,77.78796992481203,High
+Kerala,Malappuram,2025-09-30,3.4569037656903765,High
+Kerala,Malappuram,2025-10-31,0.816969696969697,High
+Kerala,Palakkad,2025-09-30,4.571776155717761,High
+Kerala,Palakkad,2025-10-31,0.7381165919282512,High
+Kerala,Pathanamthitta,2025-09-30,5.711775043936731,High
+Kerala,Pathanamthitta,2025-10-31,1.006405693950178,High
+Kerala,Thiruvananthapuram,2025-05-31,228.86896551724138,High
+Kerala,Thiruvananthapuram,2025-07-31,71.66666666666666,High
+Kerala,Thiruvananthapuram,2025-09-30,4.875075437537719,High
+Kerala,Thiruvananthapuram,2025-10-31,0.8946372239747634,High
+Kerala,Thrissur,2025-06-30,263.0553191489362,High
+Kerala,Thrissur,2025-09-30,5.900057438253878,High
+Kerala,Thrissur,2025-10-31,0.9123134328358209,High
+Kerala,Wayanad,2025-09-30,7.283422459893049,High
+Kerala,Wayanad,2025-10-31,1.6287292817679557,High
+Ladakh,Kargil,2025-09-30,2.0151724137931035,High
+Ladakh,Kargil,2025-10-31,0.3054545454545455,High
+Ladakh,Leh,2025-09-30,5.76,High
+Ladakh,Leh,2025-10-31,0.7000000000000001,High
+Lakshadweep,Lakshadweep,2025-09-30,3.6624999999999996,High
+Lakshadweep,Lakshadweep,2025-10-31,0.5793103448275863,High
+Madhya Pradesh,Agar Malwa,2025-09-30,1.6445969125214408,High
+Madhya Pradesh,Agar Malwa,2025-10-31,0.24142011834319527,High
+Madhya Pradesh,Alirajpur,2025-04-30,20.931496062992125,High
+Madhya Pradesh,Alirajpur,2025-05-31,46.836090225563915,High
+Madhya Pradesh,Alirajpur,2025-06-30,4.881453154875717,High
+Madhya Pradesh,Alirajpur,2025-07-31,4.625898305084745,High
+Madhya Pradesh,Alirajpur,2025-09-30,3.4677551020408166,High
+Madhya Pradesh,Alirajpur,2025-10-31,0.2287179487179487,High
+Madhya Pradesh,Anuppur,2025-09-30,5.54567526555387,High
+Madhya Pradesh,Anuppur,2025-10-31,0.6294871794871795,High
+Madhya Pradesh,Ashok Nagar,2025-04-30,14.061016949152542,High
+Madhya Pradesh,Ashok Nagar,2025-05-31,34.04909090909091,High
+Madhya Pradesh,Ashok Nagar,2025-09-30,1.9415270018621975,High
+Madhya Pradesh,Ashok Nagar,2025-10-31,1.2016064257028114,High
+Madhya Pradesh,Ashoknagar,2025-06-30,0.0,Low
+Madhya Pradesh,Ashoknagar,2025-07-31,0.0,Low
+Madhya Pradesh,Balaghat,2025-07-31,29.05266272189349,High
+Madhya Pradesh,Balaghat,2025-09-30,2.6477456098718557,High
+Madhya Pradesh,Balaghat,2025-10-31,0.7110251450676983,High
+Madhya Pradesh,Barwani,2025-04-30,23.42341463414634,High
+Madhya Pradesh,Barwani,2025-05-31,4.982923755513547,High
+Madhya Pradesh,Barwani,2025-06-30,5.73255709807434,High
+Madhya Pradesh,Barwani,2025-07-31,2.0251558387588307,High
+Madhya Pradesh,Barwani,2025-09-30,1.7770833333333331,High
+Madhya Pradesh,Barwani,2025-10-31,0.6548621190130625,High
+Madhya Pradesh,Betul,2025-04-30,60.827802690582956,High
+Madhya Pradesh,Betul,2025-07-31,16.833677685950413,High
+Madhya Pradesh,Betul,2025-09-30,3.869011576135352,High
+Madhya Pradesh,Betul,2025-10-31,0.5755593803786575,High
+Madhya Pradesh,Bhind,2025-03-31,56.012844036697246,High
+Madhya Pradesh,Bhind,2025-04-30,4.996955280685062,High
+Madhya Pradesh,Bhind,2025-05-31,7.177824267782427,High
+Madhya Pradesh,Bhind,2025-06-30,7.786440677966102,High
+Madhya Pradesh,Bhind,2025-07-31,2.4355117139334155,High
+Madhya Pradesh,Bhind,2025-09-30,2.2587715776796466,High
+Madhya Pradesh,Bhind,2025-10-31,0.8149901380670612,High
+Madhya Pradesh,Bhopal,2025-04-30,37.81148825065274,High
+Madhya Pradesh,Bhopal,2025-06-30,19.193997599039612,High
+Madhya Pradesh,Bhopal,2025-07-31,17.311738746690203,High
+Madhya Pradesh,Bhopal,2025-09-30,2.919150125803746,High
+Madhya Pradesh,Bhopal,2025-10-31,0.36808743169398905,High
+Madhya Pradesh,Burhanpur,2025-04-30,5.8077306733167084,High
+Madhya Pradesh,Burhanpur,2025-05-31,7.445278969957081,High
+Madhya Pradesh,Burhanpur,2025-06-30,4.612267867191896,High
+Madhya Pradesh,Burhanpur,2025-07-31,2.7997983870967738,High
+Madhya Pradesh,Burhanpur,2025-09-30,2.676675603217158,High
+Madhya Pradesh,Burhanpur,2025-10-31,0.3974603174603175,High
+Madhya Pradesh,Chhatarpur,2025-04-30,16.425176470588234,High
+Madhya Pradesh,Chhatarpur,2025-05-31,16.823337856173676,High
+Madhya Pradesh,Chhatarpur,2025-06-30,22.11036414565826,High
+Madhya Pradesh,Chhatarpur,2025-07-31,4.753764640267708,High
+Madhya Pradesh,Chhatarpur,2025-09-30,1.9902728351126928,High
+Madhya Pradesh,Chhatarpur,2025-10-31,0.5598885793871866,High
+Madhya Pradesh,Chhindwara,2025-09-30,2.8218579234972676,High
+Madhya Pradesh,Chhindwara,2025-10-31,0.3802898550724638,High
+Madhya Pradesh,Damoh,2025-09-30,2.7114337568058073,High
+Madhya Pradesh,Damoh,2025-10-31,0.7433070866141733,High
+Madhya Pradesh,Datia,2025-04-30,13.670860927152317,High
+Madhya Pradesh,Datia,2025-07-31,5.6116805721096545,High
+Madhya Pradesh,Datia,2025-09-30,1.6196597353497164,High
+Madhya Pradesh,Datia,2025-10-31,0.8717241379310345,High
+Madhya Pradesh,Dewas,2025-04-30,17.09282868525896,High
+Madhya Pradesh,Dewas,2025-05-31,12.67363344051447,High
+Madhya Pradesh,Dewas,2025-07-31,19.642167255594817,High
+Madhya Pradesh,Dewas,2025-09-30,2.629369513168396,High
+Madhya Pradesh,Dewas,2025-10-31,0.2738916256157636,High
+Madhya Pradesh,Dhar,2025-04-30,21.205492730210015,High
+Madhya Pradesh,Dhar,2025-06-30,10.118009168303862,High
+Madhya Pradesh,Dhar,2025-07-31,18.852060737527115,High
+Madhya Pradesh,Dhar,2025-09-30,2.3694373401534525,High
+Madhya Pradesh,Dhar,2025-10-31,0.5507119386637459,High
+Madhya Pradesh,Dindori,2025-09-30,2.8515463917525774,High
+Madhya Pradesh,Dindori,2025-10-31,0.5905579399141632,High
+Madhya Pradesh,East Nimar,2025-07-31,9.231877729257642,High
+Madhya Pradesh,East Nimar,2025-09-30,1.698334655035686,High
+Madhya Pradesh,East Nimar,2025-10-31,0.21340782122905028,High
+Madhya Pradesh,Guna,2025-04-30,13.127295918367347,High
+Madhya Pradesh,Guna,2025-07-31,15.216044776119402,High
+Madhya Pradesh,Guna,2025-09-30,2.1278642149929277,High
+Madhya Pradesh,Guna,2025-10-31,0.5195246179966044,High
+Madhya Pradesh,Gwalior,2025-03-31,33.57003058103976,High
+Madhya Pradesh,Gwalior,2025-04-30,8.023318385650224,High
+Madhya Pradesh,Gwalior,2025-05-31,21.98663793103448,High
+Madhya Pradesh,Gwalior,2025-06-30,5.975025906735751,High
+Madhya Pradesh,Gwalior,2025-07-31,2.97396234973917,High
+Madhya Pradesh,Gwalior,2025-09-30,2.0392462987886946,High
+Madhya Pradesh,Gwalior,2025-10-31,0.5632124352331606,High
+Madhya Pradesh,Harda,2025-09-30,2.3797933409873706,High
+Madhya Pradesh,Harda,2025-10-31,0.11329479768786128,High
+Madhya Pradesh,Harda *,2025-09-30,2.5943661971830987,High
+Madhya Pradesh,Harda *,2025-10-31,0.2943396226415094,High
+Madhya Pradesh,Hoshangabad,2025-07-31,29.98718861209964,High
+Madhya Pradesh,Hoshangabad,2025-09-30,2.578896496173983,High
+Madhya Pradesh,Hoshangabad,2025-10-31,0.15019762845849804,High
+Madhya Pradesh,Indore,2025-04-30,17.250600184672205,High
+Madhya Pradesh,Indore,2025-05-31,31.890432098765434,High
+Madhya Pradesh,Indore,2025-06-30,34.79358288770053,High
+Madhya Pradesh,Indore,2025-07-31,4.834801762114537,High
+Madhya Pradesh,Indore,2025-09-30,2.7394208412597756,High
+Madhya Pradesh,Indore,2025-10-31,0.4114052953156823,High
+Madhya Pradesh,Jabalpur,2025-04-30,74.55723270440251,High
+Madhya Pradesh,Jabalpur,2025-07-31,34.82424242424242,High
+Madhya Pradesh,Jabalpur,2025-09-30,2.9653455284552845,High
+Madhya Pradesh,Jabalpur,2025-10-31,0.4264331210191083,High
+Madhya Pradesh,Jhabua,2025-04-30,9.310835214446952,High
+Madhya Pradesh,Jhabua,2025-05-31,11.541955835962145,High
+Madhya Pradesh,Jhabua,2025-06-30,7.4949944382647375,High
+Madhya Pradesh,Jhabua,2025-07-31,4.070481709525534,High
+Madhya Pradesh,Jhabua,2025-09-30,1.7520292950869696,High
+Madhya Pradesh,Jhabua,2025-10-31,0.5543624161073826,High
+Madhya Pradesh,Katni,2025-03-31,94.0867924528302,High
+Madhya Pradesh,Katni,2025-04-30,16.567554479418884,High
+Madhya Pradesh,Katni,2025-06-30,25.46211604095563,High
+Madhya Pradesh,Katni,2025-07-31,11.780195258019525,High
+Madhya Pradesh,Katni,2025-09-30,1.9788965517241381,High
+Madhya Pradesh,Katni,2025-10-31,0.4390867579908676,High
+Madhya Pradesh,Khandwa,2025-04-30,12.168571428571429,High
+Madhya Pradesh,Khandwa,2025-05-31,63.80769230769231,High
+Madhya Pradesh,Khandwa,2025-07-31,8.294825511432009,High
+Madhya Pradesh,Khandwa,2025-09-30,2.4619516562220234,High
+Madhya Pradesh,Khandwa,2025-10-31,0.21153846153846156,High
+Madhya Pradesh,Khargone,2025-04-30,16.062032085561498,High
+Madhya Pradesh,Khargone,2025-05-31,31.67142857142857,High
+Madhya Pradesh,Khargone,2025-06-30,27.724334600760454,High
+Madhya Pradesh,Khargone,2025-07-31,4.425740897544454,High
+Madhya Pradesh,Khargone,2025-09-30,2.704329774614472,High
+Madhya Pradesh,Khargone,2025-10-31,0.28461538461538466,High
+Madhya Pradesh,Maihar,2025-09-30,1.893846153846154,High
+Madhya Pradesh,Maihar,2025-10-31,1.0380952380952382,High
+Madhya Pradesh,Mandla,2025-09-30,2.2708127208480566,High
+Madhya Pradesh,Mandla,2025-10-31,0.40232108317214704,High
+Madhya Pradesh,Mandsaur,2025-09-30,2.530699412706887,High
+Madhya Pradesh,Mandsaur,2025-10-31,0.27555555555555555,High
+Madhya Pradesh,Mauganj,2025-09-30,1.868456375838926,High
+Madhya Pradesh,Mauganj,2025-10-31,0.7125,High
+Madhya Pradesh,Morena,2025-04-30,8.54030612244898,High
+Madhya Pradesh,Morena,2025-05-31,12.77279549718574,High
+Madhya Pradesh,Morena,2025-06-30,6.42864698104892,High
+Madhya Pradesh,Morena,2025-07-31,2.64001317306109,High
+Madhya Pradesh,Morena,2025-09-30,2.038359201773836,High
+Madhya Pradesh,Morena,2025-10-31,0.5898454746136865,High
+Madhya Pradesh,Narmadapuram,2025-09-30,1.5194139194139196,High
+Madhya Pradesh,Narmadapuram,2025-10-31,0.9,High
+Madhya Pradesh,Narsimhapur,2025-09-30,1.8950617283950617,High
+Madhya Pradesh,Narsimhapur,2025-10-31,0.36404494382022473,High
+Madhya Pradesh,Narsinghpur,2025-07-31,13.727237354085604,High
+Madhya Pradesh,Narsinghpur,2025-09-30,2.0042063094641964,High
+Madhya Pradesh,Narsinghpur,2025-10-31,0.4623229461756374,High
+Madhya Pradesh,Neemuch,2025-09-30,2.320689655172414,High
+Madhya Pradesh,Neemuch,2025-10-31,0.5431578947368422,High
+Madhya Pradesh,Niwari,2025-09-30,3.3470588235294123,High
+Madhya Pradesh,Niwari,2025-10-31,1.3818181818181818,High
+Madhya Pradesh,Pandhurna,2025-09-30,5.525,High
+Madhya Pradesh,Pandhurna,2025-10-31,1.2444444444444445,High
+Madhya Pradesh,Panna,2025-04-30,65.25283018867924,High
+Madhya Pradesh,Panna,2025-05-31,36.68124999999999,High
+Madhya Pradesh,Panna,2025-07-31,21.17453798767967,High
+Madhya Pradesh,Panna,2025-09-30,1.378173841513573,High
+Madhya Pradesh,Panna,2025-10-31,0.36037735849056607,High
+Madhya Pradesh,Raisen,2025-04-30,22.546796116504854,High
+Madhya Pradesh,Raisen,2025-09-30,2.364573833742546,High
+Madhya Pradesh,Raisen,2025-10-31,0.6456014362657092,High
+Madhya Pradesh,Rajgarh,2025-09-30,2.74054054054054,High
+Madhya Pradesh,Rajgarh,2025-10-31,0.6310112359550563,High
+Madhya Pradesh,Ratlam,2025-09-30,2.055180722891566,High
+Madhya Pradesh,Ratlam,2025-10-31,0.38251655629139075,High
+Madhya Pradesh,Rewa,2025-09-30,3.3662908990926588,High
+Madhya Pradesh,Rewa,2025-10-31,0.4890733056708161,High
+Madhya Pradesh,Sagar,2025-04-30,83.12036199095023,High
+Madhya Pradesh,Sagar,2025-06-30,99.6597014925373,High
+Madhya Pradesh,Sagar,2025-07-31,13.24796437659033,High
+Madhya Pradesh,Sagar,2025-09-30,2.686791429346352,High
+Madhya Pradesh,Sagar,2025-10-31,0.49230769230769234,High
+Madhya Pradesh,Satna,2025-04-30,34.31487414187643,High
+Madhya Pradesh,Satna,2025-07-31,29.123052464228934,High
+Madhya Pradesh,Satna,2025-09-30,2.387026797107614,High
+Madhya Pradesh,Satna,2025-10-31,0.30164383561643837,High
+Madhya Pradesh,Sehore,2025-07-31,8.10424387328153,High
+Madhya Pradesh,Sehore,2025-09-30,3.628418640183346,High
+Madhya Pradesh,Sehore,2025-10-31,0.5008403361344538,High
+Madhya Pradesh,Seoni,2025-09-30,2.1622115803221593,High
+Madhya Pradesh,Seoni,2025-10-31,0.5361058601134215,High
+Madhya Pradesh,Shahdol,2025-09-30,3.4040690505548707,High
+Madhya Pradesh,Shahdol,2025-10-31,0.5196521739130435,High
+Madhya Pradesh,Shajapur,2025-09-30,2.868106479156203,High
+Madhya Pradesh,Shajapur,2025-10-31,0.32408759124087594,High
+Madhya Pradesh,Sheopur,2025-04-30,10.931818181818182,High
+Madhya Pradesh,Sheopur,2025-06-30,9.834116192830656,High
+Madhya Pradesh,Sheopur,2025-07-31,3.8852253280091276,High
+Madhya Pradesh,Sheopur,2025-09-30,1.9871191135734072,High
+Madhya Pradesh,Sheopur,2025-10-31,0.34100719424460435,High
+Madhya Pradesh,Shivpuri,2025-04-30,10.670195627157652,High
+Madhya Pradesh,Shivpuri,2025-06-30,26.885057471264364,High
+Madhya Pradesh,Shivpuri,2025-07-31,18.20102639296188,High
+Madhya Pradesh,Shivpuri,2025-09-30,2.080592664561574,High
+Madhya Pradesh,Shivpuri,2025-10-31,0.5413673232908459,High
+Madhya Pradesh,Sidhi,2025-09-30,3.303582395087001,High
+Madhya Pradesh,Sidhi,2025-10-31,0.37371663244353187,High
+Madhya Pradesh,Singrauli,2025-09-30,2.81031031031031,High
+Madhya Pradesh,Singrauli,2025-10-31,0.3358024691358025,High
+Madhya Pradesh,Tikamgarh,2025-09-30,2.85443143812709,High
+Madhya Pradesh,Tikamgarh,2025-10-31,0.6434782608695653,High
+Madhya Pradesh,Ujjain,2025-09-30,2.020614744626762,High
+Madhya Pradesh,Ujjain,2025-10-31,0.36372093023255814,High
+Madhya Pradesh,Umaria,2025-09-30,1.698505869797225,High
+Madhya Pradesh,Umaria,2025-10-31,0.30716981132075477,High
+Madhya Pradesh,Vidisha,2025-04-30,10.280866425992778,High
+Madhya Pradesh,Vidisha,2025-05-31,34.7310861423221,High
+Madhya Pradesh,Vidisha,2025-07-31,8.94421768707483,High
+Madhya Pradesh,Vidisha,2025-09-30,2.5880172128434293,High
+Madhya Pradesh,Vidisha,2025-10-31,0.29090909090909095,High
+Madhya Pradesh,West Nimar,2025-09-30,2.474125874125874,High
+Madhya Pradesh,West Nimar,2025-10-31,0.3853658536585366,High
+Maharashtra,Ahmadnagar,2025-04-30,183.48125,High
+Maharashtra,Ahmadnagar,2025-09-30,10.442601156069363,High
+Maharashtra,Ahmadnagar,2025-10-31,2.898227848101266,High
+Maharashtra,Ahmed Nagar,2025-09-30,9.724390243902437,High
+Maharashtra,Ahmed Nagar,2025-10-31,2.266666666666667,High
+Maharashtra,Ahmednagar,2025-07-31,0.0,Low
+Maharashtra,Akola,2025-07-31,22.419466248037676,High
+Maharashtra,Akola,2025-09-30,8.055525965379495,High
+Maharashtra,Akola,2025-10-31,1.5664621676891617,High
+Maharashtra,Amravati,2025-06-30,64.94619565217391,High
+Maharashtra,Amravati,2025-07-31,40.834210526315786,High
+Maharashtra,Amravati,2025-09-30,9.64696639022261,High
+Maharashtra,Amravati,2025-10-31,1.822097902097902,High
+Maharashtra,Aurangabad,2025-03-31,65.32811594202899,High
+Maharashtra,Aurangabad,2025-04-30,21.072060682680153,High
+Maharashtra,Aurangabad,2025-07-31,7.564380704041721,High
+Maharashtra,Aurangabad,2025-09-30,4.320691040578546,High
+Maharashtra,Aurangabad,2025-10-31,1.5574175824175827,High
+Maharashtra,Beed,2025-04-30,37.80933333333333,High
+Maharashtra,Beed,2025-05-31,38.19189189189189,High
+Maharashtra,Beed,2025-06-30,17.74134134134134,High
+Maharashtra,Beed,2025-07-31,10.446780551905388,High
+Maharashtra,Beed,2025-09-30,9.624751189961056,High
+Maharashtra,Beed,2025-10-31,2.986872586872587,High
+Maharashtra,Bhandara,2025-09-30,11.176971608832808,High
+Maharashtra,Bhandara,2025-10-31,3.8131868131868134,High
+Maharashtra,Bid,2025-09-30,4.6402010050251254,High
+Maharashtra,Bid,2025-10-31,5.516883116883117,High
+Maharashtra,Buldana,2025-09-30,5.79517543859649,High
+Maharashtra,Buldana,2025-10-31,2.238993710691824,High
+Maharashtra,Buldhana,2025-06-30,36.27391304347826,High
+Maharashtra,Buldhana,2025-07-31,12.05143638850889,High
+Maharashtra,Buldhana,2025-09-30,9.04666368114644,High
+Maharashtra,Buldhana,2025-10-31,2.0409302325581398,High
+Maharashtra,Chandrapur,2025-04-30,52.914027149321264,High
+Maharashtra,Chandrapur,2025-06-30,67.26724137931033,High
+Maharashtra,Chandrapur,2025-07-31,33.661538461538456,High
+Maharashtra,Chandrapur,2025-09-30,8.05897244973939,High
+Maharashtra,Chandrapur,2025-10-31,5.96272040302267,High
+Maharashtra,Chatrapati Sambhaji Nagar,2025-09-30,2.453125,High
+Maharashtra,Chatrapati Sambhaji Nagar,2025-10-31,1.0620689655172415,High
+Maharashtra,Chhatrapati Sambhajinagar,2025-09-30,2.207453416149068,High
+Maharashtra,Chhatrapati Sambhajinagar,2025-10-31,0.32931034482758625,High
+Maharashtra,Dharashiv,2025-09-30,4.1,High
+Maharashtra,Dharashiv,2025-10-31,2.4800000000000004,High
+Maharashtra,Dhule,2025-05-31,72.86703296703297,High
+Maharashtra,Dhule,2025-06-30,8.022177419354838,High
+Maharashtra,Dhule,2025-07-31,7.637670196671708,High
+Maharashtra,Dhule,2025-09-30,3.3382310984308132,High
+Maharashtra,Dhule,2025-10-31,0.7807058823529411,High
+Maharashtra,Gadchiroli,2025-09-30,8.048659793814432,High
+Maharashtra,Gadchiroli,2025-10-31,4.210526315789474,High
+Maharashtra,Gondia,2025-09-30,6.327272727272727,High
+Maharashtra,Gondia,2025-10-31,4.4,High
+Maharashtra,Gondiya,2025-09-30,6.057855822550831,High
+Maharashtra,Gondiya,2025-10-31,5.154354354354354,High
+Maharashtra,Gondiya *,2025-09-30,8.884210526315789,High
+Maharashtra,Gondiya *,2025-10-31,7.644444444444445,High
+Maharashtra,Hingoli,2025-04-30,5.166083916083916,High
+Maharashtra,Hingoli,2025-05-31,23.365273311897106,High
+Maharashtra,Hingoli,2025-06-30,24.395252225519286,High
+Maharashtra,Hingoli,2025-07-31,3.526147704590818,High
+Maharashtra,Hingoli,2025-09-30,6.7413793103448265,High
+Maharashtra,Hingoli,2025-10-31,2.035036496350365,High
+Maharashtra,Hingoli *,2025-09-30,1.2,High
+Maharashtra,Jalgaon,2025-04-30,52.96737588652483,High
+Maharashtra,Jalgaon,2025-05-31,40.46864274570982,High
+Maharashtra,Jalgaon,2025-07-31,25.933424470266573,High
+Maharashtra,Jalgaon,2025-09-30,6.141698192517864,High
+Maharashtra,Jalgaon,2025-10-31,2.051646447140381,High
+Maharashtra,Jalna,2025-09-30,6.871204657411553,High
+Maharashtra,Jalna,2025-10-31,1.4011869436201783,High
+Maharashtra,Kolhapur,2025-09-30,9.166477272727272,High
+Maharashtra,Kolhapur,2025-10-31,1.8432748538011698,High
+Maharashtra,Latur,2025-04-30,60.39387755102041,High
+Maharashtra,Latur,2025-06-30,36.443669724770636,High
+Maharashtra,Latur,2025-07-31,24.365079365079364,High
+Maharashtra,Latur,2025-09-30,5.577741407528641,High
+Maharashtra,Latur,2025-10-31,1.7249299719887956,High
+Maharashtra,Mumbai,2025-07-31,34.14328678839957,High
+Maharashtra,Mumbai,2025-09-30,5.424056271981243,High
+Maharashtra,Mumbai,2025-10-31,0.804851425106125,High
+Maharashtra,Mumbai City,2025-09-30,4.222304832713754,High
+Maharashtra,Mumbai City,2025-10-31,1.0300578034682082,High
+Maharashtra,Mumbai Suburban,2025-04-30,23.297047970479703,High
+Maharashtra,Mumbai Suburban,2025-05-31,7.802421924792862,High
+Maharashtra,Mumbai Suburban,2025-07-31,2.9595404774726264,High
+Maharashtra,Mumbai Suburban,2025-09-30,4.11219512195122,High
+Maharashtra,Mumbai Suburban,2025-10-31,0.9789126853377266,High
+Maharashtra,Mumbai( Sub Urban ),2025-09-30,4.304132231404959,High
+Maharashtra,Mumbai( Sub Urban ),2025-10-31,0.6857142857142857,High
+Maharashtra,Nagpur,2025-04-30,42.43498233215547,High
+Maharashtra,Nagpur,2025-05-31,81.71262798634811,High
+Maharashtra,Nagpur,2025-07-31,21.912178387650087,High
+Maharashtra,Nagpur,2025-09-30,6.240044931199101,High
+Maharashtra,Nagpur,2025-10-31,1.1943019943019944,High
+Maharashtra,Nanded,2025-04-30,30.025700164744645,High
+Maharashtra,Nanded,2025-05-31,40.79521912350597,High
+Maharashtra,Nanded,2025-06-30,41.91164383561644,High
+Maharashtra,Nanded,2025-07-31,15.52945091514143,High
+Maharashtra,Nanded,2025-09-30,6.406528189910979,High
+Maharashtra,Nanded,2025-10-31,2.6696177062374247,High
+Maharashtra,Nandurbar,2025-04-30,37.690070921985814,High
+Maharashtra,Nandurbar,2025-05-31,35.89655172413793,High
+Maharashtra,Nandurbar,2025-07-31,7.3103225806451615,High
+Maharashtra,Nandurbar,2025-09-30,4.19235970250169,High
+Maharashtra,Nandurbar,2025-10-31,0.5594533029612756,High
+Maharashtra,Nandurbar *,2025-09-30,3.147692307692308,High
+Maharashtra,Nandurbar *,2025-10-31,1.011764705882353,High
+Maharashtra,Nashik,2025-05-31,201.06794871794872,High
+Maharashtra,Nashik,2025-07-31,11.084810400866738,High
+Maharashtra,Nashik,2025-09-30,6.389131050099065,High
+Maharashtra,Nashik,2025-10-31,1.29149377593361,High
+Maharashtra,Osmanabad,2025-07-31,34.76461538461538,High
+Maharashtra,Osmanabad,2025-09-30,7.145663852647736,High
+Maharashtra,Osmanabad,2025-10-31,4.7170431211498975,High
+Maharashtra,Palghar,2025-04-30,27.29357142857143,High
+Maharashtra,Palghar,2025-05-31,36.68519637462235,High
+Maharashtra,Palghar,2025-06-30,20.907782101167317,High
+Maharashtra,Palghar,2025-07-31,10.840920295809367,High
+Maharashtra,Palghar,2025-09-30,4.485380507343124,High
+Maharashtra,Palghar,2025-10-31,1.03768115942029,High
+Maharashtra,Parbhani,2025-03-31,198.14705882352942,High
+Maharashtra,Parbhani,2025-04-30,60.23478260869565,High
+Maharashtra,Parbhani,2025-05-31,22.511517367458868,High
+Maharashtra,Parbhani,2025-09-30,7.057009345794392,High
+Maharashtra,Parbhani,2025-10-31,3.129222520107239,High
+Maharashtra,Pune,2025-04-30,591.4811594202898,High
+Maharashtra,Pune,2025-05-31,80.05761316872429,High
+Maharashtra,Pune,2025-06-30,183.25847457627117,High
+Maharashtra,Pune,2025-07-31,10.045481049562682,High
+Maharashtra,Pune,2025-09-30,5.261825568109686,High
+Maharashtra,Pune,2025-10-31,1.1954530691783047,High
+Maharashtra,Raigad,2025-04-30,3.5277611940298508,High
+Maharashtra,Raigad,2025-07-31,1.3018867924528301,High
+Maharashtra,Raigad,2025-09-30,2.3388198757763976,High
+Maharashtra,Raigad,2025-10-31,0.968609865470852,High
+Maharashtra,Raigarh,2025-09-30,6.504491978609626,High
+Maharashtra,Raigarh,2025-10-31,2.0387959866220737,High
+Maharashtra,Raigarh(MH),2025-09-30,2.1999999999999997,High
+Maharashtra,Raigarh(MH),2025-10-31,0.6545454545454547,High
+Maharashtra,Ratnagiri,2025-09-30,16.12233766233766,High
+Maharashtra,Ratnagiri,2025-10-31,1.6573002754820938,High
+Maharashtra,Sangli,2025-05-31,55.093333333333334,High
+Maharashtra,Sangli,2025-06-30,40.0629213483146,High
+Maharashtra,Sangli,2025-07-31,9.796110414052698,High
+Maharashtra,Sangli,2025-09-30,9.187695220066256,High
+Maharashtra,Sangli,2025-10-31,1.2132013201320133,High
+Maharashtra,Satara,2025-04-30,48.67627118644067,High
+Maharashtra,Satara,2025-05-31,60.021874999999994,High
+Maharashtra,Satara,2025-06-30,62.88059701492537,High
+Maharashtra,Satara,2025-07-31,33.937254901960785,High
+Maharashtra,Satara,2025-09-30,17.025132475397424,High
+Maharashtra,Satara,2025-10-31,1.8918330308529947,High
+Maharashtra,Sindhudurg,2025-09-30,10.15191256830601,High
+Maharashtra,Sindhudurg,2025-10-31,3.9269841269841272,High
+Maharashtra,Solapur,2025-04-30,29.90909090909091,High
+Maharashtra,Solapur,2025-05-31,36.29082125603865,High
+Maharashtra,Solapur,2025-07-31,49.26167557932264,High
+Maharashtra,Solapur,2025-09-30,7.9892593685452935,High
+Maharashtra,Solapur,2025-10-31,2.55968253968254,High
+Maharashtra,Thane,2025-03-31,932.6,High
+Maharashtra,Thane,2025-04-30,9.601688992428654,High
+Maharashtra,Thane,2025-05-31,16.85566037735849,High
+Maharashtra,Thane,2025-06-30,9.684143858855462,High
+Maharashtra,Thane,2025-07-31,6.724308865586273,High
+Maharashtra,Thane,2025-09-30,4.417881548974943,High
+Maharashtra,Thane,2025-10-31,1.099195365304152,High
+Maharashtra,Wardha,2025-09-30,10.919556171983357,High
+Maharashtra,Wardha,2025-10-31,1.7570093457943927,High
+Maharashtra,Washim,2025-05-31,37.06315789473684,High
+Maharashtra,Washim,2025-07-31,23.273960612691468,High
+Maharashtra,Washim,2025-09-30,12.130306748466257,High
+Maharashtra,Washim,2025-10-31,0.7790633608815427,High
+Maharashtra,Washim *,2025-09-30,7.818181818181818,High
+Maharashtra,Washim *,2025-10-31,1.1333333333333335,High
+Maharashtra,Yavatmal,2025-05-31,48.01096605744126,High
+Maharashtra,Yavatmal,2025-07-31,17.178341013824884,High
+Maharashtra,Yavatmal,2025-09-30,10.10312925170068,High
+Maharashtra,Yavatmal,2025-10-31,2.9658409387222946,High
+Manipur,Bishnupur,2025-05-31,4.624864864864865,High
+Manipur,Bishnupur,2025-09-30,7.456521739130435,High
+Manipur,Bishnupur,2025-10-31,15.53587786259542,High
+Manipur,Chandel,2025-09-30,1.2022535211267606,High
+Manipur,Chandel,2025-10-31,2.6285714285714286,High
+Manipur,Churachandpur,2025-04-30,1.7287974683544303,High
+Manipur,Churachandpur,2025-06-30,1.3950248756218904,High
+Manipur,Churachandpur,2025-07-31,1.350922509225092,High
+Manipur,Churachandpur,2025-09-30,1.4203076923076923,High
+Manipur,Churachandpur,2025-10-31,1.4890756302521009,High
+Manipur,Imphal East,2025-09-30,8.89607843137255,High
+Manipur,Imphal East,2025-10-31,4.697267759562842,High
+Manipur,Imphal West,2025-05-31,16.160377358490564,High
+Manipur,Imphal West,2025-09-30,11.051827242524919,High
+Manipur,Imphal West,2025-10-31,4.499328859060403,High
+Manipur,Jiribam,2025-09-30,2.869767441860465,High
+Manipur,Jiribam,2025-10-31,2.2222222222222223,High
+Manipur,Kakching,2025-09-30,8.41578947368421,High
+Manipur,Kakching,2025-10-31,4.211764705882353,High
+Manipur,Pherzawl,2025-09-30,0.17142857142857143,High
+Manipur,Pherzawl,2025-10-31,11.600000000000001,High
+Manipur,Senapati,2025-09-30,2.50605504587156,High
+Manipur,Senapati,2025-10-31,1.651877133105802,High
+Manipur,Tamenglong,2025-09-30,1.4742049469964664,High
+Manipur,Tamenglong,2025-10-31,0.3931428571428572,High
+Manipur,Thoubal,2025-09-30,11.055593220338984,High
+Manipur,Thoubal,2025-10-31,12.683076923076925,High
+Manipur,Ukhrul,2025-09-30,2.3833333333333333,High
+Manipur,Ukhrul,2025-10-31,0.24065040650406508,High
+Meghalaya,East Garo Hills,2025-04-30,0.12075471698113208,High
+Meghalaya,East Garo Hills,2025-05-31,0.31173184357541894,High
+Meghalaya,East Garo Hills,2025-06-30,0.24545454545454545,High
+Meghalaya,East Garo Hills,2025-07-31,0.20881801125703564,High
+Meghalaya,East Garo Hills,2025-09-30,0.661656050955414,High
+Meghalaya,East Garo Hills,2025-10-31,0.3838926174496644,High
+Meghalaya,East Jaintia Hills,2025-04-30,0.12064777327935222,High
+Meghalaya,East Jaintia Hills,2025-05-31,0.25564387917329096,High
+Meghalaya,East Jaintia Hills,2025-06-30,0.11735941320293398,High
+Meghalaya,East Jaintia Hills,2025-07-31,0.17762237762237762,High
+Meghalaya,East Jaintia Hills,2025-09-30,0.7049019607843137,High
+Meghalaya,East Jaintia Hills,2025-10-31,0.1696969696969697,High
+Meghalaya,East Khasi Hills,2025-03-31,7.3919999999999995,High
+Meghalaya,East Khasi Hills,2025-04-30,0.24752500641190048,High
+Meghalaya,East Khasi Hills,2025-05-31,0.31507968941561093,High
+Meghalaya,East Khasi Hills,2025-06-30,0.3481528662420382,High
+Meghalaya,East Khasi Hills,2025-07-31,0.29143638020042517,High
+Meghalaya,East Khasi Hills,2025-09-30,0.7177433247200689,High
+Meghalaya,East Khasi Hills,2025-10-31,0.32124849939975997,High
+Meghalaya,Eastern West Khasi Hills,2025-09-30,0.1219047619047619,High
+Meghalaya,Eastern West Khasi Hills,2025-10-31,0.029268292682926828,Medium
+Meghalaya,Jaintia Hills,2025-10-31,0.4,High
+Meghalaya,Kamrup,2025-07-31,0.0,Low
+Meghalaya,North Garo Hills,2025-04-30,0.08307692307692308,High
+Meghalaya,North Garo Hills,2025-05-31,0.2722222222222222,High
+Meghalaya,North Garo Hills,2025-07-31,0.36885245901639346,High
+Meghalaya,North Garo Hills,2025-09-30,0.45714285714285713,High
+Meghalaya,North Garo Hills,2025-10-31,0.6086956521739131,High
+Meghalaya,Ri Bhoi,2025-03-31,13.605970149253732,High
+Meghalaya,Ri Bhoi,2025-04-30,0.11547363909129875,High
+Meghalaya,Ri Bhoi,2025-05-31,0.16594157862026102,High
+Meghalaya,Ri Bhoi,2025-06-30,0.2582375478927203,High
+Meghalaya,Ri Bhoi,2025-07-31,0.1371287128712871,High
+Meghalaya,Ri Bhoi,2025-09-30,0.6761194029850746,High
+Meghalaya,Ri Bhoi,2025-10-31,0.4372093023255814,High
+Meghalaya,South Garo Hills,2025-04-30,0.11805359661495063,High
+Meghalaya,South Garo Hills,2025-05-31,0.15854014598540145,High
+Meghalaya,South Garo Hills,2025-06-30,0.1088929219600726,High
+Meghalaya,South Garo Hills,2025-07-31,0.13950617283950617,High
+Meghalaya,South Garo Hills,2025-09-30,0.2556616643929059,High
+Meghalaya,South Garo Hills,2025-10-31,0.2013793103448276,High
+Meghalaya,South West Garo Hills,2025-04-30,0.20180281690140844,High
+Meghalaya,South West Garo Hills,2025-05-31,0.39123904881101373,High
+Meghalaya,South West Garo Hills,2025-06-30,0.41650485436893203,High
+Meghalaya,South West Garo Hills,2025-07-31,0.41595092024539876,High
+Meghalaya,South West Garo Hills,2025-09-30,0.9351888667992049,High
+Meghalaya,South West Garo Hills,2025-10-31,0.3384615384615385,High
+Meghalaya,South West Khasi Hills,2025-04-30,0.24716599190283398,High
+Meghalaya,South West Khasi Hills,2025-05-31,0.5510436432637571,High
+Meghalaya,South West Khasi Hills,2025-06-30,0.3,High
+Meghalaya,South West Khasi Hills,2025-07-31,0.2750670241286863,High
+Meghalaya,South West Khasi Hills,2025-09-30,0.9904000000000001,High
+Meghalaya,South West Khasi Hills,2025-10-31,0.09230769230769231,High
+Meghalaya,West Garo Hills,2025-04-30,0.6925195787199568,High
+Meghalaya,West Garo Hills,2025-05-31,1.210566037735849,High
+Meghalaya,West Garo Hills,2025-06-30,1.5541191381495563,High
+Meghalaya,West Garo Hills,2025-07-31,0.9541075168722364,High
+Meghalaya,West Garo Hills,2025-09-30,1.5940035273368607,High
+Meghalaya,West Garo Hills,2025-10-31,0.33586206896551724,High
+Meghalaya,West Jaintia Hills,2025-03-31,2.3650980392156864,High
+Meghalaya,West Jaintia Hills,2025-04-30,0.17442577991086733,High
+Meghalaya,West Jaintia Hills,2025-05-31,0.1711949114039073,High
+Meghalaya,West Jaintia Hills,2025-06-30,0.1744981009224091,High
+Meghalaya,West Jaintia Hills,2025-07-31,0.20327868852459016,High
+Meghalaya,West Jaintia Hills,2025-09-30,0.49264853977844913,High
+Meghalaya,West Jaintia Hills,2025-10-31,0.13188405797101452,High
+Meghalaya,West Khasi Hills,2025-03-31,1.3702823179791976,High
+Meghalaya,West Khasi Hills,2025-04-30,0.11565495207667731,High
+Meghalaya,West Khasi Hills,2025-05-31,0.17393092105263158,High
+Meghalaya,West Khasi Hills,2025-06-30,0.1879650895728066,High
+Meghalaya,West Khasi Hills,2025-07-31,0.18369715390991986,High
+Meghalaya,West Khasi Hills,2025-09-30,0.701364522417154,High
+Meghalaya,West Khasi Hills,2025-10-31,0.30226244343891406,High
+Mizoram,Aizawl,2025-09-30,5.031232876712329,High
+Mizoram,Aizawl,2025-10-31,0.7073891625615764,High
+Mizoram,Champhai,2025-04-30,6.068478260869566,High
+Mizoram,Champhai,2025-06-30,5.871014492753623,High
+Mizoram,Champhai,2025-07-31,2.3232558139534882,High
+Mizoram,Champhai,2025-09-30,3.68258064516129,High
+Mizoram,Champhai,2025-10-31,0.4186046511627908,High
+Mizoram,Hnahthial,2025-09-30,4.2,High
+Mizoram,Khawzawl,2025-09-30,0.5142857142857142,High
+Mizoram,Khawzawl,2025-10-31,0.023529411764705882,Medium
+Mizoram,Kolasib,2025-07-31,4.277647058823529,High
+Mizoram,Kolasib,2025-09-30,3.051351351351351,High
+Mizoram,Kolasib,2025-10-31,0.39,High
+Mizoram,Lawngtlai,2025-05-31,1.822641509433962,High
+Mizoram,Lawngtlai,2025-06-30,4.258959537572254,High
+Mizoram,Lawngtlai,2025-07-31,2.0272727272727273,High
+Mizoram,Lawngtlai,2025-09-30,2.837795275590551,High
+Mizoram,Lawngtlai,2025-10-31,0.44800000000000006,High
+Mizoram,Lunglei,2025-05-31,5.3737704918032785,High
+Mizoram,Lunglei,2025-07-31,8.093333333333334,High
+Mizoram,Lunglei,2025-09-30,3.4323232323232324,High
+Mizoram,Lunglei,2025-10-31,0.723529411764706,High
+Mizoram,Mamit,2025-09-30,4.003636363636363,High
+Mizoram,Mamit,2025-10-31,0.4695652173913044,High
+Mizoram,Mammit,2025-09-30,3.4947368421052634,High
+Mizoram,Mammit,2025-10-31,0.4181818181818182,High
+Mizoram,Saiha,2025-05-31,0.9934426229508196,High
+Mizoram,Saiha,2025-07-31,0.8941176470588236,High
+Mizoram,Saiha,2025-09-30,1.2232876712328766,High
+Mizoram,Saiha,2025-10-31,0.8355555555555556,High
+Mizoram,Saitual,2025-09-30,8.2,High
+Mizoram,Saitual,2025-10-31,2.8000000000000003,High
+Mizoram,Serchhip,2025-09-30,10.904761904761905,High
+Mizoram,Serchhip,2025-10-31,0.32000000000000006,High
+Nagaland,Chumukedima,2025-04-30,0.627906976744186,High
+Nagaland,Chumukedima,2025-09-30,1.1076923076923078,High
+Nagaland,Chumukedima,2025-10-31,2.1750000000000003,High
+Nagaland,Dimapur,2025-04-30,2.2950191570881224,High
+Nagaland,Dimapur,2025-05-31,4.128125,High
+Nagaland,Dimapur,2025-06-30,4.134748010610079,High
+Nagaland,Dimapur,2025-07-31,2.1482142857142854,High
+Nagaland,Dimapur,2025-09-30,3.576203966005666,High
+Nagaland,Dimapur,2025-10-31,0.45086705202312144,High
+Nagaland,Kiphire,2025-07-31,0.9442622950819671,High
+Nagaland,Kiphire,2025-09-30,1.4328358208955223,High
+Nagaland,Kiphire,2025-10-31,0.20800000000000002,High
+Nagaland,Kohima,2025-04-30,1.6356037151702785,High
+Nagaland,Kohima,2025-07-31,5.186610878661088,High
+Nagaland,Kohima,2025-09-30,2.5359374999999997,High
+Nagaland,Kohima,2025-10-31,0.21578947368421053,High
+Nagaland,Longleng,2025-04-30,0.5707317073170731,High
+Nagaland,Longleng,2025-07-31,0.8256410256410256,High
+Nagaland,Longleng,2025-09-30,0.9433962264150942,High
+Nagaland,Longleng,2025-10-31,0.22000000000000003,High
+Nagaland,Meluri,2025-09-30,17.75,High
+Nagaland,Meluri,2025-10-31,0.0,Low
+Nagaland,Mokokchung,2025-07-31,2.8063636363636366,High
+Nagaland,Mokokchung,2025-09-30,5.2696969696969695,High
+Nagaland,Mokokchung,2025-10-31,0.3666666666666667,High
+Nagaland,Mon,2025-06-30,5.420689655172414,High
+Nagaland,Mon,2025-07-31,1.272382851445663,High
+Nagaland,Mon,2025-09-30,1.8062337662337662,High
+Nagaland,Mon,2025-10-31,0.24788732394366197,High
+Nagaland,Niuland,2025-09-30,1.125,High
+Nagaland,Niuland,2025-10-31,0.9714285714285714,High
+Nagaland,Noklak,2025-04-30,0.4453125,High
+Nagaland,Noklak,2025-09-30,1.8814814814814813,High
+Nagaland,Noklak,2025-10-31,0.19230769230769232,High
+Nagaland,Peren,2025-04-30,0.7202205882352941,High
+Nagaland,Peren,2025-05-31,1.5106382978723405,High
+Nagaland,Peren,2025-06-30,1.6117021276595744,High
+Nagaland,Peren,2025-07-31,1.6528301886792451,High
+Nagaland,Peren,2025-09-30,2.033557046979866,High
+Nagaland,Peren,2025-10-31,0.3666666666666667,High
+Nagaland,Phek,2025-04-30,2.2161073825503355,High
+Nagaland,Phek,2025-09-30,2.2706896551724136,High
+Nagaland,Phek,2025-10-31,0.16827586206896553,High
+Nagaland,Shamator,2025-09-30,0.2858974358974359,High
+Nagaland,Shamator,2025-10-31,0.5076923076923077,High
+Nagaland,Tseminyu,2025-09-30,0.5333333333333333,High
+Nagaland,Tseminyu,2025-10-31,0.0,Low
+Nagaland,Tuensang,2025-04-30,1.386083499005964,High
+Nagaland,Tuensang,2025-07-31,1.5181996086105676,High
+Nagaland,Tuensang,2025-09-30,2.0885844748858444,High
+Nagaland,Tuensang,2025-10-31,0.14603174603174604,High
+Nagaland,Wokha,2025-07-31,2.2185483870967744,High
+Nagaland,Wokha,2025-09-30,1.5714285714285714,High
+Nagaland,Wokha,2025-10-31,0.15384615384615385,High
+Nagaland,Zunheboto,2025-07-31,1.5782234957020058,High
+Nagaland,Zunheboto,2025-09-30,3.634920634920635,High
+Nagaland,Zunheboto,2025-10-31,0.24,High
+ODISHA,NUAPADA,2025-09-30,7.2,High
+Odisha,ANUGUL,2025-09-30,4.866666666666667,High
+Odisha,ANUGUL,2025-10-31,0.2,High
+Odisha,Angul,2025-09-30,3.5091432685385167,High
+Odisha,Angul,2025-10-31,1.0828025477707006,High
+Odisha,Anugul,2025-09-30,3.5946666666666665,High
+Odisha,Anugul,2025-10-31,2.4000000000000004,High
+Odisha,Balangir,2025-09-30,2.55114006514658,High
+Odisha,Balangir,2025-10-31,0.4846715328467154,High
+Odisha,Baleshwar,2025-09-30,5.338161559888579,High
+Odisha,Baleshwar,2025-10-31,1.4229007633587787,High
+Odisha,Baleswar,2025-09-30,2.430257186081694,High
+Odisha,Baleswar,2025-10-31,0.5287981859410431,High
+Odisha,Bargarh,2025-09-30,2.4353312302839116,High
+Odisha,Bargarh,2025-10-31,0.72782874617737,High
+Odisha,Baudh,2025-09-30,4.2,High
+Odisha,Baudh,2025-10-31,1.2000000000000002,High
+Odisha,Bhadrak,2025-09-30,3.319014778325123,High
+Odisha,Bhadrak,2025-10-31,0.4324763193504736,High
+Odisha,Boudh,2025-09-30,2.7481481481481485,High
+Odisha,Boudh,2025-10-31,0.7639484978540773,High
+Odisha,Cuttack,2025-09-30,3.766003787878788,High
+Odisha,Cuttack,2025-10-31,0.6521106259097526,High
+Odisha,Debagarh,2025-09-30,3.0182890855457223,High
+Odisha,Debagarh,2025-10-31,1.0945454545454545,High
+Odisha,Dhenkanal,2025-09-30,3.7157566302652105,High
+Odisha,Dhenkanal,2025-10-31,0.6950437317784257,High
+Odisha,Gajapati,2025-09-30,3.49979381443299,High
+Odisha,Gajapati,2025-10-31,1.011063829787234,High
+Odisha,Ganjam,2025-09-30,3.356595744680851,High
+Odisha,Ganjam,2025-10-31,0.8610045662100456,High
+Odisha,JAJPUR,2025-09-30,2.913695652173913,High
+Odisha,JAJPUR,2025-10-31,0.496969696969697,High
+Odisha,Jagatsinghapur,2025-09-30,3.076422764227642,High
+Odisha,Jagatsinghapur,2025-10-31,0.12534174553101998,High
+Odisha,Jagatsinghpur,2025-09-30,6.004901960784315,High
+Odisha,Jagatsinghpur,2025-10-31,0.38823529411764707,High
+Odisha,Jajapur,2025-09-30,3.6873298429319368,High
+Odisha,Jajapur,2025-10-31,0.621606648199446,High
+Odisha,Jajpur,2025-09-30,5.32,High
+Odisha,Jajpur,2025-10-31,0.9,High
+Odisha,Jharsuguda,2025-09-30,3.8453333333333335,High
+Odisha,Jharsuguda,2025-10-31,0.9648484848484848,High
+Odisha,Kalahandi,2025-09-30,3.4401946472019467,High
+Odisha,Kalahandi,2025-10-31,0.7203208556149733,High
+Odisha,Kandhamal,2025-09-30,2.537913486005089,High
+Odisha,Kandhamal,2025-10-31,0.7319148936170213,High
+Odisha,Kendrapara,2025-09-30,3.3518806744487675,High
+Odisha,Kendrapara,2025-10-31,0.5848484848484848,High
+Odisha,Kendujhar,2025-09-30,2.6796240922682615,High
+Odisha,Kendujhar,2025-10-31,0.7753743760399335,High
+Odisha,Khorda,2025-09-30,3.317585983127839,High
+Odisha,Khorda,2025-10-31,0.5412587412587413,High
+Odisha,Khordha,2025-07-31,8.441379310344827,High
+Odisha,Khordha,2025-09-30,7.663235294117647,High
+Odisha,Khordha,2025-10-31,1.0947368421052632,High
+Odisha,Koraput,2025-09-30,3.7015748031496063,High
+Odisha,Koraput,2025-10-31,0.5161500815660686,High
+Odisha,Malkangiri,2025-09-30,1.726634382566586,High
+Odisha,Malkangiri,2025-10-31,0.7206225680933853,High
+Odisha,Mayurbhanj,2025-09-30,2.2670419651995903,High
+Odisha,Mayurbhanj,2025-10-31,0.6117847993168233,High
+Odisha,NUAPADA,2025-09-30,2.4571428571428573,High
+Odisha,NUAPADA,2025-10-31,0.8,High
+Odisha,Nabarangapur,2025-04-30,28.254347826086956,High
+Odisha,Nabarangapur,2025-09-30,2.1432253800396563,High
+Odisha,Nabarangapur,2025-10-31,0.35814977973568285,High
+Odisha,Nabarangpur,2025-07-31,0.0,Low
+Odisha,Nayagarh,2025-09-30,4.534571723426213,High
+Odisha,Nayagarh,2025-10-31,0.7439775910364146,High
+Odisha,Nuapada,2025-09-30,3.8299345182413473,High
+Odisha,Nuapada,2025-10-31,0.7197231833910035,High
+Odisha,Puri,2025-09-30,3.2786287381473374,High
+Odisha,Puri,2025-10-31,0.7707317073170732,High
+Odisha,Rayagada,2025-09-30,2.2865419432709717,High
+Odisha,Rayagada,2025-10-31,0.8551724137931034,High
+Odisha,Sambalpur,2025-09-30,3.5109278350515463,High
+Odisha,Sambalpur,2025-10-31,0.7974440894568691,High
+Odisha,Sonapur,2025-09-30,2.473641304347826,High
+Odisha,Sonapur,2025-10-31,0.6806629834254144,High
+Odisha,Subarnapur,2025-09-30,2.5,High
+Odisha,Subarnapur,2025-10-31,0.8131147540983608,High
+Odisha,Sundargarh,2025-09-30,4.536842105263157,High
+Odisha,Sundargarh,2025-10-31,1.0575342465753426,High
+Odisha,Sundergarh,2025-09-30,2.8958103638368247,High
+Odisha,Sundergarh,2025-10-31,0.758148893360161,High
+Odisha,jajpur,2025-09-30,2.8666666666666663,High
+Odisha,jajpur,2025-10-31,0.0,Low
+Orissa,Anugul,2025-09-30,2.52,High
+Orissa,Anugul,2025-10-31,0.4,High
+Orissa,Balangir,2025-09-30,4.1842364532019705,High
+Orissa,Balangir,2025-10-31,1.5655172413793104,High
+Orissa,Baleshwar,2025-09-30,2.5281045751633986,High
+Orissa,Baleshwar,2025-10-31,0.36800000000000005,High
+Orissa,Baleswar,2025-10-31,0.8,High
+Orissa,Bargarh,2025-09-30,2.6470588235294117,High
+Orissa,Bargarh,2025-10-31,0.923076923076923,High
+Orissa,Bhadrak,2025-09-30,2.8044943820224715,High
+Orissa,Bhadrak,2025-10-31,0.5333333333333333,High
+Orissa,Cuttack,2025-09-30,4.781512605042017,High
+Orissa,Cuttack,2025-10-31,0.29473684210526313,High
+Orissa,Debagarh,2025-09-30,0.2,High
+Orissa,Debagarh,2025-10-31,0.0,Low
+Orissa,Dhenkanal,2025-09-30,3.306382978723404,High
+Orissa,Dhenkanal,2025-10-31,0.38,High
+Orissa,Gajapati,2025-09-30,4.933333333333334,High
+Orissa,Ganjam,2025-09-30,4.265648854961832,High
+Orissa,Ganjam,2025-10-31,0.6746268656716419,High
+Orissa,Jagatsinghapur,2025-09-30,3.82,High
+Orissa,Jagatsinghapur,2025-10-31,0.05714285714285714,High
+Orissa,Jajapur,2025-09-30,1.9414634146341465,High
+Orissa,Jajapur,2025-10-31,0.6400000000000001,High
+Orissa,Jharsuguda,2025-09-30,1.6285714285714286,High
+Orissa,Jharsuguda,2025-10-31,0.22857142857142856,High
+Orissa,Kalahandi,2025-09-30,0.5499999999999999,High
+Orissa,Kalahandi,2025-10-31,0.0,Low
+Orissa,Kandhamal,2025-09-30,3.225,High
+Orissa,Kandhamal,2025-10-31,1.3333333333333335,High
+Orissa,Kendrapara,2025-09-30,2.8117647058823527,High
+Orissa,Kendrapara,2025-10-31,0.6857142857142857,High
+Orissa,Kendujhar,2025-09-30,1.9157894736842105,High
+Orissa,Kendujhar,2025-10-31,4.4,High
+Orissa,Khordha,2025-09-30,3.735570469798658,High
+Orissa,Khordha,2025-10-31,0.6000000000000001,High
+Orissa,Koraput,2025-09-30,3.8385964912280697,High
+Orissa,Koraput,2025-10-31,0.9846153846153847,High
+Orissa,Malkangiri,2025-09-30,1.8272727272727274,High
+Orissa,Malkangiri,2025-10-31,0.6000000000000001,High
+Orissa,Mayurbhanj,2025-09-30,0.9285714285714286,High
+Orissa,Mayurbhanj,2025-10-31,0.8,High
+Orissa,Nabarangapur,2025-10-31,0.0,Low
+Orissa,Nayagarh,2025-09-30,5.33,High
+Orissa,Nayagarh,2025-10-31,0.5066666666666667,High
+Orissa,Nuapada,2025-10-31,0.0,Low
+Orissa,Puri,2025-09-30,3.7103448275862068,High
+Orissa,Puri,2025-10-31,1.2000000000000002,High
+Orissa,Rayagada,2025-09-30,1.5094736842105263,High
+Orissa,Rayagada,2025-10-31,0.675,High
+Orissa,Sambalpur,2025-09-30,8.85,High
+Orissa,Sambalpur,2025-10-31,0.4,High
+Orissa,Sonapur,2025-09-30,1.8888888888888888,High
+Orissa,Sonapur,2025-10-31,0.0,Low
+Orissa,Subarnapur,2025-09-30,4.6,High
+Orissa,Sundargarh,2025-09-30,3.070833333333333,High
+Orissa,Sundargarh,2025-10-31,0.6315789473684211,High
+Orissa,Sundergarh,2025-09-30,0.6,High
+Pondicherry,Karaikal,2025-09-30,7.844776119402985,High
+Pondicherry,Karaikal,2025-10-31,0.36000000000000004,High
+Pondicherry,Pondicherry,2025-09-30,6.198185941043083,High
+Pondicherry,Pondicherry,2025-10-31,0.8452830188679246,High
+Pondicherry,Yanam,2025-09-30,6.125,High
+Pondicherry,Yanam,2025-10-31,0.0,Low
+Puducherry,Karaikal,2025-09-30,10.478980891719743,High
+Puducherry,Karaikal,2025-10-31,0.7785714285714286,High
+Puducherry,Pondicherry,2025-10-31,0.4,High
+Puducherry,Puducherry,2025-09-30,7.467873303167421,High
+Puducherry,Puducherry,2025-10-31,1.5299270072992703,High
+Puducherry,Yanam,2025-09-30,6.8,High
+Puducherry,Yanam,2025-10-31,0.8,High
+Punjab,Amritsar,2025-03-31,328.95918367346934,High
+Punjab,Amritsar,2025-04-30,10.700818330605564,High
+Punjab,Amritsar,2025-05-31,13.967761806981521,High
+Punjab,Amritsar,2025-07-31,10.500757134536983,High
+Punjab,Amritsar,2025-09-30,3.8480180180180183,High
+Punjab,Amritsar,2025-10-31,0.9203592814371258,High
+Punjab,Barnala,2025-09-30,4.5982404692082115,High
+Punjab,Barnala,2025-10-31,1.0265734265734265,High
+Punjab,Bathinda,2025-09-30,5.6553389043639735,High
+Punjab,Bathinda,2025-10-31,1.190909090909091,High
+Punjab,Faridkot,2025-09-30,5.353280839895013,High
+Punjab,Faridkot,2025-10-31,1.4666666666666668,High
+Punjab,Fatehgarh Sahib,2025-09-30,5.1482587064676615,High
+Punjab,Fatehgarh Sahib,2025-10-31,1.501639344262295,High
+Punjab,Fazilka,2025-09-30,4.56281179138322,High
+Punjab,Fazilka,2025-10-31,0.907488986784141,High
+Punjab,Ferozepur,2025-09-30,5.391694352159468,High
+Punjab,Ferozepur,2025-10-31,1.8864516129032258,High
+Punjab,Firozpur,2025-09-30,5.019047619047619,High
+Punjab,Firozpur,2025-10-31,3.2615384615384615,High
+Punjab,Gurdaspur,2025-04-30,32.490566037735846,High
+Punjab,Gurdaspur,2025-05-31,53.70204081632653,High
+Punjab,Gurdaspur,2025-07-31,22.262006079027355,High
+Punjab,Gurdaspur,2025-09-30,4.977150722642808,High
+Punjab,Gurdaspur,2025-10-31,0.8240875912408759,High
+Punjab,Hoshiarpur,2025-04-30,21.820238095238096,High
+Punjab,Hoshiarpur,2025-05-31,23.806083650190114,High
+Punjab,Hoshiarpur,2025-06-30,27.63450479233227,High
+Punjab,Hoshiarpur,2025-07-31,29.40219178082192,High
+Punjab,Hoshiarpur,2025-09-30,5.308230452674897,High
+Punjab,Hoshiarpur,2025-10-31,1.1011627906976744,High
+Punjab,Jalandhar,2025-09-30,4.573889636608344,High
+Punjab,Jalandhar,2025-10-31,0.9167883211678833,High
+Punjab,Kapurthala,2025-04-30,6.6223214285714285,High
+Punjab,Kapurthala,2025-05-31,10.462121212121213,High
+Punjab,Kapurthala,2025-06-30,12.705993690851734,High
+Punjab,Kapurthala,2025-07-31,8.06504347826087,High
+Punjab,Kapurthala,2025-09-30,4.539763779527559,High
+Punjab,Kapurthala,2025-10-31,1.1641509433962265,High
+Punjab,Ludhiana,2025-03-31,151.32519083969464,High
+Punjab,Ludhiana,2025-04-30,5.676984414642987,High
+Punjab,Ludhiana,2025-05-31,11.513665943600866,High
+Punjab,Ludhiana,2025-06-30,8.098907103825136,High
+Punjab,Ludhiana,2025-07-31,5.74604872251931,High
+Punjab,Ludhiana,2025-09-30,3.3165927802406583,High
+Punjab,Ludhiana,2025-10-31,1.2625146886016452,High
+Punjab,Malerkotla,2025-09-30,2.8867924528301887,High
+Punjab,Malerkotla,2025-10-31,1.1223300970873786,High
+Punjab,Mansa,2025-09-30,6.907415730337078,High
+Punjab,Mansa,2025-10-31,2.2399999999999998,High
+Punjab,Moga,2025-09-30,4.972455089820359,High
+Punjab,Moga,2025-10-31,1.444808743169399,High
+Punjab,Muktsar,2025-09-30,4.04,High
+Punjab,Muktsar,2025-10-31,1.0666666666666667,High
+Punjab,Nawanshahr,2025-09-30,10.2327868852459,High
+Punjab,Nawanshahr,2025-10-31,3.542857142857143,High
+Punjab,Pathankot,2025-09-30,4.378453038674033,High
+Punjab,Pathankot,2025-10-31,0.9400000000000001,High
+Punjab,Patiala,2025-05-31,18.649337748344372,High
+Punjab,Patiala,2025-07-31,13.479725759059745,High
+Punjab,Patiala,2025-09-30,4.277954388389772,High
+Punjab,Patiala,2025-10-31,1.6150537634408604,High
+Punjab,Rupnagar,2025-09-30,5.042677824267782,High
+Punjab,Rupnagar,2025-10-31,1.5257731958762888,High
+Punjab,S.A.S Nagar,2025-06-30,0.0,Low
+Punjab,S.A.S Nagar,2025-07-31,0.0,Low
+Punjab,S.A.S Nagar(Mohali),2025-09-30,3.338888888888889,High
+Punjab,S.A.S Nagar(Mohali),2025-10-31,0.676923076923077,High
+Punjab,SAS Nagar (Mohali),2025-04-30,17.29,High
+Punjab,SAS Nagar (Mohali),2025-09-30,3.3655104063429135,High
+Punjab,SAS Nagar (Mohali),2025-10-31,0.9655629139072848,High
+Punjab,Sangrur,2025-04-30,31.79638554216867,High
+Punjab,Sangrur,2025-09-30,5.137662337662338,High
+Punjab,Sangrur,2025-10-31,1.5365638766519825,High
+Punjab,Shaheed Bhagat Singh Nagar,2025-09-30,4.449714285714285,High
+Punjab,Shaheed Bhagat Singh Nagar,2025-10-31,1.1105263157894736,High
+Punjab,Sri Muktsar Sahib,2025-09-30,4.728249566724436,High
+Punjab,Sri Muktsar Sahib,2025-10-31,2.091803278688525,High
+Punjab,Tarn Taran,2025-07-31,18.59378238341969,High
+Punjab,Tarn Taran,2025-09-30,4.809044193216855,High
+Punjab,Tarn Taran,2025-10-31,0.8,High
+Rajasthan,Ajmer,2025-04-30,7.431476997578692,High
+Rajasthan,Ajmer,2025-07-31,14.695708154506438,High
+Rajasthan,Ajmer,2025-09-30,4.0530325084910235,High
+Rajasthan,Ajmer,2025-10-31,0.7064089521871821,High
+Rajasthan,Alwar,2025-04-30,13.343217054263565,High
+Rajasthan,Alwar,2025-05-31,15.033041301627033,High
+Rajasthan,Alwar,2025-06-30,14.403250270855903,High
+Rajasthan,Alwar,2025-07-31,8.31316648531012,High
+Rajasthan,Alwar,2025-09-30,3.4647159615131145,High
+Rajasthan,Alwar,2025-10-31,0.448345035105316,High
+Rajasthan,Banswara,2025-09-30,3.9173440893577416,High
+Rajasthan,Banswara,2025-10-31,1.0355785837651124,High
+Rajasthan,Baran,2025-04-30,9.653879310344827,High
+Rajasthan,Baran,2025-07-31,17.164302059496563,High
+Rajasthan,Baran,2025-09-30,4.797762863534675,High
+Rajasthan,Baran,2025-10-31,0.6274314214463841,High
+Rajasthan,Barmer,2025-06-30,15.191185729275968,High
+Rajasthan,Barmer,2025-09-30,3.222588870556472,High
+Rajasthan,Barmer,2025-10-31,0.32063492063492066,High
+Rajasthan,Bharatpur,2025-04-30,27.87177700348432,High
+Rajasthan,Bharatpur,2025-07-31,9.64154154154154,High
+Rajasthan,Bharatpur,2025-09-30,2.528081982257571,High
+Rajasthan,Bharatpur,2025-10-31,0.3462350457424349,High
+Rajasthan,Bhilwara,2025-06-30,11.286772486772486,High
+Rajasthan,Bhilwara,2025-07-31,12.922021660649818,High
+Rajasthan,Bhilwara,2025-09-30,3.1772791686348603,High
+Rajasthan,Bhilwara,2025-10-31,0.592292089249493,High
+Rajasthan,Bikaner,2025-04-30,11.935826296743064,High
+Rajasthan,Bikaner,2025-05-31,10.255537190082645,High
+Rajasthan,Bikaner,2025-06-30,7.030781129156999,High
+Rajasthan,Bikaner,2025-07-31,11.26570281124498,High
+Rajasthan,Bikaner,2025-09-30,3.285084496693608,High
+Rajasthan,Bikaner,2025-10-31,0.5370242214532872,High
+Rajasthan,Bundi,2025-04-30,7.250752688172042,High
+Rajasthan,Bundi,2025-07-31,29.38116591928251,High
+Rajasthan,Bundi,2025-09-30,4.410991636798088,High
+Rajasthan,Bundi,2025-10-31,0.626530612244898,High
+Rajasthan,Chittaurgarh,2025-09-30,1.8541176470588234,High
+Rajasthan,Chittaurgarh,2025-10-31,1.3931034482758622,High
+Rajasthan,Chittorgarh,2025-07-31,4.4470812182741115,High
+Rajasthan,Chittorgarh,2025-09-30,3.903946102021174,High
+Rajasthan,Chittorgarh,2025-10-31,0.7688622754491018,High
+Rajasthan,Churu,2025-04-30,19.273773987206823,High
+Rajasthan,Churu,2025-06-30,16.82018691588785,High
+Rajasthan,Churu,2025-07-31,5.599255813953488,High
+Rajasthan,Churu,2025-09-30,3.465861027190332,High
+Rajasthan,Churu,2025-10-31,0.3869005847953217,High
+Rajasthan,Dausa,2025-09-30,4.912702265372168,High
+Rajasthan,Dausa,2025-10-31,0.7070780399274047,High
+Rajasthan,Deeg ,2025-09-30,6.9,High
+Rajasthan,Dhaulpur,2025-09-30,1.4688524590163934,High
+Rajasthan,Dhaulpur,2025-10-31,0.7000000000000001,High
+Rajasthan,Dholpur,2025-04-30,3.2004464285714285,High
+Rajasthan,Dholpur,2025-07-31,11.839064649243467,High
+Rajasthan,Dholpur,2025-09-30,3.6953995157384987,High
+Rajasthan,Dholpur,2025-10-31,0.8564102564102565,High
+Rajasthan,Dungarpur,2025-04-30,29.14074074074074,High
+Rajasthan,Dungarpur,2025-09-30,4.062770562770563,High
+Rajasthan,Dungarpur,2025-10-31,1.0450651769087524,High
+Rajasthan,Ganganagar,2025-09-30,5.294367588932807,High
+Rajasthan,Ganganagar,2025-10-31,0.9814159292035399,High
+Rajasthan,Hanumangarh,2025-07-31,13.281491344873501,High
+Rajasthan,Hanumangarh,2025-09-30,5.344059124502558,High
+Rajasthan,Hanumangarh,2025-10-31,0.8084656084656086,High
+Rajasthan,Jaipur,2025-04-30,8.608619685497962,High
+Rajasthan,Jaipur,2025-05-31,121.404,High
+Rajasthan,Jaipur,2025-07-31,10.589121582315299,High
+Rajasthan,Jaipur,2025-09-30,3.4917314642426893,High
+Rajasthan,Jaipur,2025-10-31,0.7302752293577982,High
+Rajasthan,Jaisalmer,2025-06-30,22.907462686567165,High
+Rajasthan,Jaisalmer,2025-09-30,3.517871326449563,High
+Rajasthan,Jaisalmer,2025-10-31,0.32666666666666666,High
+Rajasthan,Jalor,2025-04-30,2.7538849646821393,High
+Rajasthan,Jalor,2025-09-30,2.202363782051282,High
+Rajasthan,Jalor,2025-10-31,0.28039391226499555,High
+Rajasthan,Jalore,2025-07-31,0.0,Low
+Rajasthan,Jhalawar,2025-04-30,21.193063583815032,High
+Rajasthan,Jhalawar,2025-09-30,4.081566820276498,High
+Rajasthan,Jhalawar,2025-10-31,0.5636363636363637,High
+Rajasthan,Jhunjhunu,2025-09-30,2.2314285714285713,High
+Rajasthan,Jhunjhunu,2025-10-31,0.6857142857142857,High
+Rajasthan,Jhunjhunun,2025-09-30,3.3682156133828993,High
+Rajasthan,Jhunjhunun,2025-10-31,0.5686323713927227,High
+Rajasthan,Jodhpur,2025-04-30,7.194376098418277,High
+Rajasthan,Jodhpur,2025-05-31,13.8175,High
+Rajasthan,Jodhpur,2025-06-30,20.537416777629826,High
+Rajasthan,Jodhpur,2025-07-31,8.609709480122325,High
+Rajasthan,Jodhpur,2025-09-30,3.6519795062878435,High
+Rajasthan,Jodhpur,2025-10-31,0.5027692307692309,High
+Rajasthan,Karauli,2025-04-30,8.954838709677418,High
+Rajasthan,Karauli,2025-07-31,7.916701902748414,High
+Rajasthan,Karauli,2025-09-30,3.310027855153203,High
+Rajasthan,Karauli,2025-10-31,0.6593698175787729,High
+Rajasthan,Kota,2025-04-30,99.23235294117646,High
+Rajasthan,Kota,2025-09-30,3.2924777183600717,High
+Rajasthan,Kota,2025-10-31,0.4585365853658536,High
+Rajasthan,Nagaur,2025-04-30,15.804123711340207,High
+Rajasthan,Nagaur,2025-06-30,14.84336569579288,High
+Rajasthan,Nagaur,2025-07-31,12.552288845905865,High
+Rajasthan,Nagaur,2025-09-30,3.371286333708045,High
+Rajasthan,Nagaur,2025-10-31,0.4917808219178082,High
+Rajasthan,Pali,2025-04-30,47.48342245989305,High
+Rajasthan,Pali,2025-09-30,3.74807344194466,High
+Rajasthan,Pali,2025-10-31,0.39605911330049265,High
+Rajasthan,Pratapgarh,2025-09-30,4.296613995485327,High
+Rajasthan,Pratapgarh,2025-10-31,0.6814332247557005,High
+Rajasthan,Rajsamand,2025-09-30,4.037453580901857,High
+Rajasthan,Rajsamand,2025-10-31,0.6647773279352227,High
+Rajasthan,Sawai Madhopur,2025-07-31,8.909230769230769,High
+Rajasthan,Sawai Madhopur,2025-09-30,3.7723766072169225,High
+Rajasthan,Sawai Madhopur,2025-10-31,0.4282527881040892,High
+Rajasthan,Sikar,2025-03-31,164.1,High
+Rajasthan,Sikar,2025-04-30,32.48835820895522,High
+Rajasthan,Sikar,2025-07-31,22.525846153846153,High
+Rajasthan,Sikar,2025-09-30,3.414374740340673,High
+Rajasthan,Sikar,2025-10-31,0.709154113557358,High
+Rajasthan,Sirohi,2025-04-30,7.282108626198084,High
+Rajasthan,Sirohi,2025-05-31,6.1831238779174145,High
+Rajasthan,Sirohi,2025-06-30,7.368855534709193,High
+Rajasthan,Sirohi,2025-07-31,2.6120721383879277,High
+Rajasthan,Sirohi,2025-09-30,2.917876658860265,High
+Rajasthan,Sirohi,2025-10-31,0.29612141652613827,High
+Rajasthan,Tonk,2025-07-31,9.072819472616633,High
+Rajasthan,Tonk,2025-09-30,4.442160611854685,High
+Rajasthan,Tonk,2025-10-31,0.6618595825426945,High
+Rajasthan,Udaipur,2025-04-30,75.0530303030303,High
+Rajasthan,Udaipur,2025-07-31,21.25754385964912,High
+Rajasthan,Udaipur,2025-09-30,3.491684901531728,High
+Rajasthan,Udaipur,2025-10-31,0.4965811965811966,High
+Sikkim,East,2025-09-30,2.867816091954023,High
+Sikkim,East,2025-10-31,0.9307692307692309,High
+Sikkim,East Sikkim,2025-09-30,2.454304635761589,High
+Sikkim,East Sikkim,2025-10-31,0.5811320754716981,High
+Sikkim,Mangan,2025-10-31,2.0,High
+Sikkim,Namchi,2025-09-30,1.3090909090909093,High
+Sikkim,Namchi,2025-10-31,0.2,High
+Sikkim,North,2025-09-30,3.1764705882352944,High
+Sikkim,North,2025-10-31,0.2,High
+Sikkim,North Sikkim,2025-09-30,3.442105263157895,High
+Sikkim,North Sikkim,2025-10-31,0.68,High
+Sikkim,South,2025-09-30,2.471153846153846,High
+Sikkim,South,2025-10-31,1.430769230769231,High
+Sikkim,South Sikkim,2025-04-30,4.9346938775510205,High
+Sikkim,South Sikkim,2025-07-31,0.5607692307692308,High
+Sikkim,South Sikkim,2025-09-30,1.762857142857143,High
+Sikkim,South Sikkim,2025-10-31,0.5142857142857143,High
+Sikkim,West,2025-09-30,2.5431578947368423,High
+Sikkim,West,2025-10-31,0.9333333333333335,High
+Sikkim,West Sikkim,2025-04-30,4.0062992125984245,High
+Sikkim,West Sikkim,2025-07-31,1.2596491228070177,High
+Sikkim,West Sikkim,2025-09-30,1.6,High
+Sikkim,West Sikkim,2025-10-31,0.7538461538461538,High
+Tamil Nadu,Ariyalur,2025-09-30,4.0570291777188325,High
+Tamil Nadu,Ariyalur,2025-10-31,0.8349809885931561,High
+Tamil Nadu,Chengalpattu,2025-07-31,1.2902654867256638,High
+Tamil Nadu,Chengalpattu,2025-09-30,2.307826086956522,High
+Tamil Nadu,Chengalpattu,2025-10-31,1.6462809917355372,High
+Tamil Nadu,Chennai,2025-07-31,43.689,High
+Tamil Nadu,Chennai,2025-09-30,4.437515842839036,High
+Tamil Nadu,Chennai,2025-10-31,1.0051882845188285,High
+Tamil Nadu,Coimbatore,2025-05-31,207.01573033707865,High
+Tamil Nadu,Coimbatore,2025-09-30,3.834099868593955,High
+Tamil Nadu,Coimbatore,2025-10-31,0.8928877463581835,High
+Tamil Nadu,Cuddalore,2025-05-31,78.01276595744682,High
+Tamil Nadu,Cuddalore,2025-09-30,2.554250882258582,High
+Tamil Nadu,Cuddalore,2025-10-31,0.8545454545454545,High
+Tamil Nadu,Dharmapuri,2025-09-30,2.7917681159420287,High
+Tamil Nadu,Dharmapuri,2025-10-31,0.6775888717156106,High
+Tamil Nadu,Dindigul,2025-09-30,3.939751818570817,High
+Tamil Nadu,Dindigul,2025-10-31,0.9292517006802721,High
+Tamil Nadu,Erode,2025-09-30,3.5424283765347884,High
+Tamil Nadu,Erode,2025-10-31,0.9250361794500723,High
+Tamil Nadu,Kallakurichi,2025-06-30,1.528395061728395,High
+Tamil Nadu,Kallakurichi,2025-09-30,1.7391666666666667,High
+Tamil Nadu,Kallakurichi,2025-10-31,1.1805825242718446,High
+Tamil Nadu,Kancheepuram,2025-04-30,47.306707317073176,High
+Tamil Nadu,Kancheepuram,2025-09-30,2.8193034372865924,High
+Tamil Nadu,Kancheepuram,2025-10-31,0.7007281553398058,High
+Tamil Nadu,Kanchipuram,2025-03-31,0.0,Low
+Tamil Nadu,Kanchipuram,2025-06-30,0.0,Low
+Tamil Nadu,Kanchipuram,2025-10-31,0.0,Low
+Tamil Nadu,Kanniyakumari,2025-09-30,5.269896193771626,High
+Tamil Nadu,Kanniyakumari,2025-10-31,1.1075,High
+Tamil Nadu,Kanyakumari,2025-09-30,2.92863309352518,High
+Tamil Nadu,Kanyakumari,2025-10-31,0.6245847176079735,High
+Tamil Nadu,Karur,2025-09-30,2.3127086007702182,High
+Tamil Nadu,Karur,2025-10-31,0.46968973747016707,High
+Tamil Nadu,Krishnagiri,2025-09-30,3.376674641148325,High
+Tamil Nadu,Krishnagiri,2025-10-31,0.8081632653061224,High
+Tamil Nadu,Madurai,2025-04-30,137.4226086956522,High
+Tamil Nadu,Madurai,2025-06-30,149.7,High
+Tamil Nadu,Madurai,2025-09-30,2.688212535465566,High
+Tamil Nadu,Madurai,2025-10-31,0.8288425047438331,High
+Tamil Nadu,Mayiladuthurai,2025-09-30,1.5980198019801979,High
+Tamil Nadu,Mayiladuthurai,2025-10-31,0.6357142857142857,High
+Tamil Nadu,Nagapattinam,2025-09-30,2.730125247198418,High
+Tamil Nadu,Nagapattinam,2025-10-31,1.0264840182648403,High
+Tamil Nadu,Namakkal,2025-09-30,2.928578603716725,High
+Tamil Nadu,Namakkal,2025-10-31,1.2131274131274132,High
+Tamil Nadu,Namakkal   *,2025-09-30,0.0,Low
+Tamil Nadu,Perambalur,2025-09-30,3.677935483870968,High
+Tamil Nadu,Perambalur,2025-10-31,0.5669172932330827,High
+Tamil Nadu,Pudukkottai,2025-05-31,44.554736842105264,High
+Tamil Nadu,Pudukkottai,2025-09-30,2.378095975232198,High
+Tamil Nadu,Pudukkottai,2025-10-31,0.6787878787878788,High
+Tamil Nadu,Ramanathapuram,2025-06-30,48.40657894736842,High
+Tamil Nadu,Ramanathapuram,2025-09-30,3.484737678855326,High
+Tamil Nadu,Ramanathapuram,2025-10-31,0.7528344671201814,High
+Tamil Nadu,Ranipet,2025-09-30,2.166666666666667,High
+Tamil Nadu,Ranipet,2025-10-31,1.5076923076923077,High
+Tamil Nadu,Salem,2025-06-30,31.210931174089065,High
+Tamil Nadu,Salem,2025-09-30,3.513239267487241,High
+Tamil Nadu,Salem,2025-10-31,0.8956375838926175,High
+Tamil Nadu,Sivaganga,2025-06-30,61.71612903225806,High
+Tamil Nadu,Sivaganga,2025-09-30,3.1920377867746286,High
+Tamil Nadu,Sivaganga,2025-10-31,0.6383505154639176,High
+Tamil Nadu,Tenkasi,2025-09-30,1.8170212765957445,High
+Tamil Nadu,Tenkasi,2025-10-31,0.7204968944099379,High
+Tamil Nadu,Thanjavur,2025-04-30,204.17857142857144,High
+Tamil Nadu,Thanjavur,2025-09-30,2.8409431137724552,High
+Tamil Nadu,Thanjavur,2025-10-31,0.8197718631178708,High
+Tamil Nadu,The Nilgiris,2025-09-30,3.213013698630137,High
+Tamil Nadu,The Nilgiris,2025-10-31,0.8846846846846846,High
+Tamil Nadu,Theni,2025-09-30,3.242641209228321,High
+Tamil Nadu,Theni,2025-10-31,0.9058295964125561,High
+Tamil Nadu,Thiruvallur,2025-07-31,0.25144508670520227,High
+Tamil Nadu,Thiruvallur,2025-09-30,3.6422535211267606,High
+Tamil Nadu,Thiruvallur,2025-10-31,0.6511627906976745,High
+Tamil Nadu,Thiruvarur,2025-09-30,2.448534423994547,High
+Tamil Nadu,Thiruvarur,2025-10-31,1.215686274509804,High
+Tamil Nadu,Thoothukkudi,2025-09-30,3.089745109662122,High
+Tamil Nadu,Thoothukkudi,2025-10-31,0.7313131313131314,High
+Tamil Nadu,Tiruchirappalli,2025-09-30,2.3068332483426826,High
+Tamil Nadu,Tiruchirappalli,2025-10-31,0.6635568513119534,High
+Tamil Nadu,Tirunelveli,2025-09-30,3.372328186497124,High
+Tamil Nadu,Tirunelveli,2025-10-31,0.5416609471516816,High
+Tamil Nadu,Tirupathur,2025-09-30,1.2,High
+Tamil Nadu,Tirupattur,2025-09-30,1.57196261682243,High
+Tamil Nadu,Tirupattur,2025-10-31,0.49722222222222223,High
+Tamil Nadu,Tiruppur,2025-09-30,3.479854479308777,High
+Tamil Nadu,Tiruppur,2025-10-31,0.9089494163424124,High
+Tamil Nadu,Tiruvallur,2025-09-30,3.3407507426411014,High
+Tamil Nadu,Tiruvallur,2025-10-31,0.9627777777777778,High
+Tamil Nadu,Tiruvannamalai,2025-09-30,2.2297029702970295,High
+Tamil Nadu,Tiruvannamalai,2025-10-31,0.7512309495896835,High
+Tamil Nadu,Tiruvarur,2025-09-30,0.0,Low
+Tamil Nadu,Tuticorin,2025-09-30,1.2,High
+Tamil Nadu,Vellore,2025-06-30,22.497647058823528,High
+Tamil Nadu,Vellore,2025-09-30,2.9949052906596996,High
+Tamil Nadu,Vellore,2025-10-31,0.7305921052631579,High
+Tamil Nadu,Villupuram,2025-09-30,2.237068557919622,High
+Tamil Nadu,Villupuram,2025-10-31,0.6452941176470589,High
+Tamil Nadu,Viluppuram,2025-09-30,2.5822168087697928,High
+Tamil Nadu,Viluppuram,2025-10-31,0.7837638376383764,High
+Tamil Nadu,Virudhunagar,2025-09-30,2.7404547858276045,High
+Tamil Nadu,Virudhunagar,2025-10-31,0.6795986622073579,High
+Telangana,Adilabad,2025-09-30,4.486044591246904,High
+Telangana,Adilabad,2025-10-31,1.046218487394958,High
+Telangana,Bhadradri Kothagudem,2025-07-31,2.5906103286384976,High
+Telangana,Bhadradri Kothagudem,2025-09-30,2.889749430523918,High
+Telangana,Bhadradri Kothagudem,2025-10-31,0.8134920634920635,High
+Telangana,Hanumakonda,2025-09-30,3.8784741144414165,High
+Telangana,Hanumakonda,2025-10-31,1.7881081081081083,High
+Telangana,Hyderabad,2025-04-30,46.606535947712416,High
+Telangana,Hyderabad,2025-05-31,17.437980241492866,High
+Telangana,Hyderabad,2025-06-30,13.353694581280788,High
+Telangana,Hyderabad,2025-07-31,3.259211252068395,High
+Telangana,Hyderabad,2025-09-30,2.958721165520032,High
+Telangana,Hyderabad,2025-10-31,0.395956678700361,High
+Telangana,Jagitial,2025-09-30,1.5900332225913623,High
+Telangana,Jagitial,2025-10-31,0.8418604651162792,High
+Telangana,Jangaon,2025-09-30,3.4307692307692306,High
+Telangana,Jangaon,2025-10-31,0.8800000000000001,High
+Telangana,Jangoan,2025-09-30,3.276959619952494,High
+Telangana,Jangoan,2025-10-31,1.5907514450867053,High
+Telangana,Jayashankar Bhupalpally,2025-09-30,2.395973154362416,High
+Telangana,Jayashankar Bhupalpally,2025-10-31,1.3647058823529412,High
+Telangana,Jogulamba Gadwal,2025-09-30,1.7440894568690095,High
+Telangana,Jogulamba Gadwal,2025-10-31,0.9282352941176472,High
+Telangana,K.v. Rangareddy,2025-04-30,67.39905660377357,High
+Telangana,K.v. Rangareddy,2025-09-30,3.124908996359854,High
+Telangana,K.v. Rangareddy,2025-10-31,0.6547157190635452,High
+Telangana,Kamareddy,2025-09-30,2.09503355704698,High
+Telangana,Kamareddy,2025-10-31,1.3986486486486487,High
+Telangana,Karimnagar,2025-09-30,4.517401392111369,High
+Telangana,Karimnagar,2025-10-31,0.7602251407129457,High
+Telangana,Khammam,2025-09-30,3.375,High
+Telangana,Khammam,2025-10-31,1.132137030995106,High
+Telangana,Komaram Bheem,2025-09-30,3.2212314225053076,High
+Telangana,Komaram Bheem,2025-10-31,2.1202072538860106,High
+Telangana,Mahabubabad,2025-09-30,2.733456561922366,High
+Telangana,Mahabubabad,2025-10-31,1.0705882352941176,High
+Telangana,Mahabubnagar,2025-09-30,3.321138409146193,High
+Telangana,Mahabubnagar,2025-10-31,0.6212379329926179,High
+Telangana,Mancherial,2025-09-30,3.652130325814537,High
+Telangana,Mancherial,2025-10-31,1.4814070351758795,High
+Telangana,Medak,2025-09-30,3.4121277359167568,High
+Telangana,Medak,2025-10-31,0.47725682295311406,High
+Telangana,Medchal Malkajgiri,2025-06-30,0.0,Low
+Telangana,Medchal Malkajgiri,2025-07-31,0.0,Low
+Telangana,Medchal-malkajgiri,2025-04-30,14.901724137931033,High
+Telangana,Medchal-malkajgiri,2025-09-30,2.696160267111853,High
+Telangana,Medchal-malkajgiri,2025-10-31,1.1023977433004233,High
+Telangana,Medchal?malkajgiri,2025-09-30,2.4,High
+Telangana,Medchal−malkajgiri,2025-09-30,3.0816091954022986,High
+Telangana,Medchal−malkajgiri,2025-10-31,0.262962962962963,High
+Telangana,Mulugu,2025-09-30,1.9535816618911175,High
+Telangana,Mulugu,2025-10-31,0.9109677419354839,High
+Telangana,Nagarkurnool,2025-09-30,2.5605536332179932,High
+Telangana,Nagarkurnool,2025-10-31,1.1090047393364928,High
+Telangana,Nalgonda,2025-09-30,3.5846276383910793,High
+Telangana,Nalgonda,2025-10-31,0.6595541401273886,High
+Telangana,Narayanpet,2025-09-30,2.2998065764023212,High
+Telangana,Narayanpet,2025-10-31,1.1267857142857143,High
+Telangana,Nirmal,2025-09-30,3.7727272727272725,High
+Telangana,Nirmal,2025-10-31,2.1333333333333333,High
+Telangana,Nizamabad,2025-09-30,3.0460753532182103,High
+Telangana,Nizamabad,2025-10-31,0.5587412587412588,High
+Telangana,Peddapalli,2025-09-30,3.8812227074235808,High
+Telangana,Peddapalli,2025-10-31,1.6091954022988508,High
+Telangana,Rajanna Sircilla,2025-09-30,3.291166077738516,High
+Telangana,Rajanna Sircilla,2025-10-31,0.662,High
+Telangana,Ranga Reddy,2025-07-31,0.0,Low
+Telangana,Rangareddy,2025-09-30,2.9104166666666664,High
+Telangana,Rangareddy,2025-10-31,1.353846153846154,High
+Telangana,Sangareddy,2025-09-30,2.355530474040632,High
+Telangana,Sangareddy,2025-10-31,0.5902439024390244,High
+Telangana,Siddipet,2025-09-30,3.8685271317829457,High
+Telangana,Siddipet,2025-10-31,1.3162393162393162,High
+Telangana,Suryapet,2025-09-30,3.2244215938303338,High
+Telangana,Suryapet,2025-10-31,1.503685503685504,High
+Telangana,Vikarabad,2025-09-30,3.314646996838778,High
+Telangana,Vikarabad,2025-10-31,2.0896385542168674,High
+Telangana,Wanaparthy,2025-09-30,2.6866785079928954,High
+Telangana,Wanaparthy,2025-10-31,1.0319444444444446,High
+Telangana,Warangal,2025-09-30,5.7573595004460305,High
+Telangana,Warangal,2025-10-31,0.776647834274953,High
+Telangana,Warangal (urban),2025-09-30,2.6,High
+Telangana,Warangal Rural,2025-09-30,5.85531914893617,High
+Telangana,Warangal Rural,2025-10-31,2.2049586776859504,High
+Telangana,Warangal Urban,2025-09-30,2.9724999999999997,High
+Telangana,Warangal Urban,2025-10-31,0.837037037037037,High
+Telangana,Yadadri.,2025-09-30,3.4021875,High
+Telangana,Yadadri.,2025-10-31,2.045,High
+The Dadra & Nagar Haveli & Daman & Diu,Dadra & Nagar Haveli,2025-06-30,0.0,Low
+The Dadra & Nagar Haveli & Daman & Diu,Dadra & Nagar Haveli,2025-07-31,0.0,Low
+Tripura,Dhalai,2025-06-30,16.645508982035928,High
+Tripura,Dhalai,2025-09-30,2.9470459518599563,High
+Tripura,Dhalai,2025-10-31,1.2125984251968505,High
+Tripura,Dhalai  *,2025-09-30,2.2,High
+Tripura,Dhalai  *,2025-10-31,4.6000000000000005,High
+Tripura,Gomati,2025-07-31,5.898387096774193,High
+Tripura,Gomati,2025-09-30,2.693103448275862,High
+Tripura,Gomati,2025-10-31,0.7466666666666667,High
+Tripura,Khowai,2025-09-30,2.5474747474747472,High
+Tripura,Khowai,2025-10-31,0.6162162162162163,High
+Tripura,North Tripura,2025-07-31,16.877777777777776,High
+Tripura,North Tripura,2025-09-30,4.619196428571429,High
+Tripura,North Tripura,2025-10-31,0.7942446043165469,High
+Tripura,Sepahijala,2025-07-31,3.6461538461538456,High
+Tripura,Sepahijala,2025-09-30,2.0155038759689923,High
+Tripura,Sepahijala,2025-10-31,0.985,High
+Tripura,South Tripura,2025-09-30,3.664583333333333,High
+Tripura,South Tripura,2025-10-31,1.4085106382978725,High
+Tripura,Unakoti,2025-04-30,46.440000000000005,High
+Tripura,Unakoti,2025-09-30,3.1579545454545452,High
+Tripura,Unakoti,2025-10-31,0.3955056179775281,High
+Tripura,West Tripura,2025-04-30,36.99406779661017,High
+Tripura,West Tripura,2025-09-30,5.918958031837915,High
+Tripura,West Tripura,2025-10-31,1.1006211180124224,High
+Uttar Pradesh,Agra,2025-03-31,19.062472406181016,High
+Uttar Pradesh,Agra,2025-04-30,14.007933194154488,High
+Uttar Pradesh,Agra,2025-05-31,7.535428793170353,High
+Uttar Pradesh,Agra,2025-06-30,3.3369754552652418,High
+Uttar Pradesh,Agra,2025-07-31,5.53442766469687,High
+Uttar Pradesh,Agra,2025-09-30,2.8994101318528798,High
+Uttar Pradesh,Agra,2025-10-31,0.6940796555435953,High
+Uttar Pradesh,Aligarh,2025-03-31,30.8661316211878,High
+Uttar Pradesh,Aligarh,2025-04-30,11.674702886247879,High
+Uttar Pradesh,Aligarh,2025-05-31,5.37176220806794,High
+Uttar Pradesh,Aligarh,2025-06-30,4.584819734345351,High
+Uttar Pradesh,Aligarh,2025-07-31,3.5244694132334584,High
+Uttar Pradesh,Aligarh,2025-09-30,3.3476463834672794,High
+Uttar Pradesh,Aligarh,2025-10-31,1.1306585919757761,High
+Uttar Pradesh,Allahabad,2025-09-30,3.9359571322985953,High
+Uttar Pradesh,Allahabad,2025-10-31,0.99375,High
+Uttar Pradesh,Ambedkar Nagar,2025-04-30,17.76923076923077,High
+Uttar Pradesh,Ambedkar Nagar,2025-09-30,2.764065449968534,High
+Uttar Pradesh,Ambedkar Nagar,2025-10-31,0.7634263715110684,High
+Uttar Pradesh,Amethi,2025-09-30,2.7994505494505493,High
+Uttar Pradesh,Amethi,2025-10-31,0.5458015267175573,High
+Uttar Pradesh,Amroha,2025-04-30,13.861034482758619,High
+Uttar Pradesh,Amroha,2025-06-30,8.951295336787563,High
+Uttar Pradesh,Amroha,2025-09-30,3.0198083067092654,High
+Uttar Pradesh,Amroha,2025-10-31,0.6674556213017753,High
+Uttar Pradesh,Auraiya,2025-09-30,3.130831099195711,High
+Uttar Pradesh,Auraiya,2025-10-31,1.6375690607734807,High
+Uttar Pradesh,Ayodhya,2025-06-30,3.4829268292682927,High
+Uttar Pradesh,Ayodhya,2025-07-31,1.2656716417910447,High
+Uttar Pradesh,Ayodhya,2025-09-30,2.0440097799511,High
+Uttar Pradesh,Ayodhya,2025-10-31,0.7407407407407408,High
+Uttar Pradesh,Azamgarh,2025-04-30,22.171477079796265,High
+Uttar Pradesh,Azamgarh,2025-06-30,19.07920353982301,High
+Uttar Pradesh,Azamgarh,2025-07-31,4.478721614802355,High
+Uttar Pradesh,Azamgarh,2025-09-30,2.6782680822826808,High
+Uttar Pradesh,Azamgarh,2025-10-31,0.6252045826513912,High
+Uttar Pradesh,Baghpat,2025-04-30,9.314647377938517,High
+Uttar Pradesh,Baghpat,2025-06-30,14.06311475409836,High
+Uttar Pradesh,Baghpat,2025-07-31,11.79370460048426,High
+Uttar Pradesh,Baghpat,2025-09-30,2.1908383751080382,High
+Uttar Pradesh,Baghpat,2025-10-31,0.6717557251908397,High
+Uttar Pradesh,Bahraich,2025-03-31,54.899191374663076,High
+Uttar Pradesh,Bahraich,2025-04-30,4.007081038552321,High
+Uttar Pradesh,Bahraich,2025-05-31,3.2008966096945923,High
+Uttar Pradesh,Bahraich,2025-06-30,1.6137625952322436,High
+Uttar Pradesh,Bahraich,2025-07-31,1.1518725703991657,High
+Uttar Pradesh,Bahraich,2025-09-30,1.8672544763971786,High
+Uttar Pradesh,Bahraich,2025-10-31,0.24993197278911566,High
+Uttar Pradesh,Ballia,2025-09-30,3.6287408243929984,High
+Uttar Pradesh,Ballia,2025-10-31,0.6782006920415226,High
+Uttar Pradesh,Balrampur,2025-04-30,6.557026291931097,High
+Uttar Pradesh,Balrampur,2025-06-30,7.258823529411764,High
+Uttar Pradesh,Balrampur,2025-07-31,3.3148739495798316,High
+Uttar Pradesh,Balrampur,2025-09-30,2.618048780487805,High
+Uttar Pradesh,Balrampur,2025-10-31,0.5048275862068966,High
+Uttar Pradesh,Banda,2025-03-31,148.39393939393938,High
+Uttar Pradesh,Banda,2025-04-30,7.94910820451843,High
+Uttar Pradesh,Banda,2025-05-31,3.2233167082294263,High
+Uttar Pradesh,Banda,2025-06-30,4.972299872935197,High
+Uttar Pradesh,Banda,2025-07-31,7.429699570815449,High
+Uttar Pradesh,Banda,2025-09-30,3.0103210077204388,High
+Uttar Pradesh,Banda,2025-10-31,0.7355006501950586,High
+Uttar Pradesh,Bara Banki,2025-04-30,48.46062992125984,High
+Uttar Pradesh,Bara Banki,2025-09-30,3.7589587371919135,High
+Uttar Pradesh,Bara Banki,2025-10-31,0.757796451914099,High
+Uttar Pradesh,Barabanki,2025-07-31,0.20078475336322868,High
+Uttar Pradesh,Barabanki,2025-09-30,1.6696296296296298,High
+Uttar Pradesh,Barabanki,2025-10-31,0.8615384615384616,High
+Uttar Pradesh,Bareilly,2025-04-30,4.454971857410881,High
+Uttar Pradesh,Bareilly,2025-05-31,9.257128045619492,High
+Uttar Pradesh,Bareilly,2025-06-30,5.560318091451292,High
+Uttar Pradesh,Bareilly,2025-07-31,7.050065104166666,High
+Uttar Pradesh,Bareilly,2025-09-30,3.3782381485628963,High
+Uttar Pradesh,Bareilly,2025-10-31,0.6296875000000001,High
+Uttar Pradesh,Basti,2025-04-30,30.859515570934256,High
+Uttar Pradesh,Basti,2025-09-30,2.723128834355828,High
+Uttar Pradesh,Basti,2025-10-31,0.3785090664875756,High
+Uttar Pradesh,Bhadohi,2025-09-30,2.9885167464114835,High
+Uttar Pradesh,Bhadohi,2025-10-31,0.5702127659574469,High
+Uttar Pradesh,Bijnor,2025-05-31,8.246542261251372,High
+Uttar Pradesh,Bijnor,2025-09-30,3.130721003134796,High
+Uttar Pradesh,Bijnor,2025-10-31,0.5471264367816092,High
+Uttar Pradesh,Budaun,2025-04-30,9.862894736842106,High
+Uttar Pradesh,Budaun,2025-05-31,13.374403470715833,High
+Uttar Pradesh,Budaun,2025-06-30,8.600347826086956,High
+Uttar Pradesh,Budaun,2025-07-31,3.194107035478052,High
+Uttar Pradesh,Budaun,2025-09-30,2.5999085714285712,High
+Uttar Pradesh,Budaun,2025-10-31,1.0838235294117646,High
+Uttar Pradesh,Bulandshahar,2025-09-30,0.7151515151515151,High
+Uttar Pradesh,Bulandshahar,2025-10-31,0.26666666666666666,High
+Uttar Pradesh,Bulandshahr,2025-03-31,335.26557377049176,High
+Uttar Pradesh,Bulandshahr,2025-04-30,13.256902356902357,High
+Uttar Pradesh,Bulandshahr,2025-06-30,28.71153039832285,High
+Uttar Pradesh,Bulandshahr,2025-07-31,11.220967741935484,High
+Uttar Pradesh,Bulandshahr,2025-09-30,2.51904012588513,High
+Uttar Pradesh,Bulandshahr,2025-10-31,0.5286534779834078,High
+Uttar Pradesh,Chandauli,2025-04-30,18.22289719626168,High
+Uttar Pradesh,Chandauli,2025-05-31,12.778997613365155,High
+Uttar Pradesh,Chandauli,2025-06-30,9.557601713062098,High
+Uttar Pradesh,Chandauli,2025-07-31,5.242242990654206,High
+Uttar Pradesh,Chandauli,2025-09-30,3.1626629094751673,High
+Uttar Pradesh,Chandauli,2025-10-31,0.9730027548209366,High
+Uttar Pradesh,Chitrakoot,2025-09-30,2.5407879490150638,High
+Uttar Pradesh,Chitrakoot,2025-10-31,0.25882352941176473,High
+Uttar Pradesh,Deoria,2025-05-31,10.140463065049612,High
+Uttar Pradesh,Deoria,2025-07-31,37.91811023622047,High
+Uttar Pradesh,Deoria,2025-09-30,3.2472384124340827,High
+Uttar Pradesh,Deoria,2025-10-31,0.6906095551894564,High
+Uttar Pradesh,Etah,2025-04-30,8.807516040329972,High
+Uttar Pradesh,Etah,2025-05-31,5.143018159048215,High
+Uttar Pradesh,Etah,2025-07-31,1.8081993569131831,High
+Uttar Pradesh,Etah,2025-09-30,4.038619854721549,High
+Uttar Pradesh,Etah,2025-10-31,0.862809917355372,High
+Uttar Pradesh,Etawah,2025-04-30,12.347457627118645,High
+Uttar Pradesh,Etawah,2025-07-31,7.058064516129032,High
+Uttar Pradesh,Etawah,2025-09-30,3.2958853444290335,High
+Uttar Pradesh,Etawah,2025-10-31,0.39498432601880884,High
+Uttar Pradesh,Faizabad,2025-09-30,2.8557491289198604,High
+Uttar Pradesh,Faizabad,2025-10-31,0.525586136595311,High
+Uttar Pradesh,Farrukhabad,2025-06-30,23.983870967741936,High
+Uttar Pradesh,Farrukhabad,2025-09-30,3.2674961119751167,High
+Uttar Pradesh,Farrukhabad,2025-10-31,0.810221465076661,High
+Uttar Pradesh,Fatehpur,2025-04-30,28.142307692307693,High
+Uttar Pradesh,Fatehpur,2025-05-31,14.513163064833005,High
+Uttar Pradesh,Fatehpur,2025-06-30,9.636453201970442,High
+Uttar Pradesh,Fatehpur,2025-07-31,4.877727272727272,High
+Uttar Pradesh,Fatehpur,2025-09-30,3.036277602523659,High
+Uttar Pradesh,Fatehpur,2025-10-31,0.7923954372623574,High
+Uttar Pradesh,Firozabad,2025-03-31,69.6041884816754,High
+Uttar Pradesh,Firozabad,2025-06-30,2.5298582151793156,High
+Uttar Pradesh,Firozabad,2025-07-31,4.829163879598663,High
+Uttar Pradesh,Firozabad,2025-09-30,3.385393258426966,High
+Uttar Pradesh,Firozabad,2025-10-31,0.5874476987447699,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-03-31,12.063420158550397,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-04-30,4.166920915295062,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-05-31,6.081788440567067,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-06-30,3.160607647983237,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-07-31,3.9441889763779523,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-09-30,1.9517350157728708,High
+Uttar Pradesh,Gautam Buddha Nagar,2025-10-31,0.5210144927536232,High
+Uttar Pradesh,Ghaziabad,2025-03-31,29.858635703918722,High
+Uttar Pradesh,Ghaziabad,2025-05-31,8.895918367346939,High
+Uttar Pradesh,Ghaziabad,2025-06-30,6.6950806451612905,High
+Uttar Pradesh,Ghaziabad,2025-07-31,6.243057050592034,High
+Uttar Pradesh,Ghaziabad,2025-09-30,2.383961248654467,High
+Uttar Pradesh,Ghaziabad,2025-10-31,0.45633802816901414,High
+Uttar Pradesh,Ghazipur,2025-09-30,2.6631189644544895,High
+Uttar Pradesh,Ghazipur,2025-10-31,0.6168021680216803,High
+Uttar Pradesh,Gonda,2025-04-30,18.235897435897435,High
+Uttar Pradesh,Gonda,2025-07-31,4.925642909625275,High
+Uttar Pradesh,Gonda,2025-09-30,2.346555768820644,High
+Uttar Pradesh,Gonda,2025-10-31,0.6165071770334929,High
+Uttar Pradesh,Gorakhpur,2025-03-31,335.38666666666666,High
+Uttar Pradesh,Gorakhpur,2025-04-30,11.149118387909319,High
+Uttar Pradesh,Gorakhpur,2025-05-31,20.04022988505747,High
+Uttar Pradesh,Gorakhpur,2025-06-30,10.64818401937046,High
+Uttar Pradesh,Gorakhpur,2025-07-31,5.187594300083822,High
+Uttar Pradesh,Gorakhpur,2025-09-30,2.7146769527483126,High
+Uttar Pradesh,Gorakhpur,2025-10-31,0.5456728364182091,High
+Uttar Pradesh,Hamirpur,2025-09-30,3.5795769511305613,High
+Uttar Pradesh,Hamirpur,2025-10-31,0.9072625698324024,High
+Uttar Pradesh,Hapur,2025-05-31,4.403327495621716,High
+Uttar Pradesh,Hapur,2025-07-31,2.3651591289782243,High
+Uttar Pradesh,Hapur,2025-09-30,2.751709986320109,High
+Uttar Pradesh,Hapur,2025-10-31,0.5784832451499118,High
+Uttar Pradesh,Hardoi,2025-06-30,3.879526627218935,High
+Uttar Pradesh,Hardoi,2025-07-31,1.8460560395573344,High
+Uttar Pradesh,Hardoi,2025-09-30,3.2277377654662973,High
+Uttar Pradesh,Hardoi,2025-10-31,0.7416256157635468,High
+Uttar Pradesh,Hathras,2025-05-31,8.030940594059405,High
+Uttar Pradesh,Hathras,2025-06-30,8.983333333333333,High
+Uttar Pradesh,Hathras,2025-09-30,3.3908146528157466,High
+Uttar Pradesh,Hathras,2025-10-31,0.9477911646586347,High
+Uttar Pradesh,Jalaun,2025-04-30,16.588538681948425,High
+Uttar Pradesh,Jalaun,2025-06-30,8.29404990403071,High
+Uttar Pradesh,Jalaun,2025-09-30,3.2337868480725627,High
+Uttar Pradesh,Jalaun,2025-10-31,0.9132231404958677,High
+Uttar Pradesh,Jaunpur,2025-03-31,54.5562874251497,High
+Uttar Pradesh,Jaunpur,2025-04-30,7.854652686762778,High
+Uttar Pradesh,Jaunpur,2025-07-31,16.0249530956848,High
+Uttar Pradesh,Jaunpur,2025-09-30,3.5831578947368423,High
+Uttar Pradesh,Jaunpur,2025-10-31,0.7245726495726497,High
+Uttar Pradesh,Jhansi,2025-07-31,61.75329341317365,High
+Uttar Pradesh,Jhansi,2025-09-30,3.6446984627512813,High
+Uttar Pradesh,Jhansi,2025-10-31,0.6827880512091039,High
+Uttar Pradesh,Jyotiba Phule Nagar,2025-09-30,1.3923076923076922,High
+Uttar Pradesh,Jyotiba Phule Nagar,2025-10-31,0.24,High
+Uttar Pradesh,Kannauj,2025-07-31,5.420517560073937,High
+Uttar Pradesh,Kannauj,2025-09-30,2.651544571932921,High
+Uttar Pradesh,Kannauj,2025-10-31,0.6848381601362863,High
+Uttar Pradesh,Kanpur Dehat,2025-04-30,6.7215859030837,High
+Uttar Pradesh,Kanpur Dehat,2025-07-31,3.914285714285714,High
+Uttar Pradesh,Kanpur Dehat,2025-09-30,2.8562529947292763,High
+Uttar Pradesh,Kanpur Dehat,2025-10-31,1.1711645101663588,High
+Uttar Pradesh,Kanpur Nagar,2025-03-31,73.83942307692308,High
+Uttar Pradesh,Kanpur Nagar,2025-04-30,4.965284280936455,High
+Uttar Pradesh,Kanpur Nagar,2025-05-31,6.943642611683848,High
+Uttar Pradesh,Kanpur Nagar,2025-06-30,11.041098677517803,High
+Uttar Pradesh,Kanpur Nagar,2025-07-31,5.539578313253012,High
+Uttar Pradesh,Kanpur Nagar,2025-09-30,2.7292716603382807,High
+Uttar Pradesh,Kanpur Nagar,2025-10-31,0.5241852487135507,High
+Uttar Pradesh,Kasganj,2025-07-31,2.8398576512455516,High
+Uttar Pradesh,Kasganj,2025-09-30,4.0122418879056045,High
+Uttar Pradesh,Kasganj,2025-10-31,0.7702970297029703,High
+Uttar Pradesh,Kaushambi,2025-04-30,33.912359550561796,High
+Uttar Pradesh,Kaushambi,2025-07-31,7.312668463611859,High
+Uttar Pradesh,Kaushambi,2025-09-30,3.832898415657036,High
+Uttar Pradesh,Kaushambi,2025-10-31,0.6921739130434783,High
+Uttar Pradesh,Kheri,2025-04-30,11.27912885662432,High
+Uttar Pradesh,Kheri,2025-05-31,5.7749999999999995,High
+Uttar Pradesh,Kheri,2025-06-30,8.166666666666666,High
+Uttar Pradesh,Kheri,2025-07-31,4.086714193130265,High
+Uttar Pradesh,Kheri,2025-09-30,2.2477983777520274,High
+Uttar Pradesh,Kheri,2025-10-31,0.5627839536007734,High
+Uttar Pradesh,Kushi Nagar,2025-07-31,0.0,Low
+Uttar Pradesh,Kushinagar,2025-05-31,20.666992665036673,High
+Uttar Pradesh,Kushinagar,2025-09-30,2.8498213374170493,High
+Uttar Pradesh,Kushinagar,2025-10-31,0.7538216560509555,High
+Uttar Pradesh,Kushinagar *,2025-09-30,10.2,High
+Uttar Pradesh,Kushinagar *,2025-10-31,0.0,Low
+Uttar Pradesh,Lalitpur,2025-05-31,16.243835616438353,High
+Uttar Pradesh,Lalitpur,2025-09-30,4.130345245305875,High
+Uttar Pradesh,Lalitpur,2025-10-31,0.5193317422434368,High
+Uttar Pradesh,Lucknow,2025-03-31,136.68450704225353,High
+Uttar Pradesh,Lucknow,2025-04-30,7.286567164179105,High
+Uttar Pradesh,Lucknow,2025-05-31,12.296381578947368,High
+Uttar Pradesh,Lucknow,2025-06-30,64.8591928251121,High
+Uttar Pradesh,Lucknow,2025-07-31,7.752872727272727,High
+Uttar Pradesh,Lucknow,2025-09-30,2.420126173257424,High
+Uttar Pradesh,Lucknow,2025-10-31,0.5107335907335908,High
+Uttar Pradesh,Maharajganj,2025-03-31,48.12056737588652,High
+Uttar Pradesh,Maharajganj,2025-04-30,3.738724727838258,High
+Uttar Pradesh,Maharajganj,2025-05-31,4.136889556724268,High
+Uttar Pradesh,Maharajganj,2025-06-30,9.655327868852458,High
+Uttar Pradesh,Maharajganj,2025-07-31,2.4612972202423378,High
+Uttar Pradesh,Maharajganj,2025-09-30,2.142088772845953,High
+Uttar Pradesh,Maharajganj,2025-10-31,1.0154770848985726,High
+Uttar Pradesh,Mahoba,2025-09-30,3.45776347546259,High
+Uttar Pradesh,Mahoba,2025-10-31,0.6330434782608696,High
+Uttar Pradesh,Mahrajganj,2025-09-30,0.8,High
+Uttar Pradesh,Mahrajganj,2025-10-31,0.2,High
+Uttar Pradesh,Mainpuri,2025-04-30,5.955869872701555,High
+Uttar Pradesh,Mainpuri,2025-06-30,4.750191570881226,High
+Uttar Pradesh,Mainpuri,2025-07-31,3.0368176047397375,High
+Uttar Pradesh,Mainpuri,2025-09-30,2.3956368302855306,High
+Uttar Pradesh,Mainpuri,2025-10-31,0.6126291618828933,High
+Uttar Pradesh,Mathura,2025-03-31,91.99173553719008,High
+Uttar Pradesh,Mathura,2025-06-30,5.646076313894888,High
+Uttar Pradesh,Mathura,2025-07-31,40.17687074829932,High
+Uttar Pradesh,Mathura,2025-09-30,2.595946728430805,High
+Uttar Pradesh,Mathura,2025-10-31,0.5863521482729571,High
+Uttar Pradesh,Mau,2025-09-30,2.636241610738255,High
+Uttar Pradesh,Mau,2025-10-31,0.8429629629629631,High
+Uttar Pradesh,Meerut,2025-04-30,7.020165611300536,High
+Uttar Pradesh,Meerut,2025-05-31,4.509237794169301,High
+Uttar Pradesh,Meerut,2025-06-30,41.528404669260695,High
+Uttar Pradesh,Meerut,2025-07-31,3.644598470363289,High
+Uttar Pradesh,Meerut,2025-09-30,2.3926785357071414,High
+Uttar Pradesh,Meerut,2025-10-31,0.34932398597896847,High
+Uttar Pradesh,Mirzapur,2025-09-30,2.7601892744479493,High
+Uttar Pradesh,Mirzapur,2025-10-31,0.6459016393442623,High
+Uttar Pradesh,Moradabad,2025-04-30,6.9193737769080235,High
+Uttar Pradesh,Moradabad,2025-05-31,5.61901768172888,High
+Uttar Pradesh,Moradabad,2025-06-30,6.690361445783132,High
+Uttar Pradesh,Moradabad,2025-07-31,4.463984201431745,High
+Uttar Pradesh,Moradabad,2025-09-30,2.826563364692861,High
+Uttar Pradesh,Moradabad,2025-10-31,0.41834120026972355,High
+Uttar Pradesh,Muzaffarnagar,2025-04-30,14.88847290640394,High
+Uttar Pradesh,Muzaffarnagar,2025-07-31,12.581216134858519,High
+Uttar Pradesh,Muzaffarnagar,2025-09-30,3.832676244570665,High
+Uttar Pradesh,Muzaffarnagar,2025-10-31,0.7765243902439025,High
+Uttar Pradesh,Pilibhit,2025-04-30,15.455808656036446,High
+Uttar Pradesh,Pilibhit,2025-05-31,6.144674556213018,High
+Uttar Pradesh,Pilibhit,2025-06-30,3.964860035735557,High
+Uttar Pradesh,Pilibhit,2025-07-31,3.991106290672451,High
+Uttar Pradesh,Pilibhit,2025-09-30,4.638004338394794,High
+Uttar Pradesh,Pilibhit,2025-10-31,0.8712727272727273,High
+Uttar Pradesh,Pratapgarh,2025-09-30,2.856088560885609,High
+Uttar Pradesh,Pratapgarh,2025-10-31,0.643939393939394,High
+Uttar Pradesh,Prayagraj,2025-05-31,17.69655172413793,High
+Uttar Pradesh,Prayagraj,2025-07-31,1.9666041275797372,High
+Uttar Pradesh,Prayagraj,2025-09-30,2.6308747855917667,High
+Uttar Pradesh,Prayagraj,2025-10-31,1.08,High
+Uttar Pradesh,Rae Bareli,2025-09-30,3.4158145065398333,High
+Uttar Pradesh,Rae Bareli,2025-10-31,0.9297071129707114,High
+Uttar Pradesh,Raebareli,2025-09-30,2.1999999999999997,High
+Uttar Pradesh,Rampur,2025-04-30,12.01749598715891,High
+Uttar Pradesh,Rampur,2025-05-31,4.168980797636632,High
+Uttar Pradesh,Rampur,2025-06-30,5.32169167803547,High
+Uttar Pradesh,Rampur,2025-07-31,1.2647383815404616,High
+Uttar Pradesh,Rampur,2025-09-30,3.0518076285240463,High
+Uttar Pradesh,Rampur,2025-10-31,0.6654058313632782,High
+Uttar Pradesh,Saharanpur,2025-03-31,64.57470355731225,High
+Uttar Pradesh,Saharanpur,2025-04-30,8.032605531295488,High
+Uttar Pradesh,Saharanpur,2025-06-30,6.6824607329842935,High
+Uttar Pradesh,Saharanpur,2025-07-31,6.888424657534246,High
+Uttar Pradesh,Saharanpur,2025-09-30,3.5939974126778784,High
+Uttar Pradesh,Saharanpur,2025-10-31,0.7256345177664976,High
+Uttar Pradesh,Sambhal,2025-07-31,14.17090909090909,High
+Uttar Pradesh,Sambhal,2025-09-30,2.7493039818711553,High
+Uttar Pradesh,Sambhal,2025-10-31,1.2173053152039557,High
+Uttar Pradesh,Sant Kabir Nagar,2025-09-30,3.5011122345803845,High
+Uttar Pradesh,Sant Kabir Nagar,2025-10-31,0.6012903225806452,High
+Uttar Pradesh,Sant Ravidas Nagar,2025-09-30,3.8586475164572116,High
+Uttar Pradesh,Sant Ravidas Nagar,2025-10-31,0.7696113074204947,High
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,2025-09-30,1.0375,High
+Uttar Pradesh,Sant Ravidas Nagar Bhadohi,2025-10-31,0.21052631578947367,High
+Uttar Pradesh,Shahjahanpur,2025-04-30,4.542857142857143,High
+Uttar Pradesh,Shahjahanpur,2025-05-31,4.028460207612457,High
+Uttar Pradesh,Shahjahanpur,2025-06-30,6.734932709186659,High
+Uttar Pradesh,Shahjahanpur,2025-07-31,1.7173249211356467,High
+Uttar Pradesh,Shahjahanpur,2025-09-30,3.0912720757614536,High
+Uttar Pradesh,Shahjahanpur,2025-10-31,1.1724919093851134,High
+Uttar Pradesh,Shamli,2025-04-30,19.11322160148976,High
+Uttar Pradesh,Shamli,2025-09-30,2.6342831700801423,High
+Uttar Pradesh,Shamli,2025-10-31,0.4835881753312946,High
+Uttar Pradesh,Shravasti,2025-06-30,0.0,Low
+Uttar Pradesh,Shravasti,2025-07-31,0.0,Low
+Uttar Pradesh,Shrawasti,2025-04-30,8.716571428571429,High
+Uttar Pradesh,Shrawasti,2025-05-31,4.548670212765957,High
+Uttar Pradesh,Shrawasti,2025-09-30,2.5579335793357934,High
+Uttar Pradesh,Shrawasti,2025-10-31,1.0705357142857144,High
+Uttar Pradesh,Siddharth Nagar,2025-06-30,0.0,Low
+Uttar Pradesh,Siddharth Nagar,2025-07-31,0.0,Low
+Uttar Pradesh,Siddharthnagar,2025-04-30,4.342172523961661,High
+Uttar Pradesh,Siddharthnagar,2025-05-31,3.186651189785258,High
+Uttar Pradesh,Siddharthnagar,2025-09-30,2.1179280730005368,High
+Uttar Pradesh,Siddharthnagar,2025-10-31,0.7990950226244344,High
+Uttar Pradesh,Sitapur,2025-04-30,8.065775749674055,High
+Uttar Pradesh,Sitapur,2025-05-31,14.396941005098324,High
+Uttar Pradesh,Sitapur,2025-06-30,6.462100045065344,High
+Uttar Pradesh,Sitapur,2025-07-31,2.738812222769837,High
+Uttar Pradesh,Sitapur,2025-09-30,2.7964896214896218,High
+Uttar Pradesh,Sitapur,2025-10-31,0.5373068432671082,High
+Uttar Pradesh,Sonbhadra,2025-09-30,3.4643668122270745,High
+Uttar Pradesh,Sonbhadra,2025-10-31,1.4462121212121213,High
+Uttar Pradesh,Sultanpur,2025-04-30,14.38875,High
+Uttar Pradesh,Sultanpur,2025-05-31,12.009905660377358,High
+Uttar Pradesh,Sultanpur,2025-06-30,10.887603305785124,High
+Uttar Pradesh,Sultanpur,2025-07-31,7.335051546391751,High
+Uttar Pradesh,Sultanpur,2025-09-30,2.426290550070522,High
+Uttar Pradesh,Sultanpur,2025-10-31,0.670327993897788,High
+Uttar Pradesh,Unnao,2025-03-31,78.32216748768474,High
+Uttar Pradesh,Unnao,2025-04-30,7.800396301188902,High
+Uttar Pradesh,Unnao,2025-05-31,6.591891891891891,High
+Uttar Pradesh,Unnao,2025-06-30,5.963070539419087,High
+Uttar Pradesh,Unnao,2025-07-31,4.180203349282296,High
+Uttar Pradesh,Unnao,2025-09-30,3.261943102522813,High
+Uttar Pradesh,Unnao,2025-10-31,0.92859450726979,High
+Uttar Pradesh,Varanasi,2025-04-30,10.073378076062639,High
+Uttar Pradesh,Varanasi,2025-05-31,8.917842323651453,High
+Uttar Pradesh,Varanasi,2025-06-30,11.1472647702407,High
+Uttar Pradesh,Varanasi,2025-07-31,2.519134225161581,High
+Uttar Pradesh,Varanasi,2025-09-30,2.646661520648398,High
+Uttar Pradesh,Varanasi,2025-10-31,0.7246268656716418,High
+Uttarakhand,Almora,2025-09-30,4.738461538461538,High
+Uttarakhand,Almora,2025-10-31,0.6911111111111112,High
+Uttarakhand,Bageshwar,2025-09-30,4.199170124481328,High
+Uttarakhand,Bageshwar,2025-10-31,0.6960000000000001,High
+Uttarakhand,Chamoli,2025-09-30,3.981769436997319,High
+Uttarakhand,Chamoli,2025-10-31,0.7037037037037037,High
+Uttarakhand,Champawat,2025-09-30,4.370977917981072,High
+Uttarakhand,Champawat,2025-10-31,1.1884615384615385,High
+Uttarakhand,Dehradun,2025-03-31,55.13863636363636,High
+Uttarakhand,Dehradun,2025-04-30,13.843620178041544,High
+Uttarakhand,Dehradun,2025-05-31,14.032692307692308,High
+Uttarakhand,Dehradun,2025-06-30,18.612244897959183,High
+Uttarakhand,Dehradun,2025-07-31,7.012385039852851,High
+Uttarakhand,Dehradun,2025-09-30,4.660423232778028,High
+Uttarakhand,Dehradun,2025-10-31,0.8196816208393634,High
+Uttarakhand,Garhwal,2025-09-30,2.7157894736842105,High
+Uttarakhand,Garhwal,2025-10-31,0.25263157894736843,High
+Uttarakhand,Hardwar,2025-09-30,2.0893617021276594,High
+Uttarakhand,Hardwar,2025-10-31,0.86,High
+Uttarakhand,Haridwar,2025-03-31,135.41666666666669,High
+Uttarakhand,Haridwar,2025-07-31,11.772131147540984,High
+Uttarakhand,Haridwar,2025-09-30,3.6031250000000004,High
+Uttarakhand,Haridwar,2025-10-31,0.8661786237188873,High
+Uttarakhand,Nainital,2025-03-31,53.834666666666664,High
+Uttarakhand,Nainital,2025-04-30,9.498006644518274,High
+Uttarakhand,Nainital,2025-09-30,3.9657920310981534,High
+Uttarakhand,Nainital,2025-10-31,0.7067961165048544,High
+Uttarakhand,Pauri Garhwal,2025-09-30,4.545008183306056,High
+Uttarakhand,Pauri Garhwal,2025-10-31,0.7072847682119205,High
+Uttarakhand,Pithoragarh,2025-09-30,3.976056338028169,High
+Uttarakhand,Pithoragarh,2025-10-31,0.8724637681159421,High
+Uttarakhand,Rudraprayag,2025-09-30,3.828115015974441,High
+Uttarakhand,Rudraprayag,2025-10-31,0.3022222222222222,High
+Uttarakhand,Tehri Garhwal,2025-09-30,4.187341772151899,High
+Uttarakhand,Tehri Garhwal,2025-10-31,0.5932307692307693,High
+Uttarakhand,Udham Singh Nagar,2025-09-30,3.0161218092252575,High
+Uttarakhand,Udham Singh Nagar,2025-10-31,0.8608450704225352,High
+Uttarakhand,Uttarkashi,2025-09-30,4.538582677165354,High
+Uttarakhand,Uttarkashi,2025-10-31,0.6229007633587786,High
+WEST BENGAL,HOOGHLY,2025-09-30,3.6,High
+West  Bengal,Hooghly,2025-09-30,0.5,High
+West Bangal,Hooghly,2025-09-30,7.8,High
+West Bangal,Hooghly,2025-10-31,0.0,Low
+West Bangal,Howrah,2025-09-30,1.4666666666666666,High
+West Bangal,Howrah,2025-10-31,0.0,Low
+West Bengal,24 Paraganas North,2025-06-30,0.0,Low
+West Bengal,24 Paraganas North,2025-07-31,0.0,Low
+West Bengal,24 Paraganas South,2025-07-31,0.0,Low
+West Bengal,Alipurduar,2025-04-30,3.7078124999999997,High
+West Bengal,Alipurduar,2025-05-31,2.8751269035532996,High
+West Bengal,Alipurduar,2025-06-30,0.9402843601895734,High
+West Bengal,Alipurduar,2025-07-31,0.4565297363580625,High
+West Bengal,Alipurduar,2025-09-30,2.123607427055703,High
+West Bengal,Alipurduar,2025-10-31,0.8977777777777778,High
+West Bengal,Bankura,2025-09-30,3.149856209150327,High
+West Bengal,Bankura,2025-10-31,1.1677154582763338,High
+West Bengal,Barddhaman,2025-09-30,2.839818711557138,High
+West Bengal,Barddhaman,2025-10-31,0.8541760722347631,High
+West Bengal,Bardhaman,2025-09-30,2.888698140200286,High
+West Bengal,Bardhaman,2025-10-31,1.157377049180328,High
+West Bengal,Birbhum,2025-05-31,31.192805755395682,High
+West Bengal,Birbhum,2025-06-30,37.336651583710406,High
+West Bengal,Birbhum,2025-07-31,13.586475942782835,High
+West Bengal,Birbhum,2025-09-30,2.626533776301218,High
+West Bengal,Birbhum,2025-10-31,0.7297021276595745,High
+West Bengal,Burdwan,2025-10-31,0.0,Low
+West Bengal,Cooch Behar,2025-04-30,6.458969072164948,High
+West Bengal,Cooch Behar,2025-05-31,2.064874551971326,High
+West Bengal,Cooch Behar,2025-09-30,2.275030826140567,High
+West Bengal,Cooch Behar,2025-10-31,1.7055427251732103,High
+West Bengal,Coochbehar,2025-03-31,0.0,Low
+West Bengal,Coochbehar,2025-06-30,0.0,Low
+West Bengal,Coochbehar,2025-07-31,0.0,Low
+West Bengal,Dakshin Dinajpur,2025-05-31,10.871489361702126,High
+West Bengal,Dakshin Dinajpur,2025-09-30,2.1447813822284907,High
+West Bengal,Dakshin Dinajpur,2025-10-31,0.6962655601659752,High
+West Bengal,Darjeeling,2025-04-30,4.1617021276595745,High
+West Bengal,Darjeeling,2025-05-31,4.8481605351170565,High
+West Bengal,Darjeeling,2025-06-30,3.581605839416058,High
+West Bengal,Darjeeling,2025-07-31,2.4905050505050506,High
+West Bengal,Darjeeling,2025-09-30,2.4971469329529246,High
+West Bengal,Darjeeling,2025-10-31,0.8997971602434078,High
+West Bengal,Darjiling,2025-09-30,1.4634730538922156,High
+West Bengal,Darjiling,2025-10-31,0.79,High
+West Bengal,Dinajpur Dakshin,2025-07-31,0.0,Low
+West Bengal,Dinajpur Uttar,2025-03-31,0.0,Low
+West Bengal,Dinajpur Uttar,2025-06-30,0.0,Low
+West Bengal,Dinajpur Uttar,2025-07-31,0.0,Low
+West Bengal,East Midnapore,2025-09-30,2.7930322580645157,High
+West Bengal,East Midnapore,2025-10-31,1.463276836158192,High
+West Bengal,East Midnapur,2025-09-30,2.0,High
+West Bengal,HOOGHLY,2025-10-31,0.4,High
+West Bengal,HOWRAH,2025-09-30,0.7,High
+West Bengal,Haora,2025-09-30,2.584083044982699,High
+West Bengal,Haora,2025-10-31,1.3237894736842106,High
+West Bengal,Hawrah,2025-09-30,2.5999999999999996,High
+West Bengal,Hawrah,2025-10-31,0.0,Low
+West Bengal,Hooghiy,2025-09-30,1.4,High
+West Bengal,Hooghly,2025-07-31,58.68999999999999,High
+West Bengal,Hooghly,2025-09-30,2.54343000358038,High
+West Bengal,Hooghly,2025-10-31,0.8995504699632204,High
+West Bengal,Howrah,2025-07-31,32.61772853185595,High
+West Bengal,Howrah,2025-09-30,1.9301039697542535,High
+West Bengal,Howrah,2025-10-31,0.597558268590455,High
+West Bengal,Hugli,2025-09-30,1.3567567567567567,High
+West Bengal,Hugli,2025-10-31,0.6370370370370371,High
+West Bengal,Jalpaiguri,2025-04-30,18.807534246575344,High
+West Bengal,Jalpaiguri,2025-05-31,5.813877551020408,High
+West Bengal,Jalpaiguri,2025-06-30,18.154285714285713,High
+West Bengal,Jalpaiguri,2025-07-31,12.668118195956454,High
+West Bengal,Jalpaiguri,2025-09-30,4.0498004298434145,High
+West Bengal,Jalpaiguri,2025-10-31,2.715547703180212,High
+West Bengal,Jhargram,2025-04-30,4.006451612903226,High
+West Bengal,Jhargram,2025-09-30,1.5868194842406877,High
+West Bengal,Jhargram,2025-10-31,0.45517241379310347,High
+West Bengal,KOLKATA,2025-10-31,0.0,Low
+West Bengal,Kalimpong,2025-05-31,0.4461538461538462,High
+West Bengal,Kalimpong,2025-07-31,0.22539682539682537,High
+West Bengal,Kalimpong,2025-09-30,1.4666666666666668,High
+West Bengal,Kalimpong,2025-10-31,0.5263157894736843,High
+West Bengal,Koch Bihar,2025-09-30,2.406896551724138,High
+West Bengal,Koch Bihar,2025-10-31,2.488888888888889,High
+West Bengal,Kolkata,2025-04-30,117.33333333333331,High
+West Bengal,Kolkata,2025-05-31,13.925248508946323,High
+West Bengal,Kolkata,2025-06-30,9.781132075471698,High
+West Bengal,Kolkata,2025-07-31,9.262822085889571,High
+West Bengal,Kolkata,2025-09-30,2.7394700139470016,High
+West Bengal,Kolkata,2025-10-31,0.841237113402062,High
+West Bengal,MALDA,2025-09-30,2.5999999999999996,High
+West Bengal,MALDA,2025-10-31,0.30000000000000004,High
+West Bengal,Malda,2025-04-30,16.947979797979798,High
+West Bengal,Malda,2025-06-30,41.93730158730159,High
+West Bengal,Malda,2025-09-30,2.149965253648367,High
+West Bengal,Malda,2025-10-31,0.9572045543776992,High
+West Bengal,Maldah,2025-09-30,2.9988538681948427,High
+West Bengal,Maldah,2025-10-31,1.6283464566929133,High
+West Bengal,Medinipur,2025-09-30,1.3111111111111111,High
+West Bengal,Medinipur,2025-10-31,0.33333333333333337,High
+West Bengal,Medinipur West,2025-06-30,0.0,Low
+West Bengal,Medinipur West,2025-07-31,0.0,Low
+West Bengal,Murshidabad,2025-09-30,1.7119550335086835,High
+West Bengal,Murshidabad,2025-10-31,0.561002349256069,High
+West Bengal,NADIA,2025-09-30,0.5,High
+West Bengal,NADIA,2025-10-31,0.0,Low
+West Bengal,Nadia,2025-04-30,34.20967741935484,High
+West Bengal,Nadia,2025-05-31,14.779245283018867,High
+West Bengal,Nadia,2025-06-30,16.16931818181818,High
+West Bengal,Nadia,2025-07-31,5.948613138686132,High
+West Bengal,Nadia,2025-09-30,2.7617841838722246,High
+West Bengal,Nadia,2025-10-31,2.2118304611085238,High
+West Bengal,North 24 Parganas,2025-04-30,59.25258620689655,High
+West Bengal,North 24 Parganas,2025-05-31,21.748760330578513,High
+West Bengal,North 24 Parganas,2025-09-30,2.085792144333772,High
+West Bengal,North 24 Parganas,2025-10-31,1.0373524884556182,High
+West Bengal,North Dinajpur,2025-09-30,2.514516129032258,High
+West Bengal,North Dinajpur,2025-10-31,1.6615384615384619,High
+West Bengal,North Twenty Four Parganas,2025-09-30,2.9173913043478263,High
+West Bengal,North Twenty Four Parganas,2025-10-31,1.0981549815498155,High
+West Bengal,Paschim Bardhaman,2025-09-30,2.202079002079002,High
+West Bengal,Paschim Bardhaman,2025-10-31,1.1306358381502892,High
+West Bengal,Paschim Medinipur,2025-09-30,2.8540110748260683,High
+West Bengal,Paschim Medinipur,2025-10-31,1.421499815293683,High
+West Bengal,Purba Bardhaman,2025-06-30,16.510344827586206,High
+West Bengal,Purba Bardhaman,2025-09-30,1.2672237697307336,High
+West Bengal,Purba Bardhaman,2025-10-31,0.4826603325415677,High
+West Bengal,Purba Medinipur,2025-09-30,1.936634016028495,High
+West Bengal,Purba Medinipur,2025-10-31,0.5539588100686499,High
+West Bengal,Purulia,2025-09-30,1.9288753799392098,High
+West Bengal,Purulia,2025-10-31,1.135135135135135,High
+West Bengal,Puruliya,2025-09-30,2.2063236669784843,High
+West Bengal,Puruliya,2025-10-31,0.7902120717781403,High
+West Bengal,South 24 Pargana,2025-10-31,0.8,High
+West Bengal,South 24 Parganas,2025-09-30,2.4318849772703244,High
+West Bengal,South 24 Parganas,2025-10-31,0.7778190830235441,High
+West Bengal,South 24 parganas,2025-10-31,0.0,Low
+West Bengal,South Dinajpur,2025-09-30,2.5671957671957673,High
+West Bengal,South Dinajpur,2025-10-31,1.1942857142857144,High
+West Bengal,South Twenty Four Parganas,2025-09-30,2.9958781362007167,High
+West Bengal,South Twenty Four Parganas,2025-10-31,1.2024721878862794,High
+West Bengal,Uttar Dinajpur,2025-04-30,4.287799182720374,High
+West Bengal,Uttar Dinajpur,2025-05-31,1.8248028283927114,High
+West Bengal,Uttar Dinajpur,2025-09-30,1.7524928863045899,High
+West Bengal,Uttar Dinajpur,2025-10-31,1.149718045112782,High
+West Bengal,West Medinipur,2025-10-31,0.8,High
+West Bengal,West Midnapore,2025-09-30,2.950235849056604,High
+West Bengal,West Midnapore,2025-10-31,2.520123839009288,High
+West Bengal,hooghly,2025-09-30,2.1999999999999997,High
+West Bengal,hooghly,2025-10-31,0.0,Low
+West Bengal,nadia,2025-09-30,1.4,High
+West Bengal,nadia,2025-10-31,0.0,Low
+West bengal,hooghly,2025-09-30,2.0,High
+Westbengal,Hooghly,2025-09-30,2.7,High
+Westbengal,Hooghly,2025-10-31,0.8,High
+andhra pradesh,chittoor,2025-09-30,7.6,High
+andhra pradesh,rangareddi,2025-09-30,4.2,High
